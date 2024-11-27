@@ -1,0 +1,7 @@
+Gemfile.lock
+node_modules
+_site
+.jekyll-cache
+.DS_Store
+.ruby-lsp
+.jekyll-metadata

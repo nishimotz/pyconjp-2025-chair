@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'ja' }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/rouge.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  </head>
+  <body class="flex flex-col min-h-screen">
+    <header class="text-center py-5 bg-gray-100">
+      {% if page.title == 'Home' %}
+        <h1>{{ site.title }}</h1>
+      {% else %}
+        <a href="{{ site.baseurl }}/">
+          <h1>{{ site.title }}</h1>
+        </a>
+      {% endif %}
+    </header>
+    <main class="container mx-auto p-5 pb-12">
+      {% if page.title == 'Home' %}
+        <div class="content-box">
+          {{ content }}
+        </div>
+      {% else %}
+        <h2>{{ page.title }}</h2>
+        <div class="text-center mb-10">{{ page.date | date: '%Y年%m月%d日' }}</div>
+        {{ content }}
+      {% endif %}
+    </main>
+    <footer class="mt-auto text-center py-5 bg-gray-100">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,63 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    @apply text-2xl font-bold p-4;
+}
+
+h2 {
+    @apply text-center text-2xl py-10;
+}
+
+h3 {
+    @apply text-2xl font-bold py-5 mt-12;
+}
+
+ul {
+    @apply list-disc ml-5 mt-4 mb-2 text-base mb-2;
+}
+
+li {
+    @apply text-base py-2 mb-2;
+}
+
+li:not(:first-child) {
+    @apply mt-2;
+}
+
+a {
+    @apply text-blue-900 hover:text-blue-700 underline;
+}
+
+header a {
+    @apply no-underline;
+}
+
+p {
+    @apply leading-loose;
+}
+
+p + p {
+    @apply mt-4;
+}
+
+img {
+    @apply mt-4 max-w-full md:max-w-md;
+}
+
+.content-box {
+    @apply text-center;
+}
+
+.language-html.highlighter-rouge,
+.language-javascript.highlighter-rouge {
+    @apply text-sm bg-rouge-bg p-4 my-8 overflow-x-auto;
+}
+
+blockquote {
+    @apply border-l-4 border-gray-400 pl-4 italic my-4;
+}

@@ -26,7 +26,7 @@ PyCon JP では主に Jira というツールが使われています。
 公開されている運営マニュアルには旧バージョンと新バージョンがあり、それぞれ、Jira の使い方を説明しています。
 
 * [ツールの使いこなし](https://manual.pycon.jp/staff/tool-tips.html) : いわゆる旧バージョンの「PyCon JP 運営マニュアル」
-* [Jira](https://www.atlassian.com/software/jira) : 新しい「ナレッジベース」の記事
+* [Jira](https://pyconjp.atlassian.net/wiki/spaces/pyconjp/pages/846528676/Jira) : 新しい「ナレッジベース」の記事
 
 これらは、過去の PyCon JP の運営に合わせて、あるいは、過去の主催メンバーの経験から書かれ、更新されています。
 

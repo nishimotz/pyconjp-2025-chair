@@ -9,7 +9,11 @@ YouTube 動画 「[桜井政博のゲーム作るには](https://www.youtube.com
 
 例えば [チケットでタスク管理](https://www.youtube.com/watch?v=3OFTUM5uotM) です。
 
-<iframe class="my-5 md:my-8 lg:my-10" width="560" height="315" src="https://www.youtube.com/embed/3OFTUM5uotM?si=nnEimNOJiK1U_azZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="my-5 md:my-8 lg:my-10">
+  <div class="w-full h-96">
+    <iframe class="w-full h-full" src="https://www.youtube.com/embed/3OFTUM5uotM?si=nnEimNOJiK1U_azZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 桜井さんの言葉を借りると、チケットとは、ツールでサーバー上に管理されているデジタルデータであり、作業を「見える化」し、やるべきことを明快にするものです。
 
@@ -21,7 +25,7 @@ PyCon JP では主に Jira というツールが使われています。
 
 公開されている運営マニュアルには旧バージョンと新バージョンがあり、それぞれ、Jira の使い方を説明しています。
 
-* [PyCon JP 運営マニュアル](https://manual.pycon.jp/staff/tool-tips.html) : いわゆる旧バージョンの「ツールの使いこなし」
+* [ツールの使いこなし](https://manual.pycon.jp/staff/tool-tips.html) : いわゆる旧バージョンの「PyCon JP 運営マニュアル」
 * [Jira](https://www.atlassian.com/software/jira) : 新しい「ナレッジベース」の記事
 
 これらは、過去の PyCon JP の運営に合わせて、あるいは、過去の主催メンバーの経験から書かれ、更新されています。

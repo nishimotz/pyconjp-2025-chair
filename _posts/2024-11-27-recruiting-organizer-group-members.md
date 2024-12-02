@@ -62,6 +62,8 @@ PyCon JP 座長は、一般社団法人PyCon JP Associationから任命され、
 
 [PyCon JP Association: PyCon JPイベントの座長と当法人との関係](https://www.pycon.jp/organizer/event-chair.html)
 
+<section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="join-the-pycon-jp-2025-organizing-team">
+
 ## Join the PyCon JP 2025 Organizing Team
 
 This is a draft for the official blog (under review).
@@ -73,3 +75,5 @@ We will recruit enthusiastic individuals to join the organizing team and help sh
 Our team values collaboration, diversity, and mutual support, and we strive to make this process enjoyable and rewarding for everyone involved. Whether you’re based in Hiroshima or elsewhere in Japan, we welcome your unique skills and perspectives as we work together to create an inclusive and memorable PyCon JP 2025.
 
 **Please note**: Applications for organizing team members are currently limited to those residing in Japan.
+
+</section>

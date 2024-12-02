@@ -10,9 +10,9 @@ YouTube 動画 「[桜井政博のゲーム作るには](https://www.youtube.com
 例えば [チケットでタスク管理](https://www.youtube.com/watch?v=3OFTUM5uotM) です。
 
 <div class="my-5 md:my-8 lg:my-10">
-  <div class="w-full h-96">
-    <iframe class="w-full h-full" src="https://www.youtube.com/embed/3OFTUM5uotM?si=nnEimNOJiK1U_azZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+<div class="w-full h-96">
+<iframe class="w-full h-full" src="https://www.youtube.com/embed/3OFTUM5uotM?si=nnEimNOJiK1U_azZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 桜井さんの言葉を借りると、チケットとは、ツールでサーバー上に管理されているデジタルデータであり、作業を「見える化」し、やるべきことを明快にするものです。

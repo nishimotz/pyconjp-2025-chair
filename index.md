@@ -14,3 +14,10 @@ PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人とし�
     </li>
   {% endfor %}
 </ul>
+
+## おまえ誰よ
+
+* [@nishimotz](https://github.com/nishimotz)
+* [aboutme](https://d.nishimotz.com/aboutme)
+
+すこしずつ情報を追加していきます。

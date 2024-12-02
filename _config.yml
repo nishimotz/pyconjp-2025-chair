@@ -6,4 +6,8 @@ description: "PyCon JP 2025 は2025年9月26日・27日に広島で開催され�
 future: true
 plugins:
   - jekyll-postcss
-highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  parse_block_html: true

@@ -7,6 +7,8 @@ PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人とし�
 
 {{ site.description }}
 
+[主催メンバー募集を開始しました。](https://pyconjp.blogspot.com/2024/12/call-for-organizing-members-ja.html)
+
 <ul style="list-style-type: none;" class="ml-0">
   {% for post in site.posts %}
     <li>

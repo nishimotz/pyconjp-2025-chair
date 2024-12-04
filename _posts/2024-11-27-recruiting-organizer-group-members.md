@@ -28,13 +28,13 @@ PythonやPyCon JPは、今日では技術分野を超え、多くの人々に影
 
 せっかくなので、公式ブログのための下書き（レビュー中）の内容を、すこしここで紹介させてください。
 
-主催メンバー申し込みフォームを公開したときには、この記事に追記させてください。
+追記(2024-12-04): [主催メンバー募集を開始しました](https://pyconjp.blogspot.com/2024/12/call-for-organizing-members-ja.html)。
 
 ## 自己紹介
 
 西本卓也 [@nishimotz](https://github.com/nishimotz) です。PyCon JP 2025の座長を務めさせていただきます。これまで私は、広島を拠点に活動し、Pythonで開発された視覚障害者支援技術NVDAの日本語対応や、PyCon mini Hiroshimaの開催などを通じて、Pythonコミュニティの発展に貢献してきました。また広島で開催された RubyKaigi 2017 や YAPC::Hiroshima 2024 でも運営メンバーを経験しました。
 
-## 主催メンバー募集について
+## 主催メンバー募集
 
 PyCon JPはプログラミング言語Pythonについて日本で開催される国際会議です。
 
@@ -65,6 +65,8 @@ PyCon JP 座長は、一般社団法人PyCon JP Associationから任命され、
 <section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="join-the-pycon-jp-2025-organizing-team">
 
 ## Join the PyCon JP 2025 Organizing Team
+
+**Update (2024-12-04):** [Call for Organizing Members of PyCon JP 2025](https://pyconjp.blogspot.com/2024/12/call-for-organizing-members.html)
 
 This is a draft for the official blog (under review).
 

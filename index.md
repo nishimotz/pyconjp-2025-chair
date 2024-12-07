@@ -9,7 +9,9 @@ PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人とし�
 
 [主催メンバー募集を開始しました。](https://pyconjp.blogspot.com/2024/12/call-for-organizing-members-ja.html)
 
-<img src="{{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg" alt="写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている" style="display: block; margin-left: auto; margin-right: auto;">
+<div class="image-center">
+![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg)
+</div>
 
 ## 記事
 

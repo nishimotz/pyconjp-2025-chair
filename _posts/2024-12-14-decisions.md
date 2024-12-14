@@ -15,17 +15,17 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回�
 
 この記事では、判断や決断について考えます。
 
-# 決断には2種類ある
+## 決断には2種類ある
 
 私は Prime Reading で見つけて数年前のお正月に読んだのですが、ジェフ・ベゾスのレターを解説した本
 （[ベゾス・レター：アマゾンに学ぶ14ヵ条の成長原則](https://www.subarusya.jp/book/b487654.html)）にこんな記述があります。
 
-## 1型の決定
+### 1型の決定
 
 * 重大かつ元には戻せない（あるいは戻しづらい）一方通行のドアのような決定
 * 慎重に時間をかけて検討と協議を重ねなければいけない
 
-## 2型の決定
+### 2型の決定
 
 * 変更することも元に戻すこともできる
 * 最善の決定でなかったとわかったら、もういちどやり直せる
@@ -33,7 +33,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回�
 
 この本では決定と言っていますが、以降は「決断」という言葉を使います。
 
-# 終わっている決定
+## 終わっている決定
 
 この分類で考えると、PyCon JP 2025 について、いくつかの「1型の決断」が終わっています。
 
@@ -43,7 +43,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回�
 
 この決定は一般社団法人 PyCon JP Association が行いました。
 
-# パーティに関する判断
+## パーティに関する判断
 
 広島国際会議場を使うカンファレンスに関わるのは3回目なので、座長が決まる前から、
 私は施設や行政の誘致担当の人と話をしています。
@@ -70,7 +70,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回�
 
 他にはもっと恵まれている地域があるかも知れませんが。。
 
-## いまは座長が決める
+### いまは座長が決める
 
 ここで書いたことは、主催メンバーを早く組織化して任せたい、と思っているわけではありません。
 
@@ -80,7 +80,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回�
 
 とはいえ、今月中に開催する主催メンバー勉強会で、関連する発言や提案があれば、尊重します。
 
-# 公平性と多様性に向き合う
+## 公平性と多様性に向き合う
 
 パーティの話をしたので、別の論点を提供させてください。
 
@@ -112,7 +112,7 @@ PyCon JP 2024 で主催メンバーとして仕事をしていたとき、
 
 私には私の思いがあり、個人情報保護法や障害者差別解消法などの知見もあり、頼れる人も身近にいるので、責任を持って判断をします。
 
-# 取り組んできたことの意味を考える
+## 取り組んできたことの意味を考える
 
 PyCon JP の[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)は、差別やハラスメントを禁止しています。
 
@@ -129,7 +129,7 @@ PyCon JP の[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)�
 
 あるいは「公平性と多様性のためにできること」を、主催メンバーひとりひとりが、現場で自分の判断で行えるかも知れません。
 
-# 喫煙ブースと受動喫煙対策
+## 喫煙ブースと受動喫煙対策
 
 多様性や権利の文脈で話題になりやすいのは喫煙者、あるいは受動喫煙を避けたい人への対応です。
 
@@ -143,7 +143,7 @@ PyCon JP の[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)�
 
 このようなことを、私はときどき考え、排除してしまった人に対して申し訳ないと思いつつ、せめて説明責任は果たすつもりです。
 
-# 決断と座長
+## 決断と座長
 
 主催メンバーのみなさんには、どう決断していいのか、自分で決断していいのか、誰に決断をしてもらえばいいのか、わからない、ということがあると思います。
 
@@ -176,7 +176,7 @@ YouTube 動画 「[桜井政博のゲーム作るには](https://www.youtube.com
 
 <section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="decision-making-and-inclusivity-in-pycon-jp-2025">
 
-# Decision-Making and Inclusivity in PyCon JP 2025
+## Decision-Making and Inclusivity in PyCon JP 2025
 
 This article reflects on the thoughts of the Chair of PyCon JP 2025 regarding decision-making and inclusivity. Two organizing member study sessions are scheduled for December 17 and 20 to provide opportunities for discussions and collaboration.  
 

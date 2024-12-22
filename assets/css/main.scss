@@ -21,6 +21,10 @@ ul {
     @apply list-disc ml-5 mt-4 mb-2 text-base mb-2;
 }
 
+ol {
+    @apply list-decimal ml-5 mt-4 mb-2 text-base mb-8;
+}
+
 li {
     @apply text-base py-2 mb-2;
 }

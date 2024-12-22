@@ -17,7 +17,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第5回�
 ヒロは広島で暮らすサッカー好きの少年という設定でお送りします。
 
 <div class="image-center">
-![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/child_and_mother.webp)
+![イラスト ヒロとママが夕食時に話している]({{ site.baseurl }}/assets/images/child_and_mother.webp)
 </div>
 
 ## ある日の夕食時

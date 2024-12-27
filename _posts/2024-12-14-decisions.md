@@ -174,7 +174,7 @@ YouTube 動画 「[桜井政博のゲーム作るには](https://www.youtube.com
 </div>
 </div>
 
-<section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="decision-making-and-inclusivity-in-pycon-jp-2025">
+{% include en_begin.html id="decision-making-and-inclusivity-in-pycon-jp-2025" %}
 
 ## Decision-Making and Inclusivity in PyCon JP 2025
 
@@ -188,4 +188,4 @@ Guidelines for decision-making are also provided to assist organizing members. T
 
 PyCon JP 2025 aspires to create a fair and diverse event through collaboration and thoughtful decision-making, fostering a positive and inclusive experience for all participants.  
 
-</section>
+{% include en_end.html %}

@@ -96,7 +96,7 @@ PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第5回�
 
 **ママ:** そうね！もし興味があるなら、[PyCon JP 2025 主催メンバー申し込みフォーム](https://forms.gle/7irqYKhZVj7AY7LfA)を見るといいわよ。未成年者の応募には、保護者の同意が必要な場合があるから、確認しておくといいわね。
 
-<section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="conversation-between-a-boy-and-his-mom">
+{% include en_begin.html id="conversation-between-a-boy-and-his-mom" %}
 
 ## Conversation Between a Boy and His Mom
 
@@ -113,4 +113,5 @@ Hiro, a fictional boy from Hiroshima, discusses PyCon JP 2025 with his mom over 
 - **Create memories:** Working together leaves lasting, joyful memories.
 
 The conversation also emphasizes how beginner involvement can benefit PyCon JP itself by introducing fresh perspectives, attracting a broader audience, and creating a more vibrant environment.
-</section>
+
+{% include en_end.html %}

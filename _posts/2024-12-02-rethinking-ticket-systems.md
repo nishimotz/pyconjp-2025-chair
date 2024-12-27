@@ -145,7 +145,7 @@ PyCon JP の運営マニュアルでは、チケットには「なにをする�
 
 技術カンファレンスを作り上げる過程そのものが、私たちにとって価値のある経験となるように。そんな思いを込めて、この改善に取り組んでいきます。
 
-<section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="beyond-ticket-deadlines-a-human-centric-approach-to-conference-organization">
+{% include en_begin.html id="beyond-ticket-deadlines-a-human-centric-approach-to-conference-organization" %}
 
 ## Beyond Ticket Deadlines: A Human-Centric Approach to Conference Organization
 
@@ -183,4 +183,4 @@ This blog post by the Chair of PyCon JP 2025 discusses the challenges and philos
 
 The post emphasizes creating a supportive environment where volunteers can contribute meaningfully while maintaining work-life balance and avoiding the common pitfalls of formal project management systems.
 
-</section>
+{% include en_end.html %}

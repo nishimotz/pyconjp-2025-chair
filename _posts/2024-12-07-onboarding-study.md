@@ -71,7 +71,7 @@ PyCon JP 2025の主催メンバー勉強会では、日本語と英語のバイ�
 
 これらの取り組みを通じて得られる経験を、カンファレンス本番での言語サポートの改善にも活かしていきたいと考えています。
 
-<section lang="en" class="my-5 md:my-8 lg:my-10" aria-labelledby="planning-study-sessions-for-pycon-jp-2025">
+{% include en_begin.html id="planning-study-sessions-for-pycon-jp-2025" %}
 
 ## Planning Study Sessions for PyCon JP 2025
 
@@ -89,4 +89,5 @@ Second, we will experiment with machine translation tools to support online comm
 
 We hope to apply the insights gained through these initiatives to improve language support for the main conference as well.
 
-</section>
+{% include en_end.html %}
+

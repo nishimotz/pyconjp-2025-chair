@@ -69,3 +69,7 @@ blockquote {
 .image-center p img {
     @apply block mx-auto mt-8 mb-8;
 }
+
+div.highlight {
+    @apply bg-rouge-bg p-4 overflow-x-auto;
+}

@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'ja' }}">
+<html lang="{{ page.lang | default: site.lang | default: 'ja' }}">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ page.title }} - 
+      {% if page.lang == 'en' %}
+        {{ site.data.titles.en.site_title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/rouge.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
@@ -15,9 +21,19 @@
       {% else %}
         <a href="{{ site.baseurl }}/">
           <h1>
-            {{ site.title }}
+            {% if page.lang == 'en' %}
+              {{ site.data.titles.en.site_title }}
+            {% else %}
+              {{ site.title }}
+            {% endif %}
             <span class="fas fa-home ml-2" aria-hidden="true"></span>
-            <span class="sr-only">ホームに戻る</span>
+            <span class="sr-only">
+              {% if page.lang == 'en' %}
+                Back to Home
+              {% else %}
+                ホームに戻る
+              {% endif %}
+            </span>
           </h1>
         </a>
       {% endif %}
@@ -29,7 +45,13 @@
         </div>
       {% else %}
         <h2>{{ page.title }}</h2>
-        <div class="text-center mb-10">{{ page.date | date: '%Y年%m月%d日' }}</div>
+        <div class="text-center mb-10">
+          {% if page.lang == 'en' %}
+            {{ page.date | date: site.data.date_formats.date_format['en'] }}
+          {% else %}
+            {{ page.date | date: site.data.date_formats.date_format['ja'] }}
+          {% endif %}
+        </div>
         {{ content }}
       {% endif %}
     </main>

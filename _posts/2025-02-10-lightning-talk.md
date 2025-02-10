@@ -3,6 +3,8 @@ title: Python と PyCon JP を自分事にしてきた歴史
 layout: default
 ---
 
+[**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/02/10/lightning-talk-en.html)
+
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報の第10回です。
 
 [PyCon JP 2025](https://2025.pycon.jp/) は9月26日・27日に広島国際会議場で開催されます。

@@ -11,6 +11,14 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 
 なお、現在、主催メンバーの応募は日本国内在住の方に限らせていただいております。
 
+## この記事について
+
+2025年2月8日 PyCon mini Shizuoka でのライトニングトークの内容を公開します。
+
+<script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/5XEGGN/embed" data-aspect="0.5625"></script><div class="docswell-link"><a href="https://www.docswell.com/s/nishimotz/5XEGGN-2025-02-08-174547">PyCon JP 2025 座長のLT by @nishimotz</a></div>
+
+会場や懇親会などでお話をして「広島に行きます」「広島に行かないつもりでしたが、行きたくなりました」という声をいただいて、嬉しく思っています。
+
 ## PyCon JP 2025 現在の活動状況
 
 主催メンバーの皆さんとオンラインホワイトボードを使ったグループワークを実施してきました。

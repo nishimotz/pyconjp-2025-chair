@@ -13,7 +13,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 
 ## この記事について
 
-2025年2月8日 PyCon mini Shizuoka でのライトニングトークの内容を公開します。
+[2025年2月8日 PyCon mini Shizuoka](https://shizuoka.pycon.jp/2024-continue/info) でのライトニングトークの内容を公開します。
 
 <script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/5XEGGN/embed" data-aspect="0.5625"></script>
 
@@ -51,24 +51,24 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - いま Python はどのように学ばれているか、どのように使われているか、過去の PyCon JP にとらわれずに理解する
 - 一方で、PyCon JP の歴史も振り返る
 
-PyCon JP の歴史を振り返ると、私が Python と PyCon JP を「自分事」にしてきた歴史だったと改めて感じています。
+[PyCon JP の歴史](https://www.pycon.jp/organizer/)を振り返ると、私が Python と PyCon JP を「自分事」にしてきた歴史だったと改めて感じています。
 
 ## 私とPyCon JPの関わり
 
 ### 初期の活動（2011-2015）
 
-最初はオープンソースのスクリーンリーダー NVDA (Non Visual Desktop Access) の日本語化のために、Python をもっと深く学ぼうと頑張っていました。
+最初はオープンソースのスクリーンリーダー [NVDA (Non Visual Desktop Access)](https://www.nvaccess.org/) の日本語化のために、Python をもっと深く学ぼうと頑張っていました。
 
 - 2011年1月：PyCon mini JPに参加、スクリーンリーダーNVDAの日本語対応について発表
-- 2012年：PyCon JP併設イベントでNVDAの本格的な日本語化のキックオフを実施
+- 2012年：[PyCon JP併設イベント](https://workshop.nvda.jp/)でNVDAの本格的な日本語化のキックオフを実施
   - オーストラリアからNVDA開発者のMichael Curran氏を招聘
-  - ライトニングトークにも登壇（YouTubeに記録あり）
+  - [ライトニングトークにも登壇（YouTubeに記録あり）](https://www.youtube.com/live/FDOrCsJ76lM?si=8bdcj2gjTApguA56&t=411)
 
 ### 広島での活動（2015-）
 
 広島でイベントを開催するために PyCon JP 参加者の皆さんともっと深く関わりを持ちたいと考えて、東京に通いはじめました。
 
-- 2015年：PyCon mini Hiroshimaの開催を開始
+- 2015年：[PyCon mini Hiroshimaの開催を開始](https://hiroshima.pycon.jp/2015/)
 - 2016-2019：4年連続でPyCon JPに参加
 - 2018年：広島からの発表「Pythonでお絵かきパズルを解いてみた」が採択
 

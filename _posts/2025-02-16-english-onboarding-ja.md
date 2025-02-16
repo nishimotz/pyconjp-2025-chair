@@ -3,7 +3,7 @@ title: 海外在住者向け主催メンバー研修会
 layout: default
 ---
 
-[**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/02/16/english-onboarding-en.html)
+[**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/02/16/english-onboarding.html)
 
 PyCon JP 2025 座長の日報、第11回の記事です。
 

@@ -34,19 +34,29 @@ Please note that this does not fully reflect the commitments of this year's chai
 - Finalize the time and usage of the venue.
 - Decide on policies for proposal submissions, etc.
 - Create a budget plan.
+- Send invitations for keynote, invited talks, and tutorials.
+- Consider requesting endorsements from government agencies.
+- Hold the organizing members kickoff.
 
-### April to May 2025
+### April 2025
 
+- Finalize keynote, invited talks, and tutorials.
 - Start call for speakers.
 - Decide on the number of tracks and timetable slots.
-- Decide on sponsorship recruitment policies.
-- Decide on designs such as logos.
+- Decide on sponsorship recruitment policies and hold sponsorship information sessions.
+- Decide on the design of logos and other items.
+- Prepare for ticket sales.
+
+### May 2025
+
+- Start sponsorship recruitment.
+- Proceed with preparations for website launch.
 - Proceed with preparations for ticket sales.
+- Proceed with preparations for talk selection.
 
 ### June 2025
 
 - Launch the website.
-- Start sponsorship recruitment.
 - Start ticket sales.
 - Select talks.
 - Consider planning for events other than talks.
@@ -101,3 +111,8 @@ PyCon JP 2025 will become an even more wonderful event with everyone's enthusias
 Now, let's create a memorable PyCon JP 2025 together!
 
 If you are interested in joining us, please share your passionate thoughts through the [Organizer Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
+
+## Update History
+
+- 2025-01-27: First version
+- 2025-02-20: Second version

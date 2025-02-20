@@ -3,7 +3,7 @@ title: PyCon JP 2025 のアクションアイテム
 layout: default
 ---
 
-[read in English](https://pyconjp-2025-chair.nishimotz.com/2025/01/27/action-items-en.html)
+[**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/01/27/action-items-en.html)
 
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報の第8回です。
 

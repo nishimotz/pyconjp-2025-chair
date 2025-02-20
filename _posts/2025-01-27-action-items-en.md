@@ -12,8 +12,6 @@ This is the 8th edition of the daily report published personally by [@nishimotz]
 
 We look forward to receiving your applications via the [PyCon JP 2025 Organizing Member Application Form (Google Form)](https://forms.gle/7irqYKhZVj7AY7LfA).
 
-Please note that currently, applications for organizing members are limited to those residing in Japan.
-
 ## Action Items
 
 Through the chair's provisional team working days and organizing member study sessions, we have begun to create action items and schedule drafts for PyCon JP 2025 in cooperation with the organizing members.

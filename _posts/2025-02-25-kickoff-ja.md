@@ -1,5 +1,6 @@
 ---
 title: PyCon JP 2025 主催メンバー研修会資料
+layout: default
 ---
 
 ## 座長からのお願い

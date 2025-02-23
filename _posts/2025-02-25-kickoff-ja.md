@@ -16,7 +16,7 @@ layout: default
 
 - [PyCon JPプライバシーポリシー](https://www.pycon.jp/policies/privacy-policy.html)を制定しています。
 - 主催メンバー申込者は反社会的勢力との関係がないことを確認済みです。  
-- すべての参加者が安全に楽しめる環境を整えるために、[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)を制定しています。
+- すべての参加者が安全に楽しめる環境を整えるために、[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)を制定しています。座長はこの行動規範を尊重し、主催メンバーの活動において不適切行為の防止に努めます。
 
 ### セキュリティ
 

@@ -13,8 +13,8 @@ title: PyCon JP 2025 主催メンバー研修会資料
 
 ## 倫理的かつ責任ある行動
 
-- [PyCon JPプライバシーポリシー](https://www.pycon.jp/policies/privacy-policy.html)を理解する。  
-- 反社会的勢力との関係がないことを確認済みです。  
+- [PyCon JPプライバシーポリシー](https://www.pycon.jp/policies/privacy-policy.html)を制定しています。
+- 主催メンバー申込者は反社会的勢力との関係がないことを確認済みです。  
 - すべての参加者が安全に楽しめる環境を整えるために、[行動規範](https://www.pycon.jp/policies/code-of-conduct.html)を制定しています。
 
 ### セキュリティ

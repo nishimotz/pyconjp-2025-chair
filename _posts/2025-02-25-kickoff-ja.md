@@ -3,7 +3,7 @@ title: PyCon JP 2025 主催メンバー研修会資料
 layout: default
 ---
 
-[English version](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-en.html)
+- [**English version**](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-en.html)
 
 ## 座長からのお願い
 

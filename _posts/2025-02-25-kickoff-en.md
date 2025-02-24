@@ -4,7 +4,7 @@ layout: default
 lang: en
 ---
 
-[Japanese version](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-ja.html)
+- [**Japanese version**](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-ja.html)
 
 ## Encouraging a Positive Experience
 

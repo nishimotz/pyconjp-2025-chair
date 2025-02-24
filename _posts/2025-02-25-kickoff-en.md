@@ -10,9 +10,9 @@ lang: en
 
 - Prioritize Your Well-Being  
   - Avoid overexertion and maintain a healthy balance between event responsibilities and personal rest.  
-- Stay Healthy  
-  - Look after both your physical and mental health so you can arrive in Hiroshima feeling your best.  
-- Have Fun  
+- Stay Healthy Physically
+  - Look after your physical health so you can arrive in Hiroshima feeling your best.  
+- Have Fun
   - Embrace the enjoyment of your role; a positive and enthusiastic mindset will benefit both you and the event.
 
 ## Acting Ethically and Responsibly

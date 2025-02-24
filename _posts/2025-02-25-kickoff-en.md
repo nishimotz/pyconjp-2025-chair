@@ -52,7 +52,7 @@ lang: en
 - Offer inclusive choices proactively  
 - Clearly label ingredients  
 - We will proactively discuss requests beyond meals (e.g., coffee, beer, or allergy accommodations).  
-- Beyond food and beverages, we will remain vigilant to ensure that individuals with particular cultural backgrounds are not inadvertently excluded.
+- We will make sure that people from different cultural backgrounds feel included, not just in terms of food and drinks.
 
 ### Additional Accommodations
 

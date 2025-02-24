@@ -19,7 +19,7 @@ lang: en
 
 - Understand the [PyCon JP Privacy Policy](https://www.pycon.jp/policies/privacy-policy.html) (sorry, only in Japanese)  
 - You have confirmed that you are not affiliated with any anti-social organizations.  
-- We have established a [Code of Conduct](https://www.pycon.jp/policies/code-of-conduct.html) to ensure a safe and enjoyable environment for all participants.
+- We have established a [Code of Conduct](https://www.pycon.jp/policies/code-of-conduct.html) to ensure a safe and enjoyable environment for all participants. The chairperson respects this code of conduct and strives to prevent inappropriate behavior in the activities of organizing members.
 
 ### Security
 

@@ -10,7 +10,7 @@ This is my tenth daily report, where I share my personal insights and experience
 
 [We are currently recruiting organizing members.](https://forms.gle/7irqYKhZVj7AY7LfA)
 
-Please note that currently, applications for organizing members are limited to residents of Japan.
+We accept applications for organizing members from outside of Japan, but please apply with the understanding that travel grants cannot be guaranteed. (changed on 2025-02-26)
 
 ## About this article
 

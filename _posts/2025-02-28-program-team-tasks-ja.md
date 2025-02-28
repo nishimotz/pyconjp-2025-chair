@@ -3,6 +3,8 @@ title: プログラムチームの3月のタスク
 layout: default
 ---
 
+[**English version is available here**](https://pyconjp-2025-chair.nishimotz.com/2025/02/28/program-team-tasks-en.html)
+
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
 
 [PyCon JP 2025](https://2025.pycon.jp/) は9月26日・27日に広島国際会議場で開催されます。

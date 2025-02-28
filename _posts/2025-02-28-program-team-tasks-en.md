@@ -12,8 +12,6 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 
 We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
 
-## March Tasks for the Program Team
-
 <div class="image-center">
 ![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)
 </div>
@@ -122,7 +120,7 @@ The Chair team will primarily coordinate the following tasks between the Program
 - **Distributed materials and venue displays** - Venue Team
 - **Budget and accounting** - Chair Team
 
-The Chair team will support coordination between the Program Team and Participant Management Team for the following:
+The Chair team will support coordination between the Program Team and **Participant Management Team** for the following:
 
 - Confirming that speakers have purchased tickets and are properly registered
 - Handling cases where speakers have applied for travel support

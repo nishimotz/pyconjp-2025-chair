@@ -10,6 +10,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 [PyCon JP 2025](https://2025.pycon.jp/) は9月26日・27日に広島国際会議場で開催されます。
 
 主催メンバーを募集しています。[主催メンバー申し込みフォーム](https://forms.gle/7irqYKhZVj7AY7LfA)からご応募ください。
+国外にお住まいの方からのご応募も受け付けておりますが、旅費補助については保証できないことをご了承ください。
 
 <div class="image-center">
 ![イラスト カレンダーやタスクリストやミーティングの様子]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)

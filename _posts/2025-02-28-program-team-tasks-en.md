@@ -11,6 +11,7 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 [PyCon JP 2025](https://2025.pycon.jp/) will be held at Hiroshima International Conference Center on September 26-27.
 
 We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
+We are also accepting applications from overseas members, but please note that we cannot guarantee travel expenses.
 
 <div class="image-center">
 ![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)

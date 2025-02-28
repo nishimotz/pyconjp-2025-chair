@@ -40,12 +40,53 @@ We will plan tutorial sessions to be held on the day before or during the confer
 
 ### 4. Preparing for Call for Proposals (CFP)
 
-In preparation for the CFP starting in April, we will:
+In preparation for the CFP starting in April, we will make the following preparations. Last year's CFP opened on April 23 and closed on May 31. We anticipate a similar schedule this year.
 
-- Design the CFP submission form
-- Establish review criteria
-- Consider track themes
+#### CFP Platform Setup
+
+- Set up Pretalx as the submission platform
+- Configure the submission form with all necessary fields
+- Test the submission process to ensure it works smoothly
+
+#### Proposal Types and Tracks
+
+- Determine the types of proposals to solicit (regular talks, mini-talks, posters, etc.)
+- Define track themes (e.g., libraries, Python core, Python practices)
 - Determine the timetable framework (talk duration, number of tracks, etc.)
+
+#### Review Process and Criteria
+
+- Establish review criteria based on last year's standards:
+  1. Relevance: Is the content related to the Python community?
+  2. Clarity: Is the talk content clearly written?
+  3. Expertise: Is the content based on personal experience or specialized knowledge?
+  4. Practicality: Is the content interesting or useful?
+- Set up the review team and process
+- Determine the selection rate (historically 20-40%)
+
+#### Submission Requirements
+
+- Define required information for submissions:
+  - Title and proposal type
+  - Track category
+  - Summary (character limit)
+  - Detailed description
+  - Target audience and experience level
+  - Presentation language
+  - Speaker information and additional speakers
+  - Materials to be used
+  - T-shirt size and other logistical information
+
+#### Multilingual Support
+
+- Consider multilingual support (accepting submissions in Japanese and English)
+- Prepare for translation needs during the review process
+
+#### CFP Announcement and Promotion
+
+- Create CFP announcement text for the blog and social media
+- Prepare guidance for potential speakers, including tips for successful proposals
+- Plan promotion strategy to reach diverse speaker groups
 
 ### 5. Planning the Development Sprint
 
@@ -62,6 +103,30 @@ We will consider how to implement poster sessions and lightning talks.
 - Deciding on the format and time slots
 - Considering application methods and selection processes
 - Confirming necessary equipment and space
+
+### 7. Planning for Simultaneous Interpretation
+
+We will plan for arranging simultaneous interpretation for keynote sessions.
+
+- Determining the necessary languages and number of interpreters
+- Researching and requesting quotes from interpretation service providers
+- Confirming the need for interpretation equipment
+
+### 8. Planning Opening and Closing Ceremonies
+
+We will begin planning for ceremonies that mark the beginning and end of the conference.
+
+- Considering the content and flow of ceremonies
+- Selecting necessary speakers and MCs
+- Planning for preparation of materials and videos to be used
+
+### 9. Establishing a Presenter Management System
+
+We will establish systems and processes to efficiently manage speakers and session presenters.
+
+- Determining methods for managing presenter information
+- Developing communication plans with presenters
+- Considering reception and guidance processes for the event day
 
 ## Future Schedule
 

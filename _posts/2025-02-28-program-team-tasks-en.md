@@ -123,7 +123,7 @@ The Chair team will primarily coordinate the following tasks between the Program
 
 The Chair team will support coordination between the Program Team and **Participant Management Team** for the following:
 
-- Confirming that speakers have purchased tickets and are properly registered
+- Confirming that speakers have purchased tickets and are properly registered. However, the method and price for speaker tickets are subject to discussion.
 - Handling cases where speakers have applied for travel support
 - Handling cases where speakers from outside Japan require VISA assistance
 - Managing reception at the venue on the day of the event

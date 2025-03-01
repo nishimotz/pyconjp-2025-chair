@@ -53,15 +53,12 @@ In 2024, the CFP started on April 23 and closed on May 31, but we would like to 
 - To eliminate bias as much as possible in the selection process, we will ensure fairness by measures such as masking applicant names until necessary.
 - We published the 2024 selection process in [Behind the Proposal Selection](https://pyconjp.blogspot.com/2024/08/2024-behinde-selection.html). This publication helps increase transparency in the selection process.
 - While considering transparency and fairness, we will also explore ways to meet community needs, such as soliciting talks related to the host city.
-
 - We will create guidelines to announce during the application period. In 2024, the blog announcement stated: [There are no strict rules for presentation themes. If you think it's interesting for Pythonistas, please apply](https://pyconjp.blogspot.com/2024/05/share-your-python-experience-at-pyconjp2024.html).
-
 - We will create review criteria to announce during the application period. The following are the review criteria announced in 2024:
   1. Relevance: Is the content related to the Python community?
   2. Clarity: Is the talk content clearly written?
   3. Expertise: Is the content based on personal experience or specialized knowledge?
   4. Practicality: Is the content interesting or useful?
-
 - We will create a post-acceptance workflow (handling withdrawals, supporting accepted speakers, etc.)
 
 #### Required Information for Submissions

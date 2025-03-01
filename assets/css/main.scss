@@ -21,20 +21,24 @@ h4 {
     @apply text-xl py-2 mt-12;
 }
 
+ul, ol {
+    @apply ml-5 my-4 text-base;
+}
+
 ul {
-    @apply list-disc ml-5 mt-4 mb-2 text-base mb-2;
+    @apply list-disc;
 }
 
 ol {
-    @apply list-decimal ml-5 mt-4 mb-2 text-base mb-8;
+    @apply list-decimal;
 }
 
 li {
-    @apply text-base py-2 mb-2;
+    @apply mb-2;
 }
 
-li:not(:first-child) {
-    @apply mt-2;
+li > ul, li > ol {
+    @apply my-2;
 }
 
 a {

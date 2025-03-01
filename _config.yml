@@ -2,7 +2,7 @@ url: "https://pyconjp-2025-chair.nishimotz.com/"
 baseurl: ""
 title: "PyCon JP 2025 座長の日報"
 author: "nishimotz"
-description: "PyCon JP 2025 は2025年9月26日・27日に広島で開催されます。"
+description: "PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人として公開する日報です。"
 future: true
 plugins:
   - jekyll-postcss

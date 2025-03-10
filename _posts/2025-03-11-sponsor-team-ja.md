@@ -11,7 +11,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 主催メンバーを募集しています。[主催メンバー申し込みフォーム](https://forms.gle/7irqYKhZVj7AY7LfA)からご応募ください。
 
 <div class="image-center">
-![イラスト カレンダーやタスクリストやミーティングの様子]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)
+![イラスト カレンダーやタスクリストやミーティングの様子]({{ site.baseurl }}/assets/images/organizing_members_image.jpg)
 </div>
 
 スポンサーチームの活動方針とタスクをまとめました。

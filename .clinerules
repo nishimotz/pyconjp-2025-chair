@@ -1,0 +1,53 @@
+# Cline Rules for PyCon JP 2025 Chair's Blog
+
+## File Structure
+- All blog posts should be placed in the `_posts` directory
+- Follow Jekyll's naming convention: `YYYY-MM-DD-title.md` for all posts
+- Use `-ja` suffix for Japanese posts and `-en` suffix for English posts when creating paired content
+
+## Frontmatter
+- Japanese posts should include:
+  ```yaml
+  ---
+  title: [Japanese title]
+  layout: default
+  permalink: /[slug]-ja.html
+  ---
+  ```
+
+- English posts should include:
+  ```yaml
+  ---
+  lang: en
+  title: [English title]
+  layout: default
+  permalink: /[slug]-en.html  # Optional
+  ---
+  ```
+
+## Content Guidelines
+- Start Japanese posts with: "PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。"
+- Include event information: "[PyCon JP 2025](https://2025.pycon.jp/) は9月26日・27日に広島国際会議場で開催されます。"
+- Include recruitment information when appropriate: "主催メンバーを募集しています。[主催メンバー申し込みフォーム](https://forms.gle/7irqYKhZVj7AY7LfA)からご応募ください。"
+- Use `<div class="image-center">` for centered images
+- End posts with an update history section:
+  ```markdown
+  ## 更新履歴
+  - YYYY-MM-DD: 初版公開
+  ```
+
+## Markdown Formatting
+- Use ATX-style headers (`#` for h1, `##` for h2, etc.)
+- Use link references in the format `[text](url)`
+- Use image references in the format `![alt text]({{ site.baseurl }}/assets/images/image.webp)`
+- Place all images in the `assets/images/` directory
+
+## Translation Guidelines
+- When creating content in both languages, ensure the core information is consistent
+- Adapt content for cultural context rather than providing literal translations
+- Create separate files for each language version
+- Link between language versions when appropriate
+
+## Development Guidelines
+- Test changes locally using `bundle exec jekyll serve --host 0.0.0.0 --incremental`
+- Verify both Japanese and English content displays correctly

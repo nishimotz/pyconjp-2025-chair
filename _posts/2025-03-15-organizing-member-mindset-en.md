@@ -93,7 +93,7 @@ This is a sequel to the previous ["Conversation Between a Boy and His Mother"]({
 
 **Hiro:** Yes, for example, everyone has different food preferences, so we need to prepare food that everyone can eat, including vegetarians and people with allergies.
 
-**Mom:** That's right, consideration is important.
+**Mom:** That's right, it's not just about preferences but also about health and safety concerns, so such consideration is very important.
 
 **Hiro:** Also, we prepare English information for people who don't understand Japanese, and think about childcare services for people with small children. We also consider venue accessibility for wheelchair users.
 

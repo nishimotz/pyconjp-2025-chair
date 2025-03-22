@@ -103,6 +103,7 @@ The following tasks require coordination with other teams:
 - July: Travel support, support for international attendees
 - August: Inquiry response, production of materials, announcements
 - September: Pre-event communications, final preparations, registration, sprint
+- October and later: Reporting on survey results
 
 ## Update History
 

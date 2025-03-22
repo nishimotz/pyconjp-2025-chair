@@ -100,7 +100,7 @@ The following tasks require coordination with other teams:
 
 - April: Determination of ticket types and pricing
 - May: Preparation of ticket sales system
-- June: Launch of ticket sales, design of travel support, preparation for registration
+- June: Launch of ticket sales, design of travel support, preparation for travel support application
 - July: Travel support, support for international attendees
 - August: Inquiry response, production of materials, announcements
 - September: Pre-event communications, final preparations, registration, sprint

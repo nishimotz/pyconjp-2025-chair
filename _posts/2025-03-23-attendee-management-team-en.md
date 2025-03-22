@@ -83,7 +83,7 @@ The following tasks require coordination with other teams:
 
 - Ticket prices and quantities will be determined in coordination with the Chair Team (budget, accounting).
 - The number of party tickets will be determined based on venue constraints.
-- Tutorial implementation will be coordinated with the Program Team.
+- Development sprints and tutorial implementation will be coordinated with the Program Team.
 - Novelties, name badges, and other materials will use designs created by the PR Team.
 - Blog and social media announcements will be coordinated with the PR Team.
 - We will support tasks (mainly for the Venue Team) that require attendee count information.

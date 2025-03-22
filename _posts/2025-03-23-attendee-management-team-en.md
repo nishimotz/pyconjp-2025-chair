@@ -81,7 +81,7 @@ The following are the chair's ideas. The team is welcome to decide whether to ad
 
 The following tasks require coordination with other teams:
 
-- Ticket prices and quantities will be determined in coordination with the Chair Team (budget, accounting).
+- Ticket prices and quantities (including the ticket for organizing members) will be determined in coordination with the Chair Team (budget, accounting). The chair wants to reduce the burden on organizing members.
 - The number of party tickets will be determined based on venue constraints.
 - Development sprints and tutorial implementation will be coordinated with the Program Team.
 - Novelties, name badges, and other materials will use designs created by the PR Team.

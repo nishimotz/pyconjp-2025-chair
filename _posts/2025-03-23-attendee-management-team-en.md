@@ -94,6 +94,7 @@ The following tasks require coordination with other teams:
 - Please actively consider technologies, including those introduced in 2024, to streamline on-site registration.
 - It is desirable to clearly define discount eligibility criteria in advance and ensure that verifications can be carried out reliably.
 - If necessary, we will consider recruiting staff who will only be active the day before or on the day of the event.
+- The Attendee Management Team has a principle that it does not handle money for ticket sales.
 
 ## Upcoming Schedule
 

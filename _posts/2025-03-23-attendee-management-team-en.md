@@ -110,4 +110,4 @@ The following tasks require coordination with other teams:
 ## Update History
 
 - 2025-03-23: Initial publication
-- 2025-03-25: Added information about international attendees
+- 2025-03-26: Added information about international attendees

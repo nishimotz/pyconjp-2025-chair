@@ -87,6 +87,7 @@ The following tasks require coordination with other teams:
 - Novelties, name badges, and other materials will use designs created by the PR Team.
 - Blog and social media announcements will be coordinated with the PR Team.
 - We will support tasks (mainly for the Venue Team) that require attendee count information.
+- It is necessary to grasp how many international attendees are expected to attend (and actually attend) from which countries. This is a task for other teams.
 
 ### Smooth and Fair Operations
 
@@ -109,3 +110,4 @@ The following tasks require coordination with other teams:
 ## Update History
 
 - 2025-03-23: Initial publication
+- 2025-03-25: Added information about international attendees

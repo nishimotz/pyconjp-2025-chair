@@ -26,8 +26,8 @@ We are recruiting organizing members. Please apply through the [Organizing Membe
 The Venue Team consists of the Venue Team and two subgroups:
 
 - **Venue Team**: Venue selection and contracts, layout design, setup and teardown, venue signage, etc.
+- **Food & Beverage Subgroup**: Official party venue arrangements, food and beverage service
 - **Streaming Subgroup**: Audio-visual equipment, lighting, network infrastructure, etc.
-- **Food & Beverage Subgroup**: Official party venue arrangements, food and beverage service, childcare space setup, etc.
 
 ## Tasks
 
@@ -67,23 +67,6 @@ The Venue Team consists of the Venue Team and two subgroups:
 - Childcare space setup (if there are users, already contacted potential vendors)
 - Tutorial venue arrangement (if implemented)
 
-### Streaming Subgroup Tasks
-
-#### Essential Tasks
-- Equipment and supplies procurement
-  - Audio-visual equipment (microphones, speakers, projectors, screens, etc.)
-  - Lighting equipment
-  - Power supplies and extension cords
-- Network infrastructure setup
-  - Considering providing venue's facility WiFi service to participants
-  - Setting up network environment for streaming
-- Coordination with external vendors for streaming and equipment rental
-
-#### Desirable Tasks
-- Streaming environment setup (if online streaming is planned)
-- Recording arrangements (audio and video)
-- Backup equipment preparation
-
 ### Food & Beverage Subgroup Tasks
 
 #### Essential Tasks
@@ -106,6 +89,30 @@ The Venue Team consists of the Venue Team and two subgroups:
 - Introduction and provision of Hiroshima local specialties and famous products
 - Provision of water and tea
 
+## Upcoming Schedule
+
+- May: Create venue usage plans
+- June: Venue site visit, facility usage plan submission
+- July & August: Discuss venue signage
+- September: Day-before setup, day-of operations, teardown, removal, waste disposal
+- October and later: Retrospective, preparation of handover materials for the next event
+
+### Streaming Subgroup Tasks
+
+#### Essential Tasks
+- Equipment and supplies procurement
+  - Application for facility equipment use
+  - Consideration of purchase or rental
+- Network infrastructure setup
+  - Considering providing venue's facility WiFi service to participants
+  - Setting up network environment for streaming
+- Coordination with external vendors for streaming and equipment rental
+
+#### Desirable Tasks
+- Streaming environment setup (if online streaming is planned)
+- Recording arrangements (audio and video)
+- Backup equipment preparation
+
 ## Goals for 2025
 
 ### Team Collaboration
@@ -126,15 +133,11 @@ The following tasks require coordination with other teams:
 - We will create manuals for venue staff to ensure smooth operations on the day of the event.
 - We will consider accessibility to create an environment where everyone can participate comfortably.
 - We will collaborate with local Hiroshima partners to aim for community-rooted operations.
+
+### Effective Resource Utilization
+
 - We will determine waste disposal procedures according to facility instructions and communicate them to all teams.
-
-## Upcoming Schedule
-
-- May: Create venue usage plans
-- June: Venue site visit, preparation for facility usage plan submission
-- July & August: Discuss venue signage
-- September: Day-before setup, day-of operations, teardown, removal, waste disposal
-- October and later: Retrospective, preparation of handover materials for the next event
+- We will strive to minimize food waste.
 
 ## Update History
 

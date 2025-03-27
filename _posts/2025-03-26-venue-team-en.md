@@ -125,6 +125,7 @@ The following tasks require coordination with other teams:
 - Equipment and environment needed for program execution will be coordinated with the Program Team.
 - The content and scale of the official party will be determined in consultation with the Chair Team and the Attendee Management Team.
 - Accessibility accommodations (barrier-free facilities, accessible restrooms, etc.) will be determined in consultation with the Chair Team.
+- Food and beverage services may be included in sponsor packages.
 
 ### Smooth and Comfortable Venue Operations
 

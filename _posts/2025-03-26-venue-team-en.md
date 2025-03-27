@@ -107,6 +107,7 @@ For 2025, we will be holding the event at Hiroshima International Conference Cen
 - Creating a venue that reflects the regional characteristics of Hiroshima
 - Designing traffic flow to promote interaction among attendees
 - Considering initiatives that leverage the venue's proximity to Peace Memorial Park
+- Efficiently providing network infrastructure by utilizing the venue's WiFi service
 
 ### Team Collaboration
 
@@ -126,14 +127,15 @@ The following tasks require coordination with other teams:
 - We will create manuals for venue staff to ensure smooth operations on the day of the event.
 - We will consider accessibility to create an environment where everyone can participate comfortably.
 - We will collaborate with local Hiroshima partners to aim for community-rooted operations.
+- We will determine waste disposal procedures according to facility instructions and communicate them to all teams.
 
 ## Upcoming Schedule
 
-- April: Detailed venue confirmation, creation of layout drafts
-- May: Listing necessary equipment and supplies, obtaining quotes
-- June: Development of traffic flow plans, signage planning
-- July: Contracts with external vendors, confirmation of official party venue
-- August: Finalization of detailed layouts, development of setup plans
+- April: Collaborate with Program Team and Sponsor Team to create venue usage plans
+- May: Collaborate with PR Team to discuss signage and guidance
+- June: Venue site visit, preparation for facility usage plan submission
+- July: Procurement of production materials
+- August: Procurement of production materials
 - September: Day-before setup, day-of operations, teardown
 - October and later: Retrospective, preparation of handover materials for the next event
 

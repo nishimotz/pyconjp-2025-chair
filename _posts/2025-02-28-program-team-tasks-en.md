@@ -127,7 +127,7 @@ The Chair team will support coordination between the Program Team and **Particip
 - Handling cases where speakers from outside Japan require VISA assistance
 - Managing reception at the venue on the day of the event
 
-The Chair team will also support the Program Team in addressing the [guidelines presented in the organizing member general materials](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-en.html).
+The Chair team will also support the Program Team in addressing the [guidelines presented in the organizing member training materials](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-en.html).
 
 ## Tasks for April and Beyond
 

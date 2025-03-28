@@ -22,7 +22,7 @@ We are recruiting organizing members. Please apply through the [Organizing Membe
 
 - Provide information to attendees and handle ticket sales.
 - Manage on-site registration and create an enjoyable environment for attendees.
-- Please refer to the [PyCon JP 2025 Organizing Member general Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html) as a guideline.
+- Please refer to the [PyCon JP 2025 Organizing Member Training Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html) as a guideline.
 
 ## Tasks
 

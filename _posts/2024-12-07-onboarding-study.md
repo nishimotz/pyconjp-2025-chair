@@ -84,7 +84,7 @@ The study sessions consist of two main components. The first part focuses on cor
 
 For the PyCon JP 2025 organizing member study session, we are planning to implement bilingual support starting with feasible measures. Currently, we are considering two main initiatives.
 
-First, we will prepare all basic general materials in both Japanese and English.
+First, we will prepare all basic training materials in both Japanese and English.
 
 Second, we will experiment with machine translation tools to support online communication. While acknowledging the limitations of machine translation accuracy, we aim to position these tools as supplementary support for communication.
 

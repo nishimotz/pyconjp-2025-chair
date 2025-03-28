@@ -52,7 +52,7 @@ Transparent decision-making and integrity towards all stakeholders, including pa
 
 As Chair, nishimotz has experience sponsoring events and conferences as a representative of a small corporation. Many sponsor representatives have multiple options for support. Once they decide to support an event, they respond to requests from organizers despite their busy schedules. They want to receive necessary information at the right time, approach the event day with confidence, and achieve satisfactory results. As Chair, I will support the Sponsor Team to ensure sponsor representatives can have this experience.
 
-It's also important to provide appropriate information and support so that sponsor companies can understand and comply with the code of conduct. Please refer to the [PyCon JP 2025 Organizer general Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html). Let's clearly communicate PyCon JP's values and appropriate ways to interact with participants in advance to create an environment where sponsor companies can participate with confidence.
+It's also important to provide appropriate information and support so that sponsor companies can understand and comply with the code of conduct. Please refer to the [PyCon JP 2025 Organizer Training Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html). Let's clearly communicate PyCon JP's values and appropriate ways to interact with participants in advance to create an environment where sponsor companies can participate with confidence.
 
 ### Sharing the Concept
 

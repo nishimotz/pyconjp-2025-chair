@@ -24,7 +24,7 @@ We are recruiting organizing members. Please apply through the [Organizing Membe
 - Handle all aspects of hardware and facilities.
 - Manage venue selection, layout design, equipment procurement, setup, and teardown.
 - Include food and beverage service, official party planning, and childcare facilities as part of the environment creation.
-- Please refer to the [PyCon JP 2025 Organizing Member general Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html) as a guideline.
+- Please refer to the [PyCon JP 2025 Organizing Member Training Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html) as a guideline.
 
 ## Venue Team Structure
 

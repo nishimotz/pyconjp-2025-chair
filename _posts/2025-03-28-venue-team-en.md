@@ -13,6 +13,10 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 
 We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
 
+<div class="image-center">
+![Venue Team]({{ site.baseurl }}/assets/images/venue-team.png)
+</div>
+
 ## Mission of the Venue Team
 
 - Create a comfortable environment for all attendees.
@@ -165,4 +169,4 @@ The following tasks require coordination with other teams:
 
 ## Update History
 
-- 2025-03-26: Initial publication
+- 2025-03-28: Initial publication

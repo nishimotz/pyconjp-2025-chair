@@ -2,6 +2,7 @@
 title: March Tasks for the Program Team
 layout: default
 lang: en
+team: program
 ---
 
 [**Japanese version is available here**](https://pyconjp-2025-chair.nishimotz.com/2025/02/28/program-team-tasks-ja.html)

@@ -2,6 +2,7 @@
 title: 参加者管理チームのタスク
 layout: default
 permalink: /attendee-management-team-ja.html
+team: attendee-management
 ---
 
 [English version is available here]({{ site.baseurl }}/attendee-management-team-en.html)

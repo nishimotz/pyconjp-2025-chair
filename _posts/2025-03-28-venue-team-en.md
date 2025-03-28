@@ -3,6 +3,7 @@ lang: en
 title: Tasks for the Venue Team
 layout: default
 permalink: /venue-team-en.html
+team: venue
 ---
 
 [日本語版はこちら]({{ site.baseurl }}/venue-team-ja.html)

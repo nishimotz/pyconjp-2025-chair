@@ -1,6 +1,7 @@
 ---
 title: PyCon JP 2025 のコンセプト
 layout: default
+team: general
 ---
 
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報の第7回です。

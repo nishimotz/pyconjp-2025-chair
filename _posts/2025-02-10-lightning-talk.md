@@ -1,6 +1,7 @@
 ---
 title: Python と PyCon JP を自分事にしてきた歴史
 layout: default
+team: chair
 ---
 
 [**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/02/10/lightning-talk-en.html)

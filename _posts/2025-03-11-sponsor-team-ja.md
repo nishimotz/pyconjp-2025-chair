@@ -2,6 +2,7 @@
 title: スポンサーチームのタスク
 layout: default
 permalink: /sponsor-team-ja.html
+team: sponsor
 ---
 
 [**English version is available here**]({{ site.baseurl }}/sponsor-team-en.html)

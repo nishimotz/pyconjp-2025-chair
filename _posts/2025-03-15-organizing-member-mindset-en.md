@@ -3,6 +3,7 @@ lang: en
 title: "Conversation Between a Boy and His Mother: As an Organizing Member"
 layout: default
 permalink: /organizing-member-mindset-en.html
+team: conversation
 ---
 
 [**日本語版はこちら**]({{ site.baseurl }}/organizing-member-mindset-ja.html)

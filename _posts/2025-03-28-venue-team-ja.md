@@ -2,6 +2,7 @@
 title: 会場チームのタスク
 layout: default
 permalink: /venue-team-ja.html
+team: venue
 ---
 
 [English version is available here]({{ site.baseurl }}/venue-team-en.html)

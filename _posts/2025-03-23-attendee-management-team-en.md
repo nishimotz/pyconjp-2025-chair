@@ -3,6 +3,7 @@ lang: en
 title: Tasks for the Attendee Management Team
 layout: default
 permalink: /attendee-management-team-en.html
+team: attendee-management
 ---
 
 [日本語版はこちら]({{ site.baseurl }}/attendee-management-team-ja.html)

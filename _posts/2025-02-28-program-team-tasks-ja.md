@@ -1,6 +1,7 @@
 ---
 title: プログラムチームの3月のタスク
 layout: default
+team: program
 ---
 
 [**English version is available here**](https://pyconjp-2025-chair.nishimotz.com/2025/02/28/program-team-tasks-en.html)

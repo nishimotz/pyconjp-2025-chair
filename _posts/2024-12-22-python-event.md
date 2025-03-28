@@ -1,6 +1,7 @@
 ---
 title: 少年とママの会話
 layout: default
+team: conversation
 ---
 
 PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第5回です。

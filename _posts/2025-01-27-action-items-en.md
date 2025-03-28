@@ -2,6 +2,7 @@
 lang: en
 title: Action Items for PyCon JP 2025
 layout: default
+team: general
 ---
 
 This is the 8th edition of the daily report published personally by [@nishimotz](https://d.nishimotz.com/aboutme), the chair of PyCon JP 2025.

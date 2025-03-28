@@ -1,6 +1,7 @@
 ---
 title: 主催メンバー勉強会を構想する
 layout: default
+team: general
 ---
 
 PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第3回です。
@@ -90,4 +91,3 @@ Second, we will experiment with machine translation tools to support online comm
 We hope to apply the insights gained through these initiatives to improve language support for the main conference as well.
 
 {% include en_end.html %}
-

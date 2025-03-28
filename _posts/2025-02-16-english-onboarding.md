@@ -2,6 +2,7 @@
 lang: en
 title: English Onboarding Session for International Members
 layout: default
+team: general
 ---
 
 This is my eleventh daily report from the Chair of PyCon JP 2025.

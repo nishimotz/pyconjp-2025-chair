@@ -7,3 +7,171 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
+
+// カテゴリーボタンのスタイル
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.category-button {
+  display: block;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  transition: transform 0.2s, box-shadow 0.2s;
+  min-width: 200px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.category-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.category-button strong {
+  display: block;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.category-button small {
+  font-size: 0.875rem;
+  opacity: 0.9;
+}
+
+// 言語別のカラーバリエーション
+.category-button.japanese {
+  background-color: #2563eb; // 青色
+}
+
+.category-button.english {
+  background-color: #16a34a; // 緑色
+}
+
+.category-button.teams {
+  background-color: #9333ea; // 紫色
+}
+
+// 画像センタリング
+.image-center {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+// リストスタイル
+.list-none {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+// マージン
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+// テキスト
+.text-center {
+  text-align: center;
+}
+
+.text-blue-600 {
+  color: #2563eb;
+}
+
+.hover\:underline:hover {
+  text-decoration: underline;
+}
+
+// ブロック要素
+.block {
+  display: block;
+}
+
+// 背景色
+.bg-white {
+  background-color: white;
+}
+
+.hover\:bg-gray-100:hover {
+  background-color: #f3f4f6;
+}
+
+// 角丸
+.rounded {
+  border-radius: 0.25rem;
+}
+
+// 影
+.shadow {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+// テキストサイズ
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+}
+
+// テキストカラー
+.text-gray-500 {
+  color: #6b7280;
+}
+
+// パディング
+.p-4 {
+  padding: 1rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+// フォントウェイト
+.font-semibold {
+  font-weight: 600;
+}
+
+// マージン
+.mt-0 {
+  margin-top: 0;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+// 背景色
+.bg-gray-200 {
+  background-color: #e5e7eb;
+}

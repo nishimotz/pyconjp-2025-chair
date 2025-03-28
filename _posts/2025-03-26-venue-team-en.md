@@ -18,7 +18,7 @@ We are recruiting organizing members. Please apply through the [Organizing Membe
 - Create a comfortable environment for all attendees.
 - Handle all aspects of hardware and facilities.
 - Manage venue selection, layout design, equipment procurement, setup, and teardown.
-- Include food and beverage service, party planning, and childcare facilities as part of the environment creation.
+- Include food and beverage service, official party planning, and childcare facilities as part of the environment creation.
 - Please refer to the [PyCon JP 2025 Organizing Member Training Materials]({{ site.baseurl }}/2025/02/25/kickoff-en.html) as a guideline.
 
 ## Venue Team Structure
@@ -38,17 +38,24 @@ The Venue Team consists of the Venue Team and two subgroups:
   - Application and contract for Hiroshima International Conference Center
   - Securing necessary rooms (main hall, track B venue, sponsor booths, break areas, etc.)
 - Development sprint venue arrangement
-  - The International Conference Center may also be used on Sunday (September 28)
+  - The Hiroshima International Conference Center may also be used on Sunday (September 28)
 - Venue layout design
   - Reviewing venue floor plans and creating floor layouts
   - Determining the purpose of each room
   - Seating arrangements, stage design
   - Sponsor booth layout
+  - Speaker preparation room (in coordination with the Program Team)
+  - Space for PyCon JP Association meetings (in coordination with the Chair Team)
+  - Break room for organizing members
+  - Childcare space (with consideration for security and privacy)
+  - Reception area (including space for name tag arrangement)
+  - Lunch distribution area and designated eating areas
+  - Temporary storage space for sponsor equipment during load-in and load-out
 - Day-of venue setup and teardown
   - Creating setup schedules
   - Staff allocation for setup and teardown
   - Coordination with external vendors (such as delivery companies)
-  - Serving as the point of contact for International Conference Center staff
+  - Serving as the point of contact for Hiroshima International Conference Center staff
 - Venue signage planning
   - Design and installation of venue signage in collaboration with the PR Team
   - Creation of venue maps in collaboration with the PR Team
@@ -64,23 +71,23 @@ The Venue Team consists of the Venue Team and two subgroups:
 - Securing space for book sales and signing sessions (in collaboration with the PR Team)
 
 #### Optional Tasks
-- Childcare space setup (if there are users, already contacted potential vendors)
+- Childcare service provision (if there are users, already contacted potential vendors)
 - Tutorial venue arrangement (if implemented)
 
 ### Food & Beverage Subgroup Tasks
 
 #### Essential Tasks
 - Official party venue arrangement and setup
-  - Likely to be held at the International Conference Center on Saturday evening (September 27)
-  - Expected to be limited to party ticket purchasers
-  - Party capacity to be coordinated with the Attendee Management Team
-  - Converting session venues to party venues (coordination with Program Team required)
+  - Likely to be held at the Hiroshima International Conference Center on Saturday evening (September 27)
+  - Expected to be limited to official party ticket purchasers
+  - Official party capacity to be coordinated with the Attendee Management Team
+  - Converting session venues to official party venues (coordination with Program Team required)
   - Already contacted potential vendors
   - Venue selection and contract
   - Food and beverage arrangements
   - Setup and teardown
 - Food and beverage arrangements
-  - Exploring options such as catering companies for the party, restaurants within the International Conference Center, and other vendors (involvement of people with local knowledge is necessary)
+  - Exploring options such as catering companies for the official party, restaurants within the Hiroshima International Conference Center, and other vendors (involvement of people with local knowledge is necessary)
   - Coffee breaks
   - Lunch arrangements
 
@@ -104,7 +111,7 @@ The Venue Team consists of the Venue Team and two subgroups:
   - Application for facility equipment use
   - Consideration of purchase or rental
 - Network infrastructure setup
-  - Considering providing venue's facility WiFi service to participants
+  - Considering providing venue's Wi-Fi service to participants
   - Setting up network environment for streaming
 - Coordination with external vendors for streaming and equipment rental
 
@@ -119,13 +126,29 @@ The Venue Team consists of the Venue Team and two subgroups:
 
 The following tasks require coordination with other teams:
 
-- Sponsor booth layout will be coordinated with the Sponsor Team.
-- Attendee count information will be coordinated with the Attendee Management Team.
-- Venue signage will be designed in collaboration with the PR Team.
-- Equipment and environment needed for program execution will be coordinated with the Program Team.
-- The content and scale of the official party will be determined in consultation with the Chair Team and the Attendee Management Team.
-- Accessibility accommodations (barrier-free facilities, accessible restrooms, etc.) will be determined in consultation with the Chair Team.
-- Food and beverage services may be included in sponsor packages.
+**Collaboration with the Sponsor Team**
+- Sponsor booth layout design and arrangement
+- Possibility of food and beverage services in sponsor packages
+- Coordination of sponsor equipment load-in and load-out
+
+**Collaboration with the Attendee Management Team**
+- Tracking attendee numbers for seating arrangements
+- Managing official party attendee capacity
+
+**Collaboration with the PR Team**
+- Design and installation of venue signage
+- Creation of venue maps
+- Securing space for book sales and signing sessions
+
+**Collaboration with the Program Team**
+- Setting up equipment and environment needed for program execution
+- Establishing speaker preparation rooms
+- Coordinating the conversion of session venues to official party venues
+
+**Collaboration with the Chair Team**
+- Determining the content and scale of the official party
+- Planning accessibility accommodations (barrier-free facilities, accessible restrooms, etc.)
+- Securing meeting space for PyCon JP Association
 
 ### Smooth and Comfortable Venue Operations
 

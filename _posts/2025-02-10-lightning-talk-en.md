@@ -2,6 +2,7 @@
 lang: en
 title: How Python and PyCon JP Became a Personal Concern
 layout: default
+team: chair
 ---
 
 This is my tenth daily report, where I share my personal insights and experiences as both a passionate Python enthusiast and the Chair of PyCon JP 2025.

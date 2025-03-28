@@ -2,6 +2,7 @@
 title: 少年とママの会話：主催メンバーになって
 layout: default
 permalink: /organizing-member-mindset-ja.html
+team: conversation
 ---
 
 [**English version is available here**]({{ site.baseurl }}/organizing-member-mindset-en.html)

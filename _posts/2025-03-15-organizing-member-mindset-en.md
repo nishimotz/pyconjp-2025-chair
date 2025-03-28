@@ -3,6 +3,7 @@ lang: en
 title: "Conversation Between a Boy and His Mother: As an Organizing Member"
 layout: default
 permalink: /organizing-member-mindset-en.html
+team: conversation
 ---
 
 [**日本語版はこちら**]({{ site.baseurl }}/organizing-member-mindset-ja.html)
@@ -67,9 +68,9 @@ This is a sequel to the previous ["Conversation Between a Boy and His Mother"]({
 
 ## A Few Days Later
 
-**Hiro:** I joined the publicity team. I'm thinking about social media posts and checking website content. I also participated in the [organizing member training session]({{ site.baseurl }}/2025/02/25/kickoff-en.html)!
+**Hiro:** I joined the publicity team. I'm thinking about social media posts and checking website content. I also participated in the [organizing member general session]({{ site.baseurl }}/2025/02/25/kickoff-en.html)!
 
-**Mom:** Training session? What did you learn?
+**Mom:** general session? What did you learn?
 
 **Hiro:** I learned a lot of important things about being an organizing member. Let me tell you what I understood!
 

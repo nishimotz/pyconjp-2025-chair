@@ -1,6 +1,7 @@
 ---
 title: チケットシステムとの付き合い方
 layout: default
+team: general
 ---
 
 PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第2回です。

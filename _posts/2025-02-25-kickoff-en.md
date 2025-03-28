@@ -2,6 +2,7 @@
 title: PyCon JP 2025 Organizing Members Training Materials
 layout: default
 lang: en
+team: training
 ---
 
 - [**Japanese version**](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-ja.html)

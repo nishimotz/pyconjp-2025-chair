@@ -1,6 +1,7 @@
 ---
 title: 決断について
 layout: default
+team: general
 ---
 
 PyCon JP 2025 座長 @nishimotz が個人として公開する日報の第4回です。

@@ -1,6 +1,7 @@
 ---
 title: PyCon JP 2025 のアクションアイテム
 layout: default
+team: general
 ---
 
 [**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/01/27/action-items-en.html)

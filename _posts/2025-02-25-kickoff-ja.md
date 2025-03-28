@@ -1,6 +1,7 @@
 ---
 title: PyCon JP 2025 主催メンバー研修会資料
 layout: default
+team: training
 ---
 
 - [**English version**](https://pyconjp-2025-chair.nishimotz.com/2025/02/25/kickoff-en.html)

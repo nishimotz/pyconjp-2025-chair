@@ -1,6 +1,7 @@
 ---
 title: 主催メンバー募集に向けて
 layout: default
+team: general
 ---
 
 PyCon JP 2025 座長 @nishimotz が個人として公開する日報をはじめます。

@@ -1,6 +1,7 @@
 ---
 title: 海外在住者向け主催メンバー研修会
 layout: default
+team: general
 ---
 
 [**read in English**](https://pyconjp-2025-chair.nishimotz.com/2025/02/16/english-onboarding.html)

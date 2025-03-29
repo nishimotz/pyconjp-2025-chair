@@ -15,7 +15,7 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
 
 <div class="image-center">
-![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)
+![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/program-team-tasks-april-may.png)
 </div>
 
 With about 6 months remaining until PyCon JP 2025, the Program Team now has a leader who will guide the team's activities going forward. This article is shared as a foundation for aligning everyone's understanding of the tasks that the Program Team will be working on from April to May.
@@ -27,6 +27,12 @@ PyCon JP 2025 represents an important step in expanding the Python community bey
 Reflecting the current state where Python is spreading in fields such as education, we welcome the introduction of Python use cases from regional areas and aim to create a venue where Python users from diverse backgrounds can come together.
 
 We aim to create content that first-time participants can enjoy, and our goal is to widely communicate that "PyCon JP is an event where newcomers can enjoy themselves with peace of mind."
+
+Here are our specific goals:
+
+- Encourage past PyCon JP participants to continue attending and contributing
+- Position PyCon JP as a preferred choice for speakers looking for technical conference opportunities
+- Gather content that first-time participants can enjoy, making PyCon JP truly "an event where newcomers can enjoy themselves with peace of mind"
 
 ## Main Program Team Tasks
 
@@ -87,7 +93,7 @@ Featured talks will be held as one of the parallel track sessions. Implementing 
 
 ### Tasks Requiring Inter-Team Coordination
 
-The main Program Team will coordinate with other teams on the following tasks:
+The main Program Team will coordinate with other teams on the following tasks (if a team has not yet been established, the Chair Team will provide support):
 
 - **Coordination with the Venue Team**
   - Sharing session venue requirements
@@ -97,10 +103,7 @@ The main Program Team will coordinate with other teams on the following tasks:
   - Announcing keynote speakers and featured speakers
 
 - **Coordination with the Participant Management Team**
-  - Confirming speaker registration status
-  - Considering methods and pricing for speaker tickets
-  - Responding to travel support applications
-  - Handling VISA assistance for speakers from outside Japan
+  - Announcing travel support to encourage CFP submissions
 
 - **Coordination with the Chair Team**
   - Adjusting budget and accounting matters

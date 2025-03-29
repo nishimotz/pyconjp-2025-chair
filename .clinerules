@@ -42,6 +42,11 @@
 - Use image references in the format `![alt text]({{ site.baseurl }}/assets/images/image.webp)`
 - Place all images in the `assets/images/` directory
 
+## Theme and Concept
+- PyCon JP 2025のスローガンは "pieces of python, coming together" です（まだ公開前）
+- このコンセプトを念頭に置いて、コンテンツを作成してください
+- "Python Circle" というコンセプトは不採用となったため、使用しないでください
+
 ## Translation Guidelines
 - When creating content in both languages, ensure the core information is consistent
 - Adapt content for cultural context rather than providing literal translations

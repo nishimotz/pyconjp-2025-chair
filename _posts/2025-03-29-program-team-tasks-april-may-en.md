@@ -13,7 +13,6 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 [PyCon JP 2025](https://2025.pycon.jp/) will be held at Hiroshima International Conference Center on September 26-27.
 
 We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
-We are also accepting applications from overseas members, but please note that we cannot guarantee travel expenses.
 
 <div class="image-center">
 ![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)
@@ -21,138 +20,129 @@ We are also accepting applications from overseas members, but please note that w
 
 With about 6 months remaining until PyCon JP 2025, the Program Team now has a leader who will guide the team's activities going forward. This article is shared as a foundation for aligning everyone's understanding of the tasks that the Program Team will be working on from April to May.
 
-## The Special Significance of Python 3.14 Release Year
+## Chair's Vision
 
-Python 3.14, scheduled for release in October 2025, is a special version that evokes the important mathematical constant π (pi). PyCon JP 2025, held in Hiroshima during this release year, represents a memorable occasion for the Python community.
+PyCon JP 2025 represents an important step in expanding the Python community beyond Tokyo.
 
-The inaugural hosting in Hiroshima also symbolizes an important step in expanding the Python community beyond Tokyo. We aim to position PyCon JP 2025 as a venue where Python use cases from regional areas and Pythonistas from diverse backgrounds can come together.
+Reflecting the current state where Python is spreading in fields such as education, we welcome the introduction of Python use cases from regional areas and aim to create a venue where Python users from diverse backgrounds can come together.
 
-## April Tasks
+We aim to create content that first-time participants can enjoy, and our goal is to widely communicate that "PyCon JP is an event where newcomers can enjoy themselves with peace of mind."
 
-### 1. Finalizing and Announcing Keynote Speakers
+## Main Program Team Tasks
 
-We will complete the invitations to keynote speaker candidates that began in March and officially confirm them by the end of April.
+### Keynote Speaker Related
 
-- Collecting information from confirmed speakers (profiles, talk outlines, etc.)
-- Preparing to announce the confirmed keynote speakers
-- Collaborating with the PR team to plan website and social media announcements
+- **April**: Finalizing and Announcing Keynote Speakers
+  - Collecting information from confirmed speakers (profiles, talk outlines, etc.)
+  - Preparing to announce the confirmed keynote speakers
+  - Collaborating with the PR team to plan website and social media announcements
 
 In selecting keynote speakers, we aim to consider individuals with diverse perspectives and backgrounds, reflecting the significance of holding the event in Hiroshima.
 
-### 2. Launching the Call for Proposals (CFP)
+### Call for Proposals (CFP) Related
 
-We aim to launch the CFP in the first week of April.
+- **April**: Launching the CFP
+  - Aiming to launch the CFP in the first week of April (however, prioritizing proper preparation over strict adherence to this timeline)
+  - Carefully organizing what needs to be communicated to submitters and ensuring that the concepts and ideals of PyCon JP 2025 are clearly conveyed
+  - Creating guidelines that encourage diverse Python use cases and perspectives to come together
+  - Setting up submission platforms (such as Pretalx) and creating submission forms
+  - Implementing CFP announcements in collaboration with the PR team
 
-#### Designing the CFP Guidelines
+- **May**: Closing the CFP and Review Process
+  - Aiming to close the CFP by the second week of May
+  - Compiling and analyzing submission data, considering deadline extensions if necessary
+  - Selecting and inviting reviewers, finalizing review criteria
+  - Implementing the review process and selecting acceptance candidates
 
-- Creating guidelines that encourage diverse Python use cases and perspectives to come together
-- Considering tracks and themes that emphasize diversity, such as:
-  - Scientific computing and data analysis
-  - Web development and cloud
-  - Machine learning and AI
-  - System operations and DevOps
-  - Education and community
-  - Regional-specific problem solving
-- Explicitly welcoming Python use cases from Hiroshima and other regional areas
-- Encouraging mathematical and scientific topics related to Python 3.14 (π)
+Here are some potential themes we are considering for the CFP:
+- Scientific computing and data analysis
+- Web development and cloud
+- Machine learning and AI
+- System operations and DevOps
+- Education and community
+- Regional-specific problem solving
 
-#### Setting Up the Submission Platform
+We will also explicitly welcome Python use cases from Hiroshima and other regional areas, and encourage mathematical and scientific topics related to Python 3.14 (π).
 
-- Configuring submission platforms such as Pretalx
-- Creating submission forms and setting up required fields
-- Preparing to accept submissions in both Japanese and English
-
-#### Announcing and Promoting the CFP
-
-- Implementing CFP announcements in collaboration with the PR team
-- Creating announcement text for blogs and social media
-- Providing guidance for potential speakers (tips for successful proposals, etc.)
-- Implementing promotion strategies to reach diverse speaker groups
-
-### 3. Considering and Inviting Featured Talks
-
-After finalizing keynote speakers, we will consider and invite featured talks as needed.
-
-- Creating and prioritizing a list of candidates for featured talks
-- Creating and sending invitation letters
-- Managing responses and confirmation processes
-
-### 4. Planning Tutorial Sessions
-
-We will proceed with planning tutorial sessions and selecting instructors.
-
-- Considering policies and themes for tutorials
-- Designing multiple tracks for tutorials
-- Selecting and inviting instructor candidates
-- Considering tutorial content and format
-
-## May Tasks
-
-### 1. Closing the CFP and Reviewing Submission Status
-
-We aim to close the CFP by the second week of May and review the submission status.
-
-- Compiling and analyzing submission data
-- Considering deadline extensions if necessary
-- Sending confirmation communications to submitters
-
-### 2. Proposal Review Process
-
-We will implement a review process that emphasizes transparency and fairness.
-
-- Selecting and inviting reviewers
-- Finalizing review criteria
-- Implementing the review process
-- Selecting acceptance candidates
-
-In the review process, we will emphasize the following points:
+The following were the review criteria used in 2024:
 1. Relevance: Is the content related to the Python community?
 2. Clarity: Is the talk content clearly written?
 3. Expertise: Is the content based on personal experience or specialized knowledge?
 4. Practicality: Is the content interesting or useful?
 5. Diversity: Does it reflect various perspectives and experiences?
 
-### 3. Finalizing Featured Talks
+### Featured Talks Related
 
-We will confirm responses to featured talk invitations and finalize speakers and content.
+- **April**: Considering and Inviting Featured Talks
+  - After finalizing keynote speakers, considering featured talks as needed
+  - Creating and prioritizing a list of candidates for featured talks
+  - Creating and sending invitation letters
 
-- Collecting information from featured speakers (profiles, talk outlines, etc.)
-- Preparing to announce featured talks
+- **May**: Finalizing Featured Talks
+  - Confirming responses to featured talk invitations and finalizing speakers and content
+  - Collecting information from featured speakers (profiles, talk outlines, etc.)
+  - Preparing to announce featured talks
 
-### 4. Finalizing Tutorials
+Featured talks will be held as one of the parallel track sessions. Implementing featured talks is not mandatory.
 
-We will finalize tutorial content and instructors.
+### Tasks Requiring Inter-Team Coordination
 
-- Making final arrangements with tutorial instructors
-- Finalizing tutorial content and format
-- Preparing to announce tutorials
+The main Program Team will coordinate with other teams on the following tasks:
 
-## Tasks Requiring Inter-Team Coordination
+- **Coordination with the Venue Team**
+  - Sharing session venue requirements
 
-The Program Team will coordinate with other teams on the following tasks:
+- **Coordination with the PR Team**
+  - Promoting and announcing the CFP
+  - Announcing keynote speakers and featured speakers
 
-### Coordination with the Venue Team
+- **Coordination with the Participant Management Team**
+  - Confirming speaker registration status
+  - Considering methods and pricing for speaker tickets
+  - Responding to travel support applications
+  - Handling VISA assistance for speakers from outside Japan
 
-- Sharing session venue requirements
-- Providing information for the production of distributed materials and venue displays
+- **Coordination with the Chair Team**
+  - Adjusting budget and accounting matters
+  - Coordinating the overall schedule
 
-### Coordination with the PR Team
+## Tutorial Subgroup Tasks
 
-- Promoting and announcing the CFP
-- Announcing keynote speakers and featured speakers
-- Announcing tutorials
+The Tutorial Subgroup, as part of the Program Team, will work on the following tasks:
 
-### Coordination with the Participant Management Team
+### Tutorial Planning and Implementation
 
-- Confirming speaker registration status
-- Considering methods and pricing for speaker tickets
-- Responding to travel support applications
-- Handling VISA assistance for speakers from outside Japan
+- **April**: Planning Tutorials
+  - Considering policies and themes for tutorials
+  - Designing multiple tracks for tutorials
+  - Selecting and inviting instructor candidates
+  - Considering tutorial content and format
 
-### Coordination with the Chair Team
+- **May**: Finalizing Tutorials
+  - Making final arrangements with tutorial instructors
+  - Finalizing tutorial content and format
+  - Preparing to announce tutorials
 
-- Adjusting budget and accounting matters
-- Coordinating the overall schedule
+We would like to implement tutorials to accommodate participants of various skill levels. However, this is not mandatory.
+
+We anticipate that participants will purchase tutorial tickets in addition to the main conference tickets, so it is important to select themes that meet attendee needs.
+
+### Tasks Requiring Inter-Team Coordination
+
+The Tutorial Subgroup will coordinate with other teams on the following tasks:
+
+- **Coordination with the PR Team**
+  - Announcing tutorials
+
+- **Coordination with the Participant Management Team**
+  - Setting tutorial ticket prices
+
+- **Coordination with the Venue Team**
+  - Coordinating tutorial dates and venues
+
+- **Coordination with the Chair Team**
+  - Considering outsourcing (requests to external service providers)
+  - Adjusting budget and accounting matters
 
 ## Overview of Schedule Beyond May
 

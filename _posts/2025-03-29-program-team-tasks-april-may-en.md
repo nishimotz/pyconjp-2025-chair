@@ -6,7 +6,7 @@ team: program
 permalink: /program-team-tasks-april-may-en.html
 ---
 
-[**Japanese version is available here**](https://pyconjp-2025-chair.nishimotz.com/program-team-tasks-april-may-ja.html)
+[**Japanese version is available here**]({{ site.baseurl }}/program-team-tasks-april-may-ja.html)
 
 This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme), the Chair of PyCon JP 2025.
 

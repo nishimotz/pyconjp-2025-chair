@@ -19,7 +19,7 @@ We are also accepting applications from overseas members, but please note that w
 ![Illustration of calendar, task lists, and meeting scenes]({{ site.baseurl }}/assets/images/calendar_and_tasks.webp)
 </div>
 
-With about 6 months remaining until PyCon JP 2025, below is a summary of the key tasks for the Program Team to address from April to May.
+With about 6 months remaining until PyCon JP 2025, the Program Team now has a leader who will guide the team's activities going forward. This article is shared as a foundation for aligning everyone's understanding of the tasks that the Program Team will be working on from April to May.
 
 ## The Special Significance of Python 3.14 Release Year
 

@@ -75,3 +75,4 @@ We are currently looking for organizing members to help create PyCon JP 2025 tog
 ## Update History
 
 - 2025-04-01: First version published
+- 2025-04-04: Minor update for verification

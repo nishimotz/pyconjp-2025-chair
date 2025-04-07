@@ -36,7 +36,7 @@ Actually, my collaboration with Hiro began with a chance encounter. One day, whi
 
 **Hiro**: That's a great idea. We can inspect the venue and make it easier for local people to participate.
 
-**Nishimoto**: Exactly. Also, I'd like the leaders of each team to take more initiative. Rather than having the Chair Team make all the decisions, I want to create an environment where each team can operate autonomously.
+**Nishimoto**: Exactly. Also, I'd love to see the team leaders bring their own ideas forward and implement them. Rather than having the Chair Team make all the decisions, I want us to create together an environment where each team can operate autonomously.
 
 **Hiro**: I see. That aligns with our slogan, "pieces of python, coming together." Each person fulfills their role while collectively creating a single event.
 

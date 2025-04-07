@@ -16,6 +16,10 @@ This is a daily report published by [@nishimotz](https://d.nishimotz.com/aboutme
 
 As we enter April, preparations for PyCon JP 2025 are gaining momentum. Today, I'd like to share a conversation I had with Vice Chair Hiro about team building for our organizing members.
 
+### A Chance Meeting That Started Our Collaboration
+
+Actually, my collaboration with Hiro began with a chance encounter. One day, while walking my dog, I happened to attend a technical lecture in our neighborhood where Hiro was presenting. After the talk, we chatted and discovered that we lived in the same neighborhood. Sharing a passion for Python and a vision for the Hiroshima conference, I asked Hiro to become the Vice Chair for PyCon JP 2025.
+
 **Nishimoto (Chair)**: Hiro, how are the activities of each team progressing now that we're in April?
 
 **Hiro (Vice Chair)**: Yes, each team is gradually getting into motion. The Program Team has started preparing for the CFP, and the Sponsor Team is finalizing the sponsor packages.
@@ -24,9 +28,13 @@ As we enter April, preparations for PyCon JP 2025 are gaining momentum. Today, I
 
 **Hiro**: Indeed. Since we're holding the event in Hiroshima, cooperation from local people is essential. Having people familiar with the local situation would be especially helpful for venue setup and day-of-event operations.
 
-**Nishimoto**: That's why I'm thinking about holding a meeting for organizing members in Hiroshima in mid-May. I believe that creating opportunities to meet in person, not just online, will strengthen team cohesion.
+**Nishimoto**: That's why I'm planning to hold general meetings in April across Hiroshima, Tokyo, and remotely. I believe that meeting in person, talking face-to-face, and hopefully sharing meals together is essential for understanding each other and maintaining motivation.
 
-**Hiro**: That's a great idea. There are limitations to online communication alone. We can also inspect the venue and make it easier for local people to participate.
+**Hiro**: I completely agree. There are limitations to online communication alone. Meeting in person helps build trust more effectively.
+
+**Nishimoto**: Also, we're planning a meeting for organizing members in Hiroshima in mid-May, and in June, we're organizing a retreat in Hiroshima that will include venue inspection. I want to spend more time on team building.
+
+**Hiro**: That's a great idea. We can inspect the venue and make it easier for local people to participate.
 
 **Nishimoto**: Exactly. Also, I'd like the leaders of each team to take more initiative. Rather than having the Chair Team make all the decisions, I want to create an environment where each team can operate autonomously.
 

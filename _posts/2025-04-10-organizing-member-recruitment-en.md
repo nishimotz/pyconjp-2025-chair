@@ -88,7 +88,7 @@ A: You can choose a team that matches your interests and skills through discussi
 
 A: Please don't worry! In addition to machine translation support during online meetings, we will provide as much support as possible, such as bilingual documentation and collaboration with members who can communicate in English.
 
-We value English communication and checks from a non-Japanese speaker's perspective. We welcome your contribution.
+English communication and checks from a non-Japanese speaker's perspective are very important to us. We sincerely welcome your contributions in these areas.
 
 **Q: Where do the main activities take place?**
 

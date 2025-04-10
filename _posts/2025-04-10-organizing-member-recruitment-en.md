@@ -72,7 +72,7 @@ We are also considering Python study sessions for organizing members. People who
 
 **Q: What happens after I register through the application form?**
 
-A: After you fill out the form, the Chair will send you an invitation email to Slack. Once you join Slack, let's discuss the teams and activities you are interested in with the Chair. Communication is primarily done via Slack (chat), but if you prefer to talk directly online, we can arrange an online meeting (1-on-1) with the Chair.
+A: After you fill out the form, the Chair will send you an invitation email to Slack. Once you join Slack, let's discuss the teams and activities you are interested in with the Chair. Communication is primarily done via Slack (chat), but if you prefer to talk directly, we can arrange an online meeting (1-on-1) with the Chair.
 
 **Q: Are there any costs to become an organizing member? What about conference admission fees and travel expenses?**
 

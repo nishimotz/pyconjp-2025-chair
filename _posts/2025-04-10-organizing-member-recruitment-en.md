@@ -76,9 +76,9 @@ A: After you fill out the form, the Chair will send you an invitation email to S
 
 **Q: Are there any costs to become an organizing member? What about conference admission fees and travel expenses?**
 
-A: There is no cost associated with the organizing member activities themselves. Regarding the conference admission fee, we are currently discussing making it free for organizing members (this is not yet confirmed).
+A: There is no cost associated with the organizing member activities themselves. Regarding the conference admission fee, we want to reduce the burden for organizing members (this is not yet confirmed).
 
-Travel and accommodation expenses to the venue are generally your own responsibility, but we plan to expand our travel support program. However, please note that the budget is limited, so we may not be able to meet all requests. Also, we do not necessarily give preferential treatment for travel assistance to organizing members residing overseas.
+We plan to expand our travel support program for travel and accommodation expenses to the venue. However, please note that the budget is limited, so we may not be able to meet all requests. Also, we do not necessarily give preferential treatment for travel assistance to organizing members residing overseas.
 
 **Q: Which team can I join?**
 

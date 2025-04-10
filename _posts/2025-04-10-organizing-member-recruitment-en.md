@@ -1,32 +1,30 @@
 ---
 lang: en
-title: Recruiting Organizing Members for PyCon JP 2025 (April 2025 Update)
+title: Call for Organizing Members (April 2025 Update)
 layout: default
-permalink: /organizing-member-recruitment-en.html
-team: chair
+permalink: /2025/04/10/organizing-member-recruitment-en.html
+team: general
 ---
 
-[**日本語版はこちら**]({{ site.baseurl }}/organizing-member-recruitment-ja.html)
+[**日本語版はこちら**]({{ site.baseurl }}/2025/04/10/organizing-member-recruitment-ja.html)
 
-This is a daily report published by PyCon JP 2025 Chair [@nishimotz](https://d.nishimotz.com/aboutme) as an individual.
+This is a personal daily report by PyCon JP 2025 Chair [@nishimotz](https://d.nishimotz.com/aboutme).
 
-[PyCon JP 2025](https://2025.pycon.jp/) will be held at Hiroshima International Conference Center on September 26-27, 2025.
+## Call for PyCon JP 2025 Organizing Members!
 
-We are recruiting organizing members. Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
-
-## Current Status of Organizing Member Recruitment for PyCon JP 2025
-
-With approximately 5 months remaining until PyCon JP 2025, we are actively recruiting organizing members for various teams. As this year's conference will be held in Hiroshima, we especially welcome participation from local Hiroshima residents.
+[PyCon JP 2025](https://2025.pycon.jp/), Japan's largest conference on the Python programming language, will be held at the Hiroshima International Conference Center on September 26-27. We are also planning to hold the traditional development sprints on September 28.
 
 <div class="image-center">
-![PyCon JP 2025 Organizing Members]({{ site.baseurl }}/assets/images/child_and_mother.webp)
+![PyCon JP 2025 Organizing Members]({{ site.baseurl }}/assets/images/54038615227_2535d0a50c_c.jpg)
 </div>
 
-## What Are Organizing Members?
+We are currently looking for "Organizing Members" to help us create PyCon JP 2025 together.
+We call our members "Organizing Members" rather than just staff because we want to emphasize the spirit of being partners who build the event together.
 
-Organizing members are volunteers who participate in planning and managing PyCon JP 2025. Anyone interested in event management can join, regardless of their Python experience.
+Preparations for the conference are already underway, but we still don't have enough organizing members.
+We welcome participation from many people interested in event management, regardless of Python experience, location, or available time! (See FAQ for details)
 
-We are currently recruiting organizing members for the following teams:
+Organizing members work in the following teams:
 
 - **Chair Team**: Responsible for overall coordination and budget management
 - **Program Team**: Responsible for speaker selection and schedule management
@@ -35,60 +33,77 @@ We are currently recruiting organizing members for the following teams:
 - **Sponsor Team**: Responsible for coordination with sponsoring companies
 - **Attendee Management Team**: Responsible for ticket sales and attendee support
 
-## Benefits of Becoming an Organizing Member
-
-Becoming an organizing member for PyCon JP 2025 offers several benefits:
-
-1. **Networking Opportunities**: Connect with Python enthusiasts and professionals from diverse backgrounds
-2. **Event Management Skills**: Gain experience in planning and managing large-scale events
-3. **Community Contribution**: Contribute to the growth of the Python community in Japan
-4. **Technical Knowledge**: Access opportunities to learn about the latest Python-related technologies
-5. **Personal Growth**: Develop communication skills and leadership through teamwork
-
-## Current Team Status and Recruitment Needs (April 2025)
-
-### Program Team
-Currently selecting speakers and coordinating schedules. We are particularly looking for people who can support communication with speakers and assist with day-of session management.
-
-### Venue Team
-Preparing for the event at Hiroshima International Conference Center, confirming venue layout and facilities. We especially welcome Hiroshima residents and those who can help with AV equipment and venue setup.
-
-### Public Relations Team
-Managing website and social media communications. We are looking for people interested in design, content creation, and social media management.
-
-### Sponsor Team
-Coordinating with sponsoring companies. We need help with sponsor communications and managing sponsor booths during the event.
-
-### Attendee Management Team
-Managing ticket sales and attendee support. We are looking for people who can help with attendee inquiries and registration desk operations during the event.
-
 ## How to Become an Organizing Member
 
 To become an organizing member, please follow these steps:
 
 1. Register through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA)
-2. Join Slack following the instructions in the confirmation email, and coordinate with the Chair
-3. Participate in the [Organizing Member Training Session (online)]({{ site.baseurl }}/2025/02/25/kickoff-en.html)
+2. Follow the instructions in the email you receive to join Slack
 
-We have support systems in place to ensure newcomers can participate with confidence. The Chair Team will provide guidance if you're unsure about what to do.
+## Message
 
-## Expectations for Organizing Members
+PyCon JP 2025 aims to leverage the new stage of Hiroshima to deepen connections with new attendee segments by collaborating with the local community. For example, we want to deliver the appeal of Python to diverse people such as students and engineers from neighboring regions, and those visiting for tourism.
 
-The slogan for PyCon JP 2025 is "pieces of python, coming together." We aim to create an outstanding event by bringing together people with diverse backgrounds and experiences, each contributing their unique "piece."
+We particularly encourage residents of Hiroshima and neighboring areas to take this opportunity to apply.
 
-We expect organizing members to:
+Many major IT conferences have traditionally been held in Tokyo, which may have deterred some people or made them feel the barrier to entry was high.
 
-1. **Prioritize Your Health and Happiness**: Participate at a sustainable pace
-2. **Have Fun**: Maintain a positive attitude toward event organization
-3. **Respect Diversity**: Honor the various backgrounds and perspectives of all participants
-4. **Collaborate as a Team**: Recognize that large events require teamwork
-5. **Communicate Actively**: Ask questions when uncertain and share your status with the team
+We want such individuals to experience the valuable opportunity of participating in community-focused event management, utilizing local perspectives and networks.
 
-## Conclusion
+Preparations will proceed in various forms, including online and asynchronous formats, as well as hybrid and offline work based in both Tokyo and Hiroshima.
 
-PyCon JP 2025 is an event created by the collective effort of each organizing member. We invite you to bring your "piece" and join us in creating an exceptional event together.
+Being involved behind the scenes as an organizing member offers deep experiences and a sense of accomplishment that regular attendees cannot gain. (Please also see the FAQ regarding how we work and our support system)
 
-If you have any questions or concerns, please feel free to contact the Chair ([@nishimotz](https://d.nishimotz.com/aboutme)).
+We look forward to creating PyCon JP 2025 together with you.
+
+If you have any questions, please feel free to contact the Chair ([@nishimotz](https://d.nishimotz.com/aboutme)).
+
+## Frequently Asked Questions (FAQ)
+
+**Q: How much time commitment is required?**
+
+A: The time commitment varies depending on the team and the phase of preparation, but participation is possible starting from a few hours per week. We strive to accommodate your pace so you can contribute comfortably. Involvement for specific periods or tasks only is also welcome!
+
+**Q: Is Python knowledge really necessary?**
+
+A: No, it's not required! PyCon JP is a conference about the Python programming language, but various skills such as event management, design, public relations, and communication are valuable. Of course, those knowledgeable about Python are also very welcome!
+
+We are also considering Python study sessions for organizing members. People who want to learn Python are welcome too.
+
+**Q: What happens after I register through the application form?**
+
+A: After you fill out the form, the Chair will send you an invitation email to Slack. Once you join Slack, let's discuss the teams and activities you are interested in with the Chair. Communication is primarily done via Slack (chat), but if you prefer to talk directly online, we can arrange an online meeting (1-on-1) with the Chair.
+
+**Q: Are there any costs to become an organizing member? What about conference admission fees and travel expenses?**
+
+A: There is no cost associated with the organizing member activities themselves. Regarding the conference admission fee, we are currently discussing making it free for organizing members (this is not yet confirmed).
+
+Travel and accommodation expenses to the venue are generally your own responsibility, but we plan to expand our travel support program. However, please note that the budget is limited, so we may not be able to meet all requests. Also, we do not necessarily give preferential treatment for travel assistance to organizing members residing overseas.
+
+**Q: Which team can I join?**
+
+A: You can choose a team that matches your interests and skills through discussions in meetings or on Slack.
+
+**Q: My Japanese language skills are limited.**
+
+A: Please don't worry! In addition to machine translation support during online meetings, we will provide as much support as possible, such as bilingual documentation and collaboration with members who can communicate in English.
+
+We value English communication and checks from a non-Japanese speaker's perspective. We welcome your contribution.
+
+**Q: Where do the main activities take place?**
+
+A: Basic communication happens online (mainly Slack). We plan to have regular hybrid (online/offline) work days (general meetings) and organizing member retreats in the future. Details will be announced once decided. Meetings for specific teams or tasks are scheduled by the relevant members.
+
+**Q: Are there regular Python-related study groups in Hiroshima?**
+
+A: Yes, [Sugoi Hiroshima with Python](https://pycon-hiroshima.connpass.com/event/) is held hybrid-style every month on the last Wednesday evening from 19:00. The Chair also reports on PyCon JP preparation status monthly. Feel free to join!
+
+## About the Chair's Role
+
+The PyCon JP Chair is appointed by the PyCon JP Association and collaborates with organizing members to manage the event. However, the Chair's decision-making process is separate from the PyCon JP Association. For more details, please see the following link:
+
+[Relationship between the PyCon JP Event Chair and the Association](https://www.pycon.jp/en/organizer/event-chair.html) (Link might need update if English page exists)
 
 ## Update History
-- 2025-04-10: Initial publication
+
+- 2025-04-10: First version published, reflecting the current situation based on the content of the [article published in December 2024](https://pyconjp.blogspot.com/2024/12/call-for-organizing-members.html).

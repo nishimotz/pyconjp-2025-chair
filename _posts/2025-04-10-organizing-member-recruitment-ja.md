@@ -5,7 +5,7 @@ permalink: /2025/04/10/organizing-member-recruitment-ja.html
 team: general
 ---
 
-[**English version is available here**]({{ site.baseurl }}/organizing-member-recruitment-en.html)
+[**English version is available here**]({{ site.baseurl }}/2025/04/10/organizing-member-recruitment-en.html)
 
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
 

@@ -7,20 +7,22 @@ title: Home
 
 [PyCon JP 2025 は2025年9月26日・27日に広島国際会議場で開催されます](https://2025.pycon.jp/)
 
-[**主催メンバー募集中**](https://forms.gle/7irqYKhZVj7AY7LfA)
+[**note はじめました**](https://note.com/24motz/m/m5b9c3affd50b)
 
 <div class="image-center">
 ![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg)
 </div>
 
+[**主催メンバー募集中**](https://forms.gle/7irqYKhZVj7AY7LfA)
+
 ## 記事カテゴリー
 
 <div class="text-center mt-8 mb-4">
-  <a href="{{ site.baseurl }}/teams/" class="text-blue-600 hover:underline">チーム別記事</a>
+  <a href="{{ site.baseurl }}/teams/" class="hover:underline">**チーム別記事**</a>
 </div>
 
 <div class="text-center mt-4 mb-8">
-  <a href="{{ site.baseurl }}/en/" class="text-blue-600 hover:underline">English posts</a>
+  <a href="{{ site.baseurl }}/en/" class="hover:underline">**English posts**</a>
 </div>
 
 ## 最新記事

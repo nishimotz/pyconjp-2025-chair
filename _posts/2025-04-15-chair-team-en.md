@@ -3,7 +3,7 @@ lang: en
 title: Tasks for the Chair Team
 layout: default
 permalink: /chair-team-en.html
-team: chair
+team: general
 ---
 
 [日本語版はこちら]({{ site.baseurl }}/chair-team-ja.html)
@@ -32,7 +32,9 @@ The Chair Team consists of the following members:
 
 - **Chair**: Overall leadership, vision setting, and team coordination
 - **Vice Chair**: Support for the Chair, especially from a local perspective
+- **Core Members**: Central members of the Chair Team
 - **Accounting Subgroup**: Budget management, expense recording, and reimbursement processing
+- **Observers**: Members who oversee the Chair Team activities
 
 ## Tasks
 

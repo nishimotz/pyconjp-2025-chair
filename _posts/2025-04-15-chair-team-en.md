@@ -72,12 +72,12 @@ The Chair Team consists of the following members:
 
 #### Essential Tasks
 
-- Creating and managing the budget
 - Recording and managing expenses
 - Managing reimbursement status in the ticket system
+- Managing payment deadlines
 - Preparing financial reports
 
-#### Desirable Tasks
+#### Nice-to-have Tasks
 
 - Regular reporting on budget execution status
 - Tracking budget usage across teams
@@ -99,56 +99,7 @@ The Accounting Subgroup welcomes new members who would like to participate. Here
 
 If you're interested in joining the Accounting Subgroup, please indicate your interest in the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
 
-## Upcoming Schedule
 
-- April-May: Finalizing the budget
-- June-August: Establishing expense management systems, budget coordination with teams
-- September: Day-of financial operations
-- October and later: Financial reporting, retrospective, preparation of handover materials
-
-## Team Collaboration
-
-The following tasks require coordination with other teams:
-
-**Collaboration with the Program Team**
-- Budget coordination for speaker-related expenses
-- Budget allocation for special initiatives
-
-**Collaboration with the Sponsor Team**
-- Management of sponsor income
-- Budget coordination for sponsor benefits
-
-**Collaboration with the Venue Team**
-- Budget management for venue costs
-- Budget coordination for food, beverages, and party arrangements
-
-**Collaboration with the Attendee Management Team**
-- Management of ticket income
-- Budget coordination for attendee benefits
-
-**Collaboration with the PR Team**
-- Budget management for PR activities
-- Coordination of design-related expenses
-
-## Goals for 2025
-
-### Transparent Budget Management
-
-- Build systems that make it easy for each team to understand the budget status
-- Provide regular reports on budget execution
-- Establish clear processes for handling necessary budget changes
-
-### Efficient Accounting Processes
-
-- Improve efficiency of reimbursement processes using the ticket system
-- Develop templates for expense recording to ensure consistency
-- Create an environment where organizing members with limited experience can easily participate
-
-### Knowledge Accumulation for Future Events
-
-- Document accounting processes to facilitate smooth handover to future events
-- Analyze differences between budget plans and actual results to identify areas for improvement
-- Organize key points for budget management specific to regional events
 
 ## Update History
 

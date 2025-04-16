@@ -62,7 +62,7 @@ The meeting incorporated several operational innovations:
 
 ## Looking Forward
 
-The theme for PyCon JP 2025 is "あつまれ Python のピース" (Gather, Python Pieces). Under this theme, we aim to bring together everyone's contributions to create an outstanding conference.
+The theme for PyCon JP 2025 is "あつまれ Python のピース" (Pieces of Python, Coming Together). Under this theme, we aim to bring together everyone's contributions to create an outstanding conference.
 
 As a personal motto for my role as Chair, I keep in mind that "every pieces matters."
 

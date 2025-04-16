@@ -64,7 +64,7 @@ The meeting incorporated several operational innovations:
 
 The theme for PyCon JP 2025 is "あつまれ Python のピース" (Pieces of Python, Coming Together). Under this theme, we aim to bring together everyone's contributions to create an outstanding conference.
 
-As a personal motto for my role as Chair, I keep in mind that "every pieces matters."
+As a personal motto for my role as Chair, I keep in mind that "every piece matters."
 
 For our next general meeting, I aim to incorporate the lessons learned from this meeting to create an even more productive experience. I look forward to your continued cooperation.
 

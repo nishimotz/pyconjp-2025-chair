@@ -37,6 +37,14 @@ The meeting resulted in several key achievements:
 - Team leaders were appointed in several teams, strengthening the organizational structure
 - Inter-team collaboration was enhanced, building a cooperative framework
 
+### Operational Innovations
+
+The meeting incorporated several operational innovations:
+
+- Utilized Zoom's transcription and translation caption features to facilitate participation across language barriers
+- Input transcription data into Google AI Studio's Gemini to create detailed meeting minutes
+- Used Google Docs Gemini to compare attendance lists from meeting notes and AI-generated minutes
+
 ### Chair's Reflection
 
 #### Successes
@@ -47,8 +55,9 @@ The meeting resulted in several key achievements:
 
 #### Areas for Improvement
 
-- I was unable to properly greet and interact with some participants
+- With nearly 30 participants, I was unable to properly greet and interact with everyone
 - The time allocation for breakout sessions could be improved
+- We couldn't successfully save transcriptions from the Zoom breakout sessions
 - Some participants experienced audio issues due to technical problems
 
 ## Looking Forward

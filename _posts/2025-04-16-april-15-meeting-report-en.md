@@ -56,7 +56,7 @@ The meeting incorporated several operational innovations:
 #### Areas for Improvement
 
 - With nearly 30 participants, I was unable to properly greet and interact with everyone
-- The time allocation for breakout sessions could be improved
+- The overall time allocation of the meeting could be improved
 - We couldn't successfully save transcriptions from the Zoom breakout sessions
 - Some participants experienced audio issues due to technical problems
 

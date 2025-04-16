@@ -18,7 +18,7 @@ We are recruiting organizing members. Please apply through the [Organizing Membe
 
 ## April 15th General Meeting Report
 
-On April 15th, we held a general meeting with participants joining from Tokyo, Hiroshima, and remotely. Thank you to everyone who participated from various locations.
+On April 15th, we held a [general meeting](https://pyconjp-staff.connpass.com/event/350595/) with participants joining from Tokyo, Hiroshima, and remotely. Thank you to everyone who participated from various locations.
 
 ### Meeting Overview
 
@@ -53,7 +53,9 @@ The meeting resulted in several key achievements:
 
 ## Looking Forward
 
-For PyCon JP 2025, I am adopting the motto "every pieces matters." It is through everyone's contributions coming together that we can create an outstanding conference.
+The theme for PyCon JP 2025 is "あつまれ Python のピース" (Gather, Python Pieces). Under this theme, we aim to bring together everyone's contributions to create an outstanding conference.
+
+As a personal motto for my role as Chair, I keep in mind that "every pieces matters."
 
 For our next general meeting, I aim to incorporate the lessons learned from this meeting to create an even more productive experience. I look forward to your continued cooperation.
 

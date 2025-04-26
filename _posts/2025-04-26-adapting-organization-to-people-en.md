@@ -28,7 +28,7 @@ We want to welcome them wholeheartedly. Regardless of experience, each person's 
 
 ### Not Forcing Precedent
 
-It's not my intention to have experienced members force precedent on inexperienced ones while working. Rather, I want to value new perspectives and ideas, creating an environment where everyone can leverage their strengths.
+I don't believe we can successfully achieve the challenge of holding the event in Hiroshima if experienced members force precedent on inexperienced ones while working. Rather, I want to value new perspectives and ideas, creating an environment where everyone can leverage their strengths.
 
 I believe that building an organization flexibly according to the characteristics of our current members, rather than being bound by past methods, will lead to a better conference.
 

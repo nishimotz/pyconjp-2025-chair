@@ -36,7 +36,7 @@ I believe that building an organization flexibly according to the characteristic
 
 The PR team has traditionally been responsible for design work such as logos. However, the designer participating this time deeply understands the problems I want to solve and is willing to contribute beyond the PR team's responsibilities.
 
-As Chair, I've always recognized that design requires cross-team coordination. Therefore, I'm considering having the Chair team handle logo design while leaving logo announcement and related communications to the PR team.
+As Chair, I've always recognized that design requires cross-team coordination. Therefore, I'm considering having the Chair team handle "consideration of design direction" and "logo decision process" while leaving logo announcement and related communications to the PR team.
 
 ### Toward Flexible Organization Management
 

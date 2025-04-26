@@ -3,6 +3,7 @@ lang: en
 title: Adapting the Organization to People
 layout: default
 permalink: /adapting-organization-to-people-en.html
+team: chair
 ---
 
 [日本語版はこちら]({{ site.baseurl }}/adapting-organization-to-people-ja.html)

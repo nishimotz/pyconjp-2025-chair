@@ -2,6 +2,7 @@
 title: 人に合わせて組織を作る
 layout: default
 permalink: /adapting-organization-to-people-ja.html
+team: chair
 ---
 
 [English version is available here]({{ site.baseurl }}/adapting-organization-to-people-en.html)

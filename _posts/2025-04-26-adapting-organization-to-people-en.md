@@ -44,6 +44,12 @@ These thoughts are my personal opinions as Chair at this point. However, I belie
 
 I believe we can create an excellent conference by leveraging each participant's personality and strengths, creating an environment where everyone can perform at their best.
 
+## Message to Everyone Outside the Organizing Team
+
+Logo proposals for PyCon JP 2025 have already been made, and the organizing members are very excited to officially announce them.
+
+Additionally, we will be working energetically during the upcoming holiday period on keynote speaker announcements, call for talks, sponsor recruitment, and ticket sales preparation. We look forward to your participation and support.
+
 
 
 ## Update History

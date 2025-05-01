@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Reflections on the Role of the Chair
+title: "PyCon JP Operations: Insights and Vision from the Chair"
 layout: default
 permalink: /thoughts-on-chair-role-en.html
 team: chair
@@ -50,7 +50,7 @@ The 2025 organizing members continue to learn from both past successes and failu
 
 ### Personal Connection to Python
 
-As Chair (nishimotz), I am deeply dependent on Python technology through my work developing the NVDA screen reader. Technologies that support people with visual impairments are sustained by Python's complex ecosystem and technological innovations. I urgently need the sustainability of Python technology and its community for the role I play. These personal feelings also serve as a strong motivation for making PyCon JP 2025 a success.
+As Chair (nishimotz), I hold the titles of PhD in Engineering and Information Security Management Professional, and I bear the responsibility that comes with these credentials. I am also deeply dependent on Python technology through my work developing the NVDA screen reader. Technologies that support people with visual impairments are sustained by Python's complex ecosystem and technological innovations. I urgently need the sustainability of Python technology and its community for the role I play. These personal feelings also serve as a strong motivation for making PyCon JP 2025 a success.
 
 ### Request
 

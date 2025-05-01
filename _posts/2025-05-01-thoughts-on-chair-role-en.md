@@ -48,6 +48,10 @@ The system of appointing a new Chair each year can achieve its ideal when Chairs
 
 The 2025 organizing members continue to learn from both past successes and failures. However, rather than simply following the past, we want to move forward without fear of new challenges.
 
+### Personal Connection to Python
+
+As Chair (nishimotz), I am deeply dependent on Python technology through my work developing the NVDA screen reader. Technologies that support people with visual impairments are sustained by Python's complex ecosystem and technological innovations. I urgently need the sustainability of Python technology and its community for the role I play. These personal feelings also serve as a strong motivation for making PyCon JP 2025 a success.
+
 ### Request
 
 I ask that you trust the goal in the Chair's mind and run together with us for the next five months. As Chair, I will do my utmost to support each organizing member in maximizing their potential in their respective roles.

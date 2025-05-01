@@ -26,7 +26,7 @@ The association publicly discloses its financial information, and this transpare
 
 ### Experience as This Year's Chair
 
-As this year's Chair (nishimotz), I don't have extensive experience in organizing PyCon JP, but I have long observed the conference as a participant and speaker. I also have experience working with RubyKaigi and YAPC, as well as organizing technical events in Hiroshima, which has given me exposure to various conference management approaches.
+As this year's Chair (nishimotz), I hold the titles of PhD in Engineering and Information Security Management Professional, and I bear the responsibility that comes with these credentials. I don't have extensive experience in organizing PyCon JP, but I have long observed the conference as a participant and speaker. I also have experience working with RubyKaigi and YAPC, as well as organizing technical events in Hiroshima, which has given me exposure to various conference management approaches.
 
 ### The Evolving Python and Its Community
 
@@ -50,7 +50,7 @@ The 2025 organizing members continue to learn from both past successes and failu
 
 ### Personal Connection to Python
 
-As Chair (nishimotz), I hold the titles of PhD in Engineering and Information Security Management Professional, and I bear the responsibility that comes with these credentials. I am also deeply dependent on Python technology through my work developing the NVDA screen reader. Technologies that support people with visual impairments are sustained by Python's complex ecosystem and technological innovations. I urgently need the sustainability of Python technology and its community for the role I play. These personal feelings also serve as a strong motivation for making PyCon JP 2025 a success.
+As Chair (nishimotz), I am deeply dependent on Python technology through my work developing the NVDA screen reader. Technologies that support people with visual impairments are sustained by Python's complex ecosystem and technological innovations. I urgently need the sustainability of Python technology and its community for the role I play. These personal feelings also serve as a strong motivation for making PyCon JP 2025 a success.
 
 ### Request
 

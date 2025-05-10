@@ -6,6 +6,8 @@ permalink: /working-out-loud-en.html
 team: chair
 ---
 
+[日本語の記事はこちら](/working-out-loud-ja.html)
+
 This is a work diary personally published by [@nishimotz](https://d.nishimotz.com/aboutme), the Chair of PyCon JP 2025.
 
 [PyCon JP 2025](https://2025.pycon.jp/) will be held at Hiroshima International Conference Center on September 26-27.

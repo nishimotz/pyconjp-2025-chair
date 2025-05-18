@@ -24,7 +24,7 @@ Today, I want to extend a special welcome to our English-speaking members and th
 
 ## Why This Message Now?
 
-I firmly believe that the strength of PyCon JP 2025 lies in the diversity of our organizing team. Our slogan "pieces of python, coming together" reflects this core belief - that each person brings a unique piece to complete our puzzle.
+I firmly believe that the strength of PyCon JP 2025 lies in the diversity of our organizing team. Our slogan "Pieces of Python, Coming Together" reflects this core belief - that each person brings a unique piece to complete our puzzle.
 
 Some of you have reached out with questions about language barriers and travel support. I want to address these concerns directly and emphasize how much we value your contributions, regardless of where you are located or what language you speak natively.
 
@@ -87,8 +87,6 @@ If you have any questions, concerns, or just want to chat about how you might co
 We are still recruiting organizing members! If you know anyone who might be interested in joining our team, please share our [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA) with them.
 
 [PyCon JP 2025](https://2025.pycon.jp/) will be held at the Hiroshima International Conference Center from September 26 to 28, 2025. The third day (September 28) is planned for development and community sprints. Organizing member activities will begin with preparation on September 25.
-
-Please apply through the [Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA).
 
 ## Update History
 

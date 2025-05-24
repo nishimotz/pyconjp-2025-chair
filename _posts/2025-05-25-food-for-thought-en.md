@@ -1,40 +1,41 @@
 ---
-title: Food for Thought - 答えのないFAQ
+lang: en
+title: Food for Thought - FAQ (No Answers Provided)
 layout: default
-permalink: /food-for-thought-ja.html
+permalink: /food-for-thought-en.html
 team: general
 ---
 
-[English version](/food-for-thought-en.html)
+[日本語版](/food-for-thought-ja.html)
 
-PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
+This is a daily report published personally by [@nishimotz](https://d.nishimotz.com/aboutme), Chair of PyCon JP 2025.
 
-## 主催メンバー以外の方へ
+## To Those Outside the Organizing Team
 
-この記事は、質問にお答えするために書いたものではありません。
+This article is not written to provide answers to questions.
 
-質問にお答えするのは、主催メンバーの各チームの担当者であることをご了承ください。
+Please understand that the respective team members of the organizing committee are responsible for answering questions.
 
-ご質問がある場合は [PyCon JP 2025](https://2025.pycon.jp/) 公式サイトの「お問い合わせ」をご利用ください。
+If you have any questions, please use the "Contact Us" form on the official [PyCon JP 2025](https://2025.pycon.jp/) website.
 
-## 主催メンバーの皆さんへ
+## To All Organizing Team Members
 
-この「よくある質問(FAQ)リスト」は、PyCon JP 2025 にご興味をお持ちの外部の方々（参加者、スポンサー、登壇者など）から、私たち主催メンバーが尋ねられる可能性のある質問を想定してまとめたものです。
+This "Frequently Asked Questions (FAQ) List" is a compilation of questions that we, the organizing members, anticipate might be asked by external parties interested in PyCon JP 2025 (such as attendees, sponsors, speakers, etc.).
 
-皆さんには、このリストの質問をご覧いただきながら、「もし自分がこの質問を受けたら、どのように回答するか？」を考えていただきたいです。
+We would like you to look at the questions in this list and think, "If I were asked this question, how would I answer it?"
 
-さらに、「この質問に的確に答えるために、私たちのチームは何を準備すべきか？」という点についても、ぜひチーム内で話し合っていただければと思います。
+Furthermore, we encourage you to discuss within your teams, "What should our team prepare to answer this question accurately?"
 
-活用方法の例として：
+Examples of how to use this list:
 
-* 各チームで関連する質問の回答案を作成する。「この質問は、私たちのチームが回答するのが適切だろう」
-* チームミーティングでいくつかの質問を取り上げ、回答についてディスカッションする。「この質問への回答は、チームで検討することでより良いものになるはずだ」
-* 「このような質問も想定されるのでは？」と新たな質問を思いついた場合は、座長に教えてください。
-* それぞれのチームでこれらの質問への回答を FAQ として情報提供したり、情報提供の方法を検討してください。
+* Each team creates draft answers for relevant questions. "Our team should probably answer this question."
+* Discuss answers to some questions in team meetings. "Discussing this question as a team should lead to a better answer."
+* If you think of other potential questions, please let the Chair know.
+* Each team should consider providing answers to these questions as an FAQ or think about how to provide this information.
 
-このFAQリストが、PyCon JP 2025 を成功に導くために何が必要で、どのような準備をすべきかを皆で考え、最高のイベントを共に創り上げていくための一助となれば幸いです。
+We hope this FAQ list will serve as a "food for thought" to help us all consider what is necessary to lead PyCon JP 2025 to success and what preparations we should make to create the best event together.
 
-## 参加者向けよくある質問
+## FAQ for Attendees
 
 - Q: チケット販売の期間はいつからいつまでですか？
 - Q: チケットの料金は？
@@ -53,7 +54,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: コミュニティの紹介をする場はありますか？
 - Q: オープンスペースについて教えてください
 
-## 海外からの参加者向けよくある質問
+## FAQ for International Attendees
 
 - Q: 日本への入国にビザが必要ですか？ビザ申請のサポートはありますか？
 - Q: 会場でのアナウンスや表示は英語に対応していますか？
@@ -69,7 +70,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: ビザが取得できなかったり、入国できなかった場合、チケットの返金はありますか？
 - Q: 病気（感染症など）で参加できなくなった場合、チケットの返金はありますか？
 
-## スポンサー向けよくある質問
+## FAQ for Sponsors
 
 - Q: スポンサーシップの特典や費用はどのようになっていますか？
 - Q: スポンサー申し込みの締切はいつですか？
@@ -81,7 +82,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 採用活動のためのブース運営のコツは？
 - Q: スポンサー特典としての参加チケット枚数は？
 
-## スピーカー向けよくある質問
+## FAQ for Speakers
 
 - Q: トーク応募の期間について教えてください
 - Q: トーク応募の選考基準について教えてください
@@ -93,7 +94,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 初めて発表する人向けのサポートはありますか？
 - Q: ポスターセッションの詳細は？
 
-## 取材関連のよくある質問
+## FAQ for Press/Media
 
 - Q: メディア取材の申し込み方法と窓口について教えてください
 - Q: プレスリリースの配信予定はありますか？
@@ -101,7 +102,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 写真撮影・動画撮影のガイドラインは？
 - Q: 開催後のレポート掲載について教えてください
 
-## 地域社会・開催地（広島）の関係者向けよくある質問
+## FAQ for Local Community & Hiroshima Stakeholders
 
 - Q: PyCon JP 2025 は地域社会にどのような貢献をしますか？
 - Q: 地元の学生や住民が参加しやすいプログラムはありますか？
@@ -109,19 +110,19 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: イベント開催にあたり、地域住民への配慮（騒音、交通など）はどのように行われますか？
 - Q: 地元広島の観光情報は提供されますか？
 
-## 過去のPyCon JP関係者向けよくある質問
+## FAQ for Past PyCon JP Stakeholders
 
 - Q: 過去のPyCon JPと比べて、PyCon JP 2025 で特に力を入れている点や新しい試みは何ですか？
 - Q: 過去の参加者/登壇者/スポンサー/スタッフ(主催メンバー)として、今年のPyCon JPに貢献できることはありますか？
 
-## 将来のPythonista（学生・初学者）向けよくある質問
+## FAQ for Future Pythonistas (Students & Beginners)
 
 - Q: Pythonを学び始めたばかりですが、PyCon JP 2025に参加して何が得られますか？
 - Q: 学生がPythonコミュニティと繋がるための機会はありますか？
 - Q: 初心者でも参加できますか？
 - Q: 学生向け特別プログラムはありますか？
 
-## 開催1ヶ月前のよくある質問
+## FAQ - 1 Month Before the Event
 
 - Q: タイムテーブルの最終版はいつ公開されますか？
 - Q: 事前に参加登録（チェックイン）はできますか？当日の受付は混み合いますか？
@@ -143,7 +144,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 当日配布するノベルティやチラシの事前送付先と締切を教えてください
 - Q: スポンサー紹介ページ（ウェブサイト）の内容を修正したいのですが、いつまで可能ですか？
 
-## 開催当日のよくある質問
+## FAQ - On the Day of the Event (General)
 
 - Q: 受付はどこですか？何時から開いていますか？
 - Q: Wi-FiのSSIDとパスワードを教えてください
@@ -163,7 +164,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: PyCon JPのグッズはどこで買えますか？
 - Q: 近くにコンビニやATMはありますか？
 
-## 開催当日のスピーカーからのよくある質問
+## FAQ for Speakers - On the Day of the Event
 
 - Q: ライトニングトークの申し込みはまだできますか？
 - Q: 発表会場はどこですか？何時までに到着すればいいですか？
@@ -177,7 +178,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 発表中にトラブルが起きた場合はどうすればいいですか？
 - Q: 発表後にスピーカー同士で交流する場はありますか？
 
-## 開催当日のスポンサーからのよくある質問
+## FAQ for Sponsors - On the Day of the Event
 
 - Q: スポンサーブースの場所はどこですか？
 - Q: ブースの設営は何時からできますか？
@@ -195,7 +196,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: スポンサー向けの控室や荷物置き場はありますか？
 - Q: 緊急時の連絡先や、困ったときの相談窓口はどこですか？
 
-## 全般的なよくある質問
+## General FAQ
 
 - Q: 主催メンバーの募集の締切はいつですか？
 - Q: 当日のボランティア募集はありますか？
@@ -213,7 +214,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 会場の換気対策はどうなっていますか？
 - Q: 感染症対策としてどのような取り組みをしていますか？
 
-## 取引業者・業務委託先からのよくある質問
+## FAQ for Vendors & Contractors
 
 - Q: 契約手続きの流れと必要書類について教えてください
 - Q: 見積書の提出期限やフォーマットはありますか？
@@ -232,6 +233,6 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 - Q: 過去の同様の取引実績や、他のイベントでの事例があれば教えてください
 - Q: PyCon JP 2025 の成功に向けて、私たち（業者側）から何か提案できることはありますか？
 
-## 更新履歴
+## Update History
 
 - 2025-05-25: 初版公開

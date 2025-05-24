@@ -37,202 +37,202 @@ We hope this FAQ list will serve as a "food for thought" to help us all consider
 
 ## FAQ for Attendees
 
-- Q: チケット販売の期間はいつからいつまでですか？
-- Q: チケットの料金は？
-- Q: チケットの料金には何が含まれていますか？
-- Q: オンラインでの参加はできますか？
-- Q: 広島への交通・宿泊情報を教えてください
-- Q: 開発スプリントとは何ですか？
-- Q: 開発スプリントのテーマを提案したいのですが、どうすればいいですか？
-- Q: チュートリアルセッションはありますか？
-- Q: 託児サービスはありますか？
-- Q: 親子が一緒に参加できるコンテンツはありますか？
-- Q: Wi-Fi環境はどうなっていますか？
-- Q: 食事の制限（ベジタリアン・ハラール等）に対応していますか？
-- Q: アクセシビリティ対応はどうなっていますか？
-- Q: 参加者同士の交流イベントはありますか？
-- Q: コミュニティの紹介をする場はありますか？
-- Q: オープンスペースについて教えてください
+- Q: When is the ticket sales period?
+- Q: How much do tickets cost?
+- Q: What is included in the ticket price?
+- Q: Is online participation available?
+- Q: Can you provide transportation and accommodation information for Hiroshima?
+- Q: What is a development sprint?
+- Q: I'd like to propose a theme for the development sprint. How can I do that?
+- Q: Will there be tutorial sessions?
+- Q: Is childcare service available?
+- Q: Are there any activities where parents and children can participate together?
+- Q: What is the Wi-Fi environment like?
+- Q: Do you accommodate dietary restrictions (vegetarian, halal, etc.)?
+- Q: What accessibility accommodations are available?
+- Q: Are there networking events for attendees?
+- Q: Is there a place to introduce communities?
+- Q: Can you tell me about the open space?
 
 ## FAQ for International Attendees
 
-- Q: 日本への入国にビザが必要ですか？ビザ申請のサポートはありますか？
-- Q: 会場でのアナウンスや表示は英語に対応していますか？
-- Q: 英語しか話せなくても、カンファレンスを楽しめますか？スタッフ(主催メンバー)に英語で質問できますか？
-- Q: 日本語のセッションに、英語の字幕や同時通訳はありますか？
-- Q: 日本の主要な国際空港（成田、羽田、関空など）から広島へのアクセス方法を教えてください
-- Q: 会場近くで、英語対応が可能なホテルはありますか？
-- Q: 日本で使えるSIMカードやWi-Fiルーターはどこで手に入りますか？
-- Q: 日本の通貨（円）はどこで両替できますか？クレジットカードは広く使えますか？
-- Q: 日本滞在中に気をつけるべき文化的な習慣やマナーはありますか？
-- Q: 緊急時の連絡先（警察、救急など）を教えてください。英語で対応してもらえますか？
-- Q: 宗教上の理由（ハラール、コーシャなど）やベジタリアンオプション（ビーガンなど）の食事対応はありますか？
-- Q: ビザが取得できなかったり、入国できなかった場合、チケットの返金はありますか？
-- Q: 病気（感染症など）で参加できなくなった場合、チケットの返金はありますか？
+- Q: Do I need a visa to enter Japan? Is there any support for visa applications?
+- Q: Are announcements and signage at the venue available in English?
+- Q: Can I enjoy the conference if I only speak English? Can I ask questions to staff (organizing members) in English?
+- Q: Are there English subtitles or simultaneous interpretation for Japanese sessions?
+- Q: How can I get to Hiroshima from Japan's major international airports (Narita, Haneda, Kansai, etc.)?
+- Q: Are there hotels near the venue that can accommodate English speakers?
+- Q: Where can I get SIM cards or Wi-Fi routers that work in Japan?
+- Q: Where can I exchange currency for Japanese yen? Are credit cards widely accepted?
+- Q: Are there any cultural customs or manners I should be aware of during my stay in Japan?
+- Q: What are the emergency contact numbers (police, ambulance, etc.)? Will they respond in English?
+- Q: Are there meal accommodations for religious reasons (halal, kosher, etc.) or vegetarian options (vegan, etc.)?
+- Q: Is there a refund policy if I cannot obtain a visa or enter Japan?
+- Q: Is there a refund policy if I cannot attend due to illness (such as infectious diseases)?
 
 ## FAQ for Sponsors
 
-- Q: スポンサーシップの特典や費用はどのようになっていますか？
-- Q: スポンサー申し込みの締切はいつですか？
-- Q: パトロンスポンサー枠はありますか？
-- Q: スポンサーブースの配置や設営について教えてください
-- Q: 参加者へのアピール方法や宣伝機会はありますか？
-- Q: 広島開催での地元企業向け特別枠はありますか？
-- Q: スポンサーロゴの掲載サイズや場所はどうなりますか？
-- Q: 採用活動のためのブース運営のコツは？
-- Q: スポンサー特典としての参加チケット枚数は？
+- Q: What are the sponsorship benefits and costs?
+- Q: When is the deadline for sponsor applications?
+- Q: Is there a patron sponsorship tier available?
+- Q: Can you provide information about sponsor booth placement and setup?
+- Q: What opportunities are there for appealing to and promoting to attendees?
+- Q: Are there special sponsorship tiers for local businesses in Hiroshima?
+- Q: What will be the size and placement of sponsor logos?
+- Q: Do you have any tips for running a booth for recruitment purposes?
+- Q: How many complimentary tickets are included with sponsorship?
 
 ## FAQ for Speakers
 
-- Q: トーク応募の期間について教えてください
-- Q: トーク応募の選考基準について教えてください
-- Q: 発表形式やセッション時間はどのようになっていますか？
-- Q: 旅費支援はありますか？
-- Q: 通訳サポートはありますか？
-- Q: 発表資料の著作権はどうなりますか？
-- Q: 発表の録画は公開されますか？
-- Q: 初めて発表する人向けのサポートはありますか？
-- Q: ポスターセッションの詳細は？
+- Q: What is the period for talk submissions?
+- Q: What are the selection criteria for talk submissions?
+- Q: What are the presentation formats and session durations?
+- Q: Is travel support available?
+- Q: Is interpretation support available?
+- Q: What about the copyright of presentation materials?
+- Q: Will the presentations be recorded and published?
+- Q: Is there support for first-time presenters?
+- Q: Can you provide details about poster sessions?
 
 ## FAQ for Press/Media
 
-- Q: メディア取材の申し込み方法と窓口について教えてください
-- Q: プレスリリースの配信予定はありますか？
-- Q: 取材用の入場チケットはありますか？
-- Q: 写真撮影・動画撮影のガイドラインは？
-- Q: 開催後のレポート掲載について教えてください
+- Q: How can I apply for media coverage and who is the contact person?
+- Q: Are there plans to distribute press releases?
+- Q: Are there press passes available for coverage?
+- Q: What are the guidelines for photo and video recording?
+- Q: Can you provide information about post-event report publication?
 
 ## FAQ for Local Community & Hiroshima Stakeholders
 
-- Q: PyCon JP 2025 は地域社会にどのような貢献をしますか？
-- Q: 地元の学生や住民が参加しやすいプログラムはありますか？
-- Q: 地元企業がPyCon JP 2025と連携できる機会はありますか？（スポンサーシップ以外で）
-- Q: イベント開催にあたり、地域住民への配慮（騒音、交通など）はどのように行われますか？
-- Q: 地元広島の観光情報は提供されますか？
+- Q: How will PyCon JP 2025 contribute to the local community?
+- Q: Are there programs that make it easier for local students and residents to participate?
+- Q: Are there opportunities for local businesses to collaborate with PyCon JP 2025 (besides sponsorship)?
+- Q: What considerations are being made for local residents (regarding noise, traffic, etc.) during the event?
+- Q: Will tourist information about Hiroshima be provided?
 
 ## FAQ for Past PyCon JP Stakeholders
 
-- Q: 過去のPyCon JPと比べて、PyCon JP 2025 で特に力を入れている点や新しい試みは何ですか？
-- Q: 過去の参加者/登壇者/スポンサー/スタッフ(主催メンバー)として、今年のPyCon JPに貢献できることはありますか？
+- Q: Compared to previous PyCon JP events, what are the key focus areas or new initiatives for PyCon JP 2025?
+- Q: As a past attendee/speaker/sponsor/staff (organizing member), how can I contribute to this year's PyCon JP?
 
 ## FAQ for Future Pythonistas (Students & Beginners)
 
-- Q: Pythonを学び始めたばかりですが、PyCon JP 2025に参加して何が得られますか？
-- Q: 学生がPythonコミュニティと繋がるための機会はありますか？
-- Q: 初心者でも参加できますか？
-- Q: 学生向け特別プログラムはありますか？
+- Q: I've just started learning Python. What can I gain from attending PyCon JP 2025?
+- Q: Are there opportunities for students to connect with the Python community?
+- Q: Can beginners also participate?
+- Q: Are there special programs for students?
 
 ## FAQ - 1 Month Before the Event
 
-- Q: タイムテーブルの最終版はいつ公開されますか？
-- Q: 事前に参加登録（チェックイン）はできますか？当日の受付は混み合いますか？
-- Q: 会場へのアクセス方法の詳細（最寄り駅からの道順、駐車場の有無など）を教えてください
-- Q: 懇親会の詳細（場所、時間、参加費、ドレスコードなど）は決まりましたか？
-- Q: 開発スプリントのテーマや参加方法について、もっと詳しく教えてください
-- Q: 当日持っていくべきものはありますか？（名刺、PC、筆記用具など）
-- Q: 服装はどのようなものがいいですか？（カジュアル、ビジネスカジュアルなど）
-- Q: 遠方から参加します。会場周辺の宿泊施設でおすすめはありますか？
-- Q: 最新情報はどこで確認できますか？（公式サイト、SNSなど）
-- Q: チケットのキャンセルや譲渡はできますか？
-- Q: 発表資料の提出締切はいつですか？形式の指定はありますか？
-- Q: 当日のスピーカー受付の場所と時間を教えてください
-- Q: 発表機材の最終確認（プロジェクターの解像度、マイクの種類など）をしたいです
-- Q: 自分のセッションの部屋の様子（広さ、スクリーンの大きさなど）を事前に知ることはできますか？
-- Q: 旅費支援の精算方法について教えてください
-- Q: ブース設営に関する最終案内（搬入時間、場所、注意事項など）はいつ頃もらえますか？
-- Q: スポンサーパス（参加証）はいつ、どのように配布されますか？
-- Q: 当日配布するノベルティやチラシの事前送付先と締切を教えてください
-- Q: スポンサー紹介ページ（ウェブサイト）の内容を修正したいのですが、いつまで可能ですか？
+- Q: When will the final version of the timetable be published?
+- Q: Can I check in in advance? Will the reception be crowded on the day?
+- Q: Can you provide details about access to the venue (directions from the nearest station, parking availability, etc.)?
+- Q: Have the details of the social gathering (location, time, participation fee, dress code, etc.) been decided?
+- Q: Can you tell me more about the development sprint themes and how to participate?
+- Q: What should I bring on the day? (business cards, PC, writing materials, etc.)
+- Q: What kind of attire is appropriate? (casual, business casual, etc.)
+- Q: I'm coming from far away. Can you recommend accommodation facilities around the venue?
+- Q: Where can I check the latest information? (official website, social media, etc.)
+- Q: Can tickets be canceled or transferred?
+- Q: When is the deadline for submitting presentation materials? Are there format specifications?
+- Q: Please tell me the location and time for speaker reception on the day
+- Q: I'd like to do a final check of the presentation equipment (projector resolution, microphone type, etc.)
+- Q: Can I know in advance about the room for my session (size, screen size, etc.)?
+- Q: How do I process travel support reimbursements?
+- Q: When will I receive the final instructions for booth setup (loading time, location, precautions, etc.)?
+- Q: When and how will sponsor passes be distributed?
+- Q: Please tell me the shipping address and deadline for novelties and flyers to be distributed on the day
+- Q: I'd like to modify the content of the sponsor introduction page (website). Until when is this possible?
 
 ## FAQ - On the Day of the Event (General)
 
-- Q: 受付はどこですか？何時から開いていますか？
-- Q: Wi-FiのSSIDとパスワードを教えてください
-- Q: 電源を使える場所はありますか？
-- Q: クロークはありますか？荷物を預けられますか？
-- Q: 授乳やおむつ替えができるスペースはありますか？
-- Q: 気分が悪くなったのですが、救護室はありますか？
-- Q: 落とし物をしてしまいました。どこに問い合わせればいいですか？
-- Q: 今行われているセッションは何ですか？次のセッションは何時からですか？
-- Q: この部屋のセッションの資料はどこで手に入りますか？
-- Q: スピーカーに質問したいのですが、どうすればいいですか？
-- Q: 開発スプリントの会場はどこですか？
-- Q: 懇親会の会場はどこですか？何時からですか？
-- Q: 公式のハッシュタグは何ですか？
-- Q: 写真や動画を撮影してもいいですか？注意することはありますか？
-- Q: スタッフ(主催メンバー)の方を呼びたいのですが、どうすればいいですか？
-- Q: PyCon JPのグッズはどこで買えますか？
-- Q: 近くにコンビニやATMはありますか？
+- Q: Where is the reception desk? What time does it open?
+- Q: What are the Wi-Fi SSID and password?
+- Q: Are there places where I can use power outlets?
+- Q: Is there a cloakroom? Can I leave my luggage there?
+- Q: Is there a space for nursing or diaper changing?
+- Q: I'm not feeling well. Is there a first aid room?
+- Q: I've lost something. Where should I inquire about it?
+- Q: What session is currently taking place? When does the next session start?
+- Q: Where can I get the materials for the session in this room?
+- Q: I'd like to ask the speaker a question. How should I do that?
+- Q: Where is the venue for the development sprint?
+- Q: Where is the venue for the social gathering? What time does it start?
+- Q: What is the official hashtag?
+- Q: Can I take photos or videos? Are there any precautions?
+- Q: I'd like to call a staff member (organizing member). How should I do that?
+- Q: Where can I buy PyCon JP merchandise?
+- Q: Are there convenience stores or ATMs nearby?
 
 ## FAQ for Speakers - On the Day of the Event
 
-- Q: ライトニングトークの申し込みはまだできますか？
-- Q: 発表会場はどこですか？何時までに到着すればいいですか？
-- Q: 発表前のリハーサルや機材確認はできますか？
-- Q: プロジェクターの接続方法を教えてください
-- Q: マイクのテストはできますか？
-- Q: 発表時間の残り時間はどうやって確認できますか？
-- Q: 発表後の質疑応答の進行はどうなりますか？
-- Q: 発表資料のアップロード方法を教えてください
-- Q: スピーカー控室はありますか？
-- Q: 発表中にトラブルが起きた場合はどうすればいいですか？
-- Q: 発表後にスピーカー同士で交流する場はありますか？
+- Q: Can I still apply for a lightning talk?
+- Q: Where is the presentation venue? What time should I arrive?
+- Q: Can I rehearse or check the equipment before my presentation?
+- Q: How do I connect to the projector?
+- Q: Can I test the microphone?
+- Q: How can I check the remaining time during my presentation?
+- Q: How will the Q&A session after the presentation be conducted?
+- Q: How do I upload my presentation materials?
+- Q: Is there a speakers' waiting room?
+- Q: What should I do if there's a problem during my presentation?
+- Q: Is there a place for speakers to network with each other after presentations?
 
 ## FAQ for Sponsors - On the Day of the Event
 
-- Q: スポンサーブースの場所はどこですか？
-- Q: ブースの設営は何時からできますか？
-- Q: ブースで使える電源の容量はどのくらいですか？延長コードは借りられますか？
-- Q: インターネット接続（有線LANやWi-Fi）はブースで使えますか？
-- Q: 荷物の搬入・搬出はどのようにすればいいですか？
-- Q: 事前に送った荷物はどこで受け取れますか？
-- Q: ブースの撤収は何時までに行えばいいですか？
-- Q: 追加の椅子やテーブルは借りられますか？
-- Q: ブースのゴミはどうすればいいですか？
-- Q: スポンサーパスで入場できる範囲はどこまでですか？
-- Q: 参加者向けのノベルティ配布に制限はありますか？
-- Q: スポンサーセッションがある場合、会場や開始時間はどこで確認できますか？
-- Q: 昼食や休憩を取れる場所はありますか？
-- Q: スポンサー向けの控室や荷物置き場はありますか？
-- Q: 緊急時の連絡先や、困ったときの相談窓口はどこですか？
+- Q: Where is the sponsor booth located?
+- Q: What time can we start setting up the booth?
+- Q: What is the power capacity available at the booth? Can we borrow extension cords?
+- Q: Is internet connection (wired LAN or Wi-Fi) available at the booth?
+- Q: How should we handle the loading and unloading of materials?
+- Q: Where can we receive packages that were sent in advance?
+- Q: By what time do we need to dismantle the booth?
+- Q: Can we borrow additional chairs or tables?
+- Q: How should we handle trash from the booth?
+- Q: What areas can we access with sponsor passes?
+- Q: Are there any restrictions on distributing novelty items to attendees?
+- Q: If we have a sponsor session, where can we check the venue and start time?
+- Q: Where can we have lunch or take breaks?
+- Q: Is there a waiting room or storage area for sponsors?
+- Q: What are the emergency contacts or help desk locations if we have issues?
 
 ## General FAQ
 
-- Q: 主催メンバーの募集の締切はいつですか？
-- Q: 当日のボランティア募集はありますか？
-- Q: PyCon JP 2025 の各担当チーム（プログラム、スポンサー、会場など）の連絡先や役割分担はどうなっていますか？
-- Q: 運営に関して質問や相談がある場合、どのチームの誰に連絡すればよいですか？
-- Q: 行動規範（Code of Conduct）はどのようなものですか？
-- Q: プライバシーポリシーについて教えてください
-- Q: 個人情報の取り扱いはどうなっていますか？
-- Q: ハラスメント行為があった場合の対応は？
-- Q: オンラインでの誹謗中傷やハラスメントに対して、どのような対策を講じていますか？
-- Q: 多様性への配慮（言語など）はどうなっていますか？
-- Q: セキュリティインシデントが発生した場合の対応は？
-- Q: 会場でのマスク着用は必須ですか？推奨されますか？
-- Q: マスクは会場で配布されますか？
-- Q: 会場の換気対策はどうなっていますか？
-- Q: 感染症対策としてどのような取り組みをしていますか？
+- Q: When is the deadline for recruiting organizing members?
+- Q: Will there be volunteer recruitment for the event day?
+- Q: What are the contact information and role assignments for each team in PyCon JP 2025 (Program, Sponsor, Venue, etc.)?
+- Q: If I have questions or concerns about operations, which team or person should I contact?
+- Q: What is the Code of Conduct like?
+- Q: Can you tell me about the Privacy Policy?
+- Q: How is personal information handled?
+- Q: What is the response protocol for harassment incidents?
+- Q: What measures are in place to address online defamation and harassment?
+- Q: How are diversity considerations (language, etc.) being addressed?
+- Q: What is the response protocol for security incidents?
+- Q: Is wearing a mask mandatory at the venue? Is it recommended?
+- Q: Will masks be distributed at the venue?
+- Q: What ventilation measures are in place at the venue?
+- Q: What measures are being taken to prevent infectious diseases?
 
 ## FAQ for Vendors & Contractors
 
-- Q: 契約手続きの流れと必要書類について教えてください
-- Q: 見積書の提出期限やフォーマットはありますか？
-- Q: 支払い条件（支払日、支払方法など）はどうなっていますか？
-- Q: 請求書の送付先と締切を教えてください
-- Q: 源泉徴収や消費税の取り扱いはどうなりますか？
-- Q: 契約内容の変更や追加業務が発生した場合の手続きはどうなりますか？
-- Q: PyCon JP 2025 側の担当窓口はどなたですか？連絡方法は何ですか？
-- Q: 定例ミーティングや進捗報告の頻度、形式はどうなりますか？
-- Q: 必要な情報（ロゴデータ、原稿、技術仕様など）の提供時期と形式を教えてください
-- Q: 成果物の提出期限と納品方法はどうなっていますか？
-- Q: 業務上知り得た情報の守秘義務について、取り決めはありますか？
-- Q: イベント当日の作業場所、入館許可、機材搬入出手続きについて教えてください
-- Q: イベント当日の緊急連絡体制はどうなっていますか？
-- Q: PyCon JP のブランドガイドライン（ロゴの使用規定など）はありますか？
-- Q: 過去の同様の取引実績や、他のイベントでの事例があれば教えてください
-- Q: PyCon JP 2025 の成功に向けて、私たち（業者側）から何か提案できることはありますか？
+- Q: Can you explain the contract procedures and required documents?
+- Q: Are there deadlines or format requirements for submitting quotes?
+- Q: What are the payment terms (payment dates, payment methods, etc.)?
+- Q: Where should invoices be sent and what is the deadline?
+- Q: How are withholding tax and consumption tax handled?
+- Q: What is the procedure if there are changes to the contract or additional work arises?
+- Q: Who is the contact person on the PyCon JP 2025 side? What is the method of contact?
+- Q: What is the frequency and format of regular meetings and progress reports?
+- Q: When and in what format should necessary information (logo data, copy, technical specifications, etc.) be provided?
+- Q: What are the deadlines and delivery methods for deliverables?
+- Q: Are there any agreements regarding confidentiality of information learned during the course of work?
+- Q: Can you provide information about work locations, entry permits, and equipment loading/unloading procedures on the day of the event?
+- Q: What is the emergency contact system on the day of the event?
+- Q: Are there brand guidelines for PyCon JP (logo usage rules, etc.)?
+- Q: Can you share any past similar transaction records or examples from other events?
+- Q: Is there anything we (as vendors) can suggest to contribute to the success of PyCon JP 2025?
 
 ## Update History
 
-- 2025-05-25: 初版公開
+- 2025-05-25: Initial publication

@@ -53,6 +53,10 @@ We hope this FAQ list will serve as a "food for thought" to help us all consider
 - Q: Are there networking events for attendees?
 - Q: Is there a place to introduce communities?
 - Q: Can you tell me about the open space?
+- Q: Do you conduct a stamp rally for sponsor booths?
+- Q: Please tell me about how to receive and use participant name tags
+- Q: Can I get a T-shirt?
+- Q: Can I get a bag?
 
 ## FAQ for International Attendees
 
@@ -235,4 +239,5 @@ We hope this FAQ list will serve as a "food for thought" to help us all consider
 
 ## Update History
 
+- 2025-05-27: Added content
 - 2025-05-25: Initial publication

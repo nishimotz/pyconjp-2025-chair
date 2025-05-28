@@ -73,6 +73,7 @@ We hope this FAQ list will serve as a "food for thought" to help us all consider
 - Q: Are there meal accommodations for religious reasons (halal, kosher, etc.) or vegetarian options (vegan, etc.)?
 - Q: Is there a refund policy if I cannot obtain a visa or enter Japan?
 - Q: Is there a refund policy if I cannot attend due to illness (such as infectious diseases)?
+- Q: How do you handle cases where the name on official identification (passport, etc.) differs from the preferred name for participation? (Regarding name matching for speakers, attendees, immigration procedures, travel support, etc.)
 
 ## FAQ for Sponsors
 
@@ -239,5 +240,6 @@ We hope this FAQ list will serve as a "food for thought" to help us all consider
 
 ## Update History
 
+- 2025-05-28: Added question about name management
 - 2025-05-27: Added content
 - 2025-05-25: Initial publication

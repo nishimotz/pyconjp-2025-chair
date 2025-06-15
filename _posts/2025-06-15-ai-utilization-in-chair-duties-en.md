@@ -18,7 +18,7 @@ We are recruiting organizing members. Please apply through our [Organizing Membe
 
 As we approach 100 days before the event, I reflect on the "verbalization" process I started in November 2024.
 
-Traditional handover documents have a significant challenge: when organizations simply follow previous procedures exactly, they can only be led by experienced teams from the same location. This creates barriers to geographic expansion and newcomer participation.
+I decided to try a different approach from traditional handover documents because I wanted to do something new. Rather than simply following previous procedures exactly, I wanted to explore methods that would allow different regions and new members to understand the principles and flexibly adapt the organization.
 
 In organizational development, it's important to follow the sequence of first clarifying "why we do it" (purpose and principles), then "how we do it" (methods and processes), and finally "what we do" (specific tasks).
 

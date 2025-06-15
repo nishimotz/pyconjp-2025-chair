@@ -148,6 +148,8 @@ At the same time, we must not pressure or treat coldly those who inevitably cann
 
 Organizations where organizing members are enjoying themselves naturally attract people. Chairs are required to prioritize the happiness of each member and create an environment where they can participate naturally within reasonable limits.
 
+From an AI utilization perspective, I continue to learn through dialogue with AI to understand the difficulty and depth of human relationships. Through conversations with AI, I can gain new insights into the complexity of human communication and the essence of teamwork. This is also an important learning process for building better relationships with organizing members.
+
 ## Update History
 
 - 2025-06-15: Initial publication

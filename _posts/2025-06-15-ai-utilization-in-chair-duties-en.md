@@ -138,6 +138,16 @@ What's important is that you don't need to be perfect. When problems arise, thin
 
 If you have the feeling "I want to try it," that's sufficient qualification.
 
+### Chair's Mindset for Caring for Organizing Members
+
+What I most want to convey to future chairs is that **organizing members are the main characters**. The chair is "the person who teaches how to fish," while organizing members are the ones who actually catch the fish.
+
+Creating opportunities for organizing members to shine and feel fulfilled is a crucial role of the chair. For example, the Python tutorial retreat we conducted this year was a very meaningful experience for participants. Even though it's difficult to reward them financially, it's important to actively create opportunities where they can think "I'm glad I participated."
+
+At the same time, we must not pressure or treat coldly those who inevitably cannot continue activities or need to take breaks. Understanding that people have various life circumstances and that there are diverse ways to engage in volunteer activities, we need to maintain a respectful attitude.
+
+Organizations where organizing members are enjoying themselves naturally attract people. Chairs are required to prioritize the happiness of each member and create an environment where they can participate naturally within reasonable limits.
+
 ## Update History
 
 - 2025-06-15: Initial publication

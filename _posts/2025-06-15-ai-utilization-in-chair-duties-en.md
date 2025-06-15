@@ -18,13 +18,15 @@ We are recruiting organizing members. Please apply through our [Organizing Membe
 
 As we approach 100 days before the event, I reflect on the "verbalization" process I started in November 2024.
 
+Traditional handover documents have a significant challenge: when organizations simply follow previous procedures exactly, they can only be led by experienced teams from the same location. This creates barriers to geographic expansion and newcomer participation.
+
 In organizational development, it's important to follow the sequence of first clarifying "why we do it" (purpose and principles), then "how we do it" (methods and processes), and finally "what we do" (specific tasks).
 
 - **Why**: Mission, vision, principles
 - **How**: Methodology, processes, codes of conduct  
 - **What**: Specific tasks, procedural manuals, checklists
 
-What is written becomes the rule for what should be written next, and an activity that started with one person becomes a team of dozens. This is the foundation of management and is becoming the new common sense in software development in the AI era.
+By documenting in this order, new teams and different locations (like Hiroshima for our event) can understand the underlying principles and flexibly adapt the organization to their context. What is written becomes the rule for what should be written next, and an activity that started with one person becomes a team of dozens. This is the foundation of management and is becoming the new common sense in software development in the AI era.
 
 AI tool utilization has become a natural part of our daily work. As chair, I collaborate with various AI tools including ChatGPT, Copilot, Gemini, Cline, Devin, and Claude not only for daily tasks but also for chair-specific responsibilities. This article is being written together with Claude Code.
 

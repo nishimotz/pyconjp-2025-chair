@@ -16,11 +16,19 @@ We are recruiting organizing members. Please apply through our [Organizing Membe
 
 ## Introduction
 
-As we approach 100 days before the event, I reflect on the "verbalization" process I started in November 2024. From why, how, what sequence, or mission, vision, or from abstract to concrete. From codes of conduct to procedural manuals.
-
-What is written becomes the rule for what should be written next, and an activity that started with one person becomes a team of dozens. This is also the foundation of management and is becoming the new common sense in software development in the AI era.
+As we approach 100 days before the event, I reflect on the "verbalization" process I started in November 2024.
 
 AI tool utilization has become a natural part of our daily work. As chair, I collaborate with various AI tools including ChatGPT, Copilot, Gemini, Cline, Devin, and Claude not only for daily tasks but also for chair-specific responsibilities. This article is being written together with Claude Code.
+
+I decided to try a different approach from traditional handover documents because I wanted to do something new. Rather than simply following previous procedures exactly, I wanted to explore methods that would allow different regions and new members to understand the principles and flexibly adapt the organization.
+
+In organizational development, it's important to follow the sequence of first clarifying "why we do it" (purpose and principles), then "how we do it" (methods and processes), and finally "what we do" (specific tasks).
+
+- **Why**: Mission, vision, principles
+- **How**: Methodology, processes, codes of conduct  
+- **What**: Specific tasks, procedural manuals, checklists
+
+By documenting in this order, new teams and different locations (like Hiroshima for our event) can understand the underlying principles and flexibly adapt the organization to their context. What is written becomes the rule for what should be written next, and an activity that started with one person becomes a team of dozens. This is the foundation of management and is becoming the new common sense in software development in the AI era.
 
 "Being able to use many AI tools doesn't make someone capable of being chair." What matters is finding issues, thinking of solutions, and collaborating with the team. AI is merely a tool to support this process.
 
@@ -129,6 +137,20 @@ I also started as chair without experience. I was also learning AI tool usage th
 What's important is that you don't need to be perfect. When problems arise, think about them then. Search for solutions together with AI. Cooperate with the team.
 
 If you have the feeling "I want to try it," that's sufficient qualification.
+
+### Chair's Mindset for Caring for Organizing Members
+
+What I most want to convey to future chairs is that **organizing members are the main characters**. The chair is "the person who teaches how to fish," while organizing members are the ones who actually catch the fish.
+
+However, I sometimes end up catching the fish myself or find myself standing around holding the fishing rod, not knowing what to do. I have such failures too. Even now. I'm not a perfect chair, but I still want to remember that organizing members are the main characters.
+
+Creating opportunities for organizing members to shine and feel fulfilled is a crucial role of the chair. For example, the Python tutorial retreat we conducted this year was a very meaningful experience for participants. Even though it's difficult to reward them financially, it's important to actively create opportunities where they can think "I'm glad I participated."
+
+At the same time, we must not pressure or treat coldly those who inevitably cannot continue activities or need to take breaks. Understanding that people have various life circumstances and that there are diverse ways to engage in volunteer activities, we need to maintain a respectful attitude.
+
+Organizations where organizing members are enjoying themselves naturally attract people. Chairs are required to prioritize the happiness of each member and create an environment where they can participate naturally within reasonable limits.
+
+From an AI utilization perspective, I continue to learn through dialogue with AI to understand the difficulty and depth of human relationships. Through conversations with AI, I can gain new insights into the complexity of human communication and the essence of teamwork. This is also an important learning process for building better relationships with organizing members.
 
 ## Update History
 

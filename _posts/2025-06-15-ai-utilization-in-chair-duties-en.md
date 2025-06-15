@@ -142,6 +142,8 @@ If you have the feeling "I want to try it," that's sufficient qualification.
 
 What I most want to convey to future chairs is that **organizing members are the main characters**. The chair is "the person who teaches how to fish," while organizing members are the ones who actually catch the fish.
 
+However, I sometimes end up catching the fish myself or find myself standing around holding the fishing rod, not knowing what to do. I have such failures too. Even now. I'm not a perfect chair, but I still want to remember that organizing members are the main characters.
+
 Creating opportunities for organizing members to shine and feel fulfilled is a crucial role of the chair. For example, the Python tutorial retreat we conducted this year was a very meaningful experience for participants. Even though it's difficult to reward them financially, it's important to actively create opportunities where they can think "I'm glad I participated."
 
 At the same time, we must not pressure or treat coldly those who inevitably cannot continue activities or need to take breaks. Understanding that people have various life circumstances and that there are diverse ways to engage in volunteer activities, we need to maintain a respectful attitude.

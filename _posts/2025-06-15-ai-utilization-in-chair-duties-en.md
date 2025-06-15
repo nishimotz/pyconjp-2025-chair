@@ -18,6 +18,8 @@ We are recruiting organizing members. Please apply through our [Organizing Membe
 
 As we approach 100 days before the event, I reflect on the "verbalization" process I started in November 2024.
 
+AI tool utilization has become a natural part of our daily work. As chair, I collaborate with various AI tools including ChatGPT, Copilot, Gemini, Cline, Devin, and Claude not only for daily tasks but also for chair-specific responsibilities. This article is being written together with Claude Code.
+
 I decided to try a different approach from traditional handover documents because I wanted to do something new. Rather than simply following previous procedures exactly, I wanted to explore methods that would allow different regions and new members to understand the principles and flexibly adapt the organization.
 
 In organizational development, it's important to follow the sequence of first clarifying "why we do it" (purpose and principles), then "how we do it" (methods and processes), and finally "what we do" (specific tasks).
@@ -27,8 +29,6 @@ In organizational development, it's important to follow the sequence of first cl
 - **What**: Specific tasks, procedural manuals, checklists
 
 By documenting in this order, new teams and different locations (like Hiroshima for our event) can understand the underlying principles and flexibly adapt the organization to their context. What is written becomes the rule for what should be written next, and an activity that started with one person becomes a team of dozens. This is the foundation of management and is becoming the new common sense in software development in the AI era.
-
-AI tool utilization has become a natural part of our daily work. As chair, I collaborate with various AI tools including ChatGPT, Copilot, Gemini, Cline, Devin, and Claude not only for daily tasks but also for chair-specific responsibilities. This article is being written together with Claude Code.
 
 "Being able to use many AI tools doesn't make someone capable of being chair." What matters is finding issues, thinking of solutions, and collaborating with the team. AI is merely a tool to support this process.
 

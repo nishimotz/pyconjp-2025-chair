@@ -1,0 +1,41 @@
+name: Claude Content Review
+
+on:
+  pull_request:
+    paths:
+      - '_posts/**'
+      - '*.md'
+    types: [opened, synchronize]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Review Content with Claude
+      uses: anthropics/claude-action@v1
+      with:
+        api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+        prompt: |
+          Please review the content changes in this PR for the PyCon JP 2025 Chair's blog.
+          
+          Check for:
+          1. Proper frontmatter format for Jekyll posts
+          2. Consistency with bilingual content requirements
+          3. Inclusion of required standard content (chair introduction, event info, etc.)
+          4. Image references using correct format
+          5. Proper markdown formatting
+          6. Update history section
+          
+          Refer to the .clinerules file for specific content guidelines.
+          
+          Provide constructive feedback and suggestions for improvement.
+        files: |
+          **/*.md

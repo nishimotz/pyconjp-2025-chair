@@ -37,15 +37,34 @@ jobs:
     
     - name: Review Content with Claude API
       run: |
+        # Debug: Show what files were detected
+        echo "Changed files detected:"
+        echo "${{ steps.changed-files.outputs.files }}"
+        
         # Get file contents
         changed_files="${{ steps.changed-files.outputs.files }}"
         file_contents=""
         
-        for file in $changed_files; do
-          if [ -f "$file" ]; then
-            file_contents="$file_contents\n\n=== $file ===\n$(cat $file)"
+        # Process each file
+        while IFS= read -r file; do
+          if [ -n "$file" ] && [ -f "$file" ]; then
+            echo "Processing file: $file"
+            file_contents="$file_contents
+
+=== $file ===
+$(cat "$file")"
+          else
+            echo "File not found or empty: '$file'"
           fi
-        done
+        done <<< "$changed_files"
+        
+        # Debug: Show if we have content
+        if [ -z "$file_contents" ]; then
+          echo "No file contents collected"
+          exit 0
+        else
+          echo "File contents collected successfully"
+        fi
         
         # Prepare prompt
         prompt="Please review the content changes in this PR for the PyCon JP 2025 Chair's blog.

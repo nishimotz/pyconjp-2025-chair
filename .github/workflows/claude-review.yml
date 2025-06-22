@@ -28,7 +28,11 @@ jobs:
       id: changed-files
       run: |
         echo "files<<EOF" >> $GITHUB_OUTPUT
-        git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep -E '\.(md)$' || true
+        if [ "${{ github.event_name }}" = "pull_request" ]; then
+          git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep -E '\.(md)$' || true
+        else
+          git diff --name-only HEAD~1 HEAD | grep -E '\.(md)$' || true
+        fi
         echo "EOF" >> $GITHUB_OUTPUT
     
     - name: Review Content with Claude API

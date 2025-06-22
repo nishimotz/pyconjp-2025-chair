@@ -64,3 +64,4 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 
 ## 更新履歴
 - 2025-06-23: 初版公開
+- 2025-06-23: Claude Code Actions 修正後テスト

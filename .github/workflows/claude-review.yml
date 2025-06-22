@@ -36,7 +36,6 @@ jobs:
         echo "EOF" >> $GITHUB_OUTPUT
     
     - name: Review Content with Claude API
-      if: steps.changed-files.outputs.files != ''
       run: |
         # Get file contents
         changed_files="${{ steps.changed-files.outputs.files }}"

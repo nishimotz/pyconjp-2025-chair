@@ -7,7 +7,7 @@ title: Home
 
 [PyCon JP 2025 は2025年9月26日・27日に広島国際会議場で開催されます](https://2025.pycon.jp/)
 
-[**note はじめました**](https://note.com/24motz/m/m5b9c3affd50b)
+[**noteで100日チャレンジやってます**](https://note.com/24motz/m/m5b9c3affd50b)
 
 <div class="image-center">
 ![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg)

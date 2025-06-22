@@ -49,10 +49,12 @@ jobs:
         while IFS= read -r file; do
           if [ -n "$file" ] && [ -f "$file" ]; then
             echo "Processing file: $file"
-            file_contents="$file_contents
+            file_contents="$file_contents$(cat <<EOF
 
 === $file ===
-$(cat "$file")"
+$(cat "$file")
+EOF
+)"
           else
             echo "File not found or empty: '$file'"
           fi

@@ -6,6 +6,11 @@ on:
       - '_posts/**'
       - '*.md'
     types: [opened, synchronize]
+  push:
+    branches: [main]
+    paths:
+      - '_posts/**'
+      - '*.md'
 
 jobs:
   review:
@@ -74,9 +79,28 @@ jobs:
         # Extract content from response
         review_content=$(echo "$response" | jq -r '.content[0].text // "Error: Could not get review from Claude"')
         
-        # Comment on PR
-        gh pr comment ${{ github.event.pull_request.number }} --body "## 🤖 Claude Content Review
+        # Post review result
+        if [ "${{ github.event_name }}" = "pull_request" ]; then
+          # Comment on PR
+          gh pr comment ${{ github.event.pull_request.number }} --body "## 🤖 Claude Content Review
 
         $review_content"
+        else
+          # Create issue for main branch push
+          gh issue create \
+            --title "🤖 Claude Review - $(date '+%Y-%m-%d %H:%M')" \
+            --body "$(cat <<'EOF'
+        ## 📝 Content Review Results
+
+        **Commit:** ${{ github.sha }}
+        **Files changed:** $changed_files
+
+        ---
+
+        $review_content
+        EOF
+        )" \
+            --label "claude-review"
+        fi
       env:
         GH_TOKEN: ${{ github.token }}

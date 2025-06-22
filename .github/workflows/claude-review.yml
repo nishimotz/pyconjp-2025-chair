@@ -19,23 +19,64 @@ jobs:
       with:
         fetch-depth: 0
     
-    - name: Review Content with Claude
-      uses: anthropics/claude-action@v1
-      with:
-        api-key: ${{ secrets.ANTHROPIC_API_KEY }}
-        prompt: |
-          Please review the content changes in this PR for the PyCon JP 2025 Chair's blog.
-          
-          Check for:
-          1. Proper frontmatter format for Jekyll posts
-          2. Consistency with bilingual content requirements
-          3. Inclusion of required standard content (chair introduction, event info, etc.)
-          4. Image references using correct format
-          5. Proper markdown formatting
-          6. Update history section
-          
-          Refer to the .clinerules file for specific content guidelines.
-          
-          Provide constructive feedback and suggestions for improvement.
-        files: |
-          **/*.md
+    - name: Get changed files
+      id: changed-files
+      run: |
+        echo "files<<EOF" >> $GITHUB_OUTPUT
+        git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep -E '\.(md)$' || true
+        echo "EOF" >> $GITHUB_OUTPUT
+    
+    - name: Review Content with Claude API
+      if: steps.changed-files.outputs.files != ''
+      run: |
+        # Get file contents
+        changed_files="${{ steps.changed-files.outputs.files }}"
+        file_contents=""
+        
+        for file in $changed_files; do
+          if [ -f "$file" ]; then
+            file_contents="$file_contents\n\n=== $file ===\n$(cat $file)"
+          fi
+        done
+        
+        # Prepare prompt
+        prompt="Please review the content changes in this PR for the PyCon JP 2025 Chair's blog.
+
+        Check for:
+        1. Proper frontmatter format for Jekyll posts
+        2. Consistency with bilingual content requirements  
+        3. Inclusion of required standard content (chair introduction, event info, etc.)
+        4. Image references using correct format
+        5. Proper markdown formatting
+        6. Update history section
+        
+        Refer to the .clinerules file for specific content guidelines.
+        
+        Changed files:
+        $file_contents
+        
+        Provide constructive feedback and suggestions for improvement."
+        
+        # Call Claude API
+        response=$(curl -s -X POST "https://api.anthropic.com/v1/messages" \
+          -H "Content-Type: application/json" \
+          -H "x-api-key: ${{ secrets.ANTHROPIC_API_KEY }}" \
+          -H "anthropic-version: 2023-06-01" \
+          -d "{
+            \"model\": \"claude-3-sonnet-20240229\",
+            \"max_tokens\": 1000,
+            \"messages\": [{
+              \"role\": \"user\",
+              \"content\": $(echo "$prompt" | jq -Rs .)
+            }]
+          }")
+        
+        # Extract content from response
+        review_content=$(echo "$response" | jq -r '.content[0].text // "Error: Could not get review from Claude"')
+        
+        # Comment on PR
+        gh pr comment ${{ github.event.pull_request.number }} --body "## 🤖 Claude Content Review
+
+        $review_content"
+      env:
+        GH_TOKEN: ${{ github.token }}

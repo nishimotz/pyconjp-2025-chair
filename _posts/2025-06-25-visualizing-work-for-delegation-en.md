@@ -51,7 +51,7 @@ In PyCon JP 2025's organizational management, we practice this in the following 
 
 #### Creating Team-Specific Task Documents
 
-We document tasks for each team (Chair, Program, PR, Sponsor, Venue, Attendee Management) in detail and publish them on GitHub. This allows members to select tasks according to their interests and abilities.
+We document tasks for each team (Chair, Program, PR, Sponsor, Venue, Attendee Management) in detail and publish them publicly. This allows members to select tasks according to their interests and abilities.
 
 #### Practicing Working Out Loud
 

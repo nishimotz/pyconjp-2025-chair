@@ -103,6 +103,17 @@ When others take action:
 
 While efficiency may decrease in the short term, the overall organizational strength improves in the long term, leading to better outcomes.
 
+#### Similarity to AI Agent Collaboration
+
+Interestingly, this principle of "work visualization and delegation" applies similarly to collaboration with AI agents. When humans don't try to control everything and appropriately delegate tasks to AI:
+
+- **Unexpected approaches**: Discovery of solutions humans wouldn't think of
+- **Efficient processing**: Optimization of work leveraging AI's strengths
+- **New perspectives**: Insights through data analysis and pattern recognition
+- **Scalability**: Utilizing processing capabilities beyond human capacity
+
+In PyCon JP 2025's organizational management, we're also exploring the appropriate division of roles between humans and AI while utilizing AI tools.
+
 ### Current Challenges
 
 Points we continue to improve:

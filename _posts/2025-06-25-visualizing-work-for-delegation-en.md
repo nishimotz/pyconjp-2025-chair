@@ -122,6 +122,14 @@ Points we continue to improve:
 - **Skill matching**: Proposing optimal tasks for members' abilities and interests
 - **Feedback loops**: Mechanisms to connect completed tasks to next improvements
 
+## Current Situation: Continuing to Warm the Air
+
+At the end of June, despite facing difficulties, we have reached a situation where the team is trying to take away my work. I refrain from words, refrain from actions, and simply continue to warm the air, hoping that a large balloon will gently rise up.
+
+Through this late June experience, I have come to realize once again that the role of the chair is not to give instructions or manage everything, but to "warm the air" so that team members can take initiative.
+
+When members begin to find work on their own and show a proactive attitude toward tackling it, the chair steps back and becomes a presence that supports that movement. This may be the essence of sustainable and creative organizational management.
+
 ## About PyCon JP 2025
 
 PyCon JP 2025 is a Python conference to be held on September 26-27, 2025, at the Hiroshima International Conference Center. The theme is "pieces of python, coming together."

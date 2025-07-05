@@ -76,9 +76,9 @@ Response when problems are discovered:
 - **Environmental adjustments**: Reviewing team assignments or redefining roles
 - **Additional support**: Providing mentoring or pair work opportunities
 
-## Developing Leaders and Sub-leaders
+## What We Expect from Leaders and Sub-leaders
 
-For this multi-layered delegation system to function, developing leaders and sub-leaders is essential.
+For this multi-layered delegation system to function, there are expectations we have for our leaders and sub-leaders.
 
 ### Required Skills
 

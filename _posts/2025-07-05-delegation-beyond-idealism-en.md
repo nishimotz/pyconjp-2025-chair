@@ -166,6 +166,40 @@ In PyCon JP 2025 operations, this multi-layered delegation system is already bei
 - **Overall monitoring**: The chair team conducts continuous monitoring
 - **Escalation functionality**: We've built a rapid response system for when problems arise
 
+## Decision-Making and Delegation Under Time Constraints
+
+### Transition from "Publish When Ready" to "Must Be Done by Date"
+
+Until now, we've managed with "publish something when it's ready," but from now on, we'll have more tasks that "must be completed by a specific date." To respond to this change:
+
+#### Mechanisms to Reduce Time Waste
+
+- **Distinguishing decision types**: Separating decisions that can be made quickly from those requiring careful consideration
+- **Promoting team self-direction**: Clarifying decision-making authority at the leader and sub-leader levels
+- **Efficient processes**: Reducing unnecessary meetings and approval processes
+
+#### Using Different Approaches Based on Decision Types
+
+**Quick Decision Type**:
+- Technical implementation methods
+- Daily operational judgments
+- Matters requiring emergency response
+
+**Full Consensus Type**:
+- Important decisions related to branding (such as logo design)
+- Policies that significantly impact participant experience
+- Judgments related to organizational values
+
+#### Case Study: Logo Decision Process
+
+In the recent logo decision process, time was taken for discussions that went beyond the responsible team:
+
+- **Broad opinion collection**: Gathering perspectives from multiple teams
+- **Sufficient consideration time**: Not rushing, emphasizing high-quality discussion
+- **Consensus-building process**: Aiming for conclusions that everyone can accept
+
+As shown, it's important to select appropriate decision-making processes based on the nature of the task.
+
 ## Future Challenges and Prospects
 
 ### Continuous Improvement
@@ -173,6 +207,7 @@ In PyCon JP 2025 operations, this multi-layered delegation system is already bei
 - **System refinement**: Building more effective delegation processes
 - **Leader development**: Discovering and nurturing next-generation leaders
 - **Evaluation and improvement**: Measuring system effectiveness and continuous improvement
+- **Decision-making process optimization**: Balancing time constraints with consensus building
 
 ### Handover to 2026
 

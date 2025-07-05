@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Delegation Beyond Idealism - The 2-6-2 Rule and Multi-layered Delegation Systems
+title: Proposing Activity Methods Tailored to Organizing Members' Diversity
 layout: default
 permalink: /delegation-beyond-idealism-en.html
 team: chair

@@ -1,5 +1,5 @@
 ---
-title: 理想を超えた委譲 - 2-6-2の法則と段階的委譲システム
+title: 主催メンバーの多様性に合わせた活動方法を改めて提案
 layout: default
 permalink: /delegation-beyond-idealism-ja.html
 team: chair

@@ -282,7 +282,7 @@ Your cautiousness is a valuable quality for the organization:
 
 You are the key to the multi-layered delegation system:
 
-**Important Responsibilities**:
+**What We Hope to Expect**:
 - "Pull away" work from the chair and distribute it appropriately within teams
 - Understand member characteristics and assign suitable work to each
 - Prevent organizational stagnation and promote team self-direction
@@ -300,6 +300,7 @@ You are the key to the multi-layered delegation system:
 - Consult with the chair team early for problems difficult to resolve within the team
 - Actively seek support to prevent "don't know, so don't do anything" situations
 - When temporarily unable to function, ensure alternative arrangements and situation sharing
+- 1on1 meetings with the chair are also recommended for difficult situations
 
 ## Conclusion
 

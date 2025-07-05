@@ -127,6 +127,36 @@ The philosophy described in "[Adapting Organization to People]({{ site.baseurl }
 - **Flexible systems**: Management not bound by rigid organizational structures
 - **Growth support**: Supporting growth at each person's own pace
 
+## Preventing Organizational Stagnation
+
+### Addressing "Don't Know, So Don't Do Anything" Situations
+
+When everyone says "I don't know what to do, so I won't do anything," volunteer organizations cannot create good events. To prevent this situation, we have established the following mechanisms:
+
+#### Responsibilities of Leaders and Sub-leaders
+
+When leaders or sub-leaders are temporarily unable to function adequately:
+
+- **Securing alternatives**: Actively seeking people who can take responsibility
+- **Sharing situations**: Early communication of concerning situations to the chair team and team members
+- **Maintaining transparency**: Consulting openly rather than keeping problems to themselves
+
+#### Direct Support from Chair Team
+
+When there are no proactive members available:
+
+- **Chair intervention**: The chair directly engages in team management when necessary
+- **Dispatching supporters**: Experienced members from the chair team provide support to help teams function
+- **Temporary structural changes**: Reviewing team composition and role assignments
+
+#### Escalation Process
+
+For early detection and response to problems:
+
+1. **Team level**: Situation assessment by leaders and sub-leaders
+2. **Chair team level**: Regular confirmation of team situations
+3. **Emergency response**: Immediate construction of support systems when needed
+
 ## Current Implementation Status
 
 In PyCon JP 2025 operations, this multi-layered delegation system is already being practiced:
@@ -134,6 +164,7 @@ In PyCon JP 2025 operations, this multi-layered delegation system is already bei
 - **Active team leaders**: Leaders who proactively take on work are developing in each team
 - **Individual support implementation**: We're providing individual responses to struggling members
 - **Overall monitoring**: The chair team conducts continuous monitoring
+- **Escalation functionality**: We've built a rapid response system for when problems arise
 
 ## Future Challenges and Prospects
 

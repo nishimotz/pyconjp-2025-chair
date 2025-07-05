@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Delegation Beyond Idealism - The 2-4-2 Rule and Multi-layered Delegation Systems
+title: Delegation Beyond Idealism - The 2-6-2 Rule and Multi-layered Delegation Systems
 layout: default
 permalink: /delegation-beyond-idealism-en.html
 team: chair
@@ -20,15 +20,15 @@ In my previous article "[The Chair's Job is to Visualize Work and Have Members T
 
 However, in real organizational management, not all organizing members can be that proactive. Today, I want to explore a more realistic delegation system.
 
-## The Reality of the 2-4-2 Rule
+## The Reality of the 2-6-2 Rule
 
-The "2-6-2 rule" (more accurately the 2-4-2 rule) mentioned in "[Planning Study Sessions for Organizing Members]({{ site.baseurl }}/2024/12/07/onboarding-study.html)" represents the reality of team activities:
+The "2-6-2 rule" mentioned in "[Planning Study Sessions for Organizing Members]({{ site.baseurl }}/2024/12/07/onboarding-study.html)" represents the reality of team activities:
 
 - **20%**: Members who act proactively, finding and taking on work themselves
-- **40%**: Members who respond to situations and reliably complete assigned tasks
+- **60%**: Members who respond to situations and reliably complete assigned tasks
 - **20%**: Members who act cautiously and demonstrate their abilities with proper support
 
-Given this rule, the idealistic model of "having work taken away" primarily applies to the first 20% of members. The remaining 60% require different approaches.
+Given this rule, the idealistic model of "having work taken away" primarily applies to the first 20% of members. The remaining 80% require different approaches.
 
 ## Building a Multi-layered Delegation System
 
@@ -44,7 +44,7 @@ Leaders and sub-leaders have the following responsibilities:
 
 ### Stage 2: From Leaders to Team Members
 
-For the 40% of members who "can handle assigned work," leaders and sub-leaders appropriately assign tasks. What's important here is:
+For the 60% of members who "can handle assigned work," leaders and sub-leaders appropriately assign tasks. What's important here is:
 
 - **Clear instructions**: Specifically communicating what, when, and how to do something
 - **Appropriate sizing**: Breaking down tasks to match member skill levels
@@ -217,13 +217,97 @@ The experience with this multi-layered delegation system will be valuable assets
 - **Case accumulation**: Recording success and failure cases
 - **Improvement proposals**: Specific improvement suggestions for next time
 
+## Reader-Specific Guide - How to Use This Article Based on Your Role
+
+This article is written with different types of readers in mind. Please refer to the following sections based on your position.
+
+### For Proactive Members (20%)
+
+You are the driving force of the organization. Please be mindful of the following:
+
+**Your Role**:
+- Proactively "take away" work that the chair has made visible
+- Lead work breakdown and redistribution within teams
+- Create an environment where other members can easily participate
+
+**Important Considerations**:
+- Resist the temptation of "it's faster if I do it myself" and focus on delegation
+- Respect other members' pace and avoid being pushy
+- Practice Working Out Loud to make work processes transparent
+
+**Specific Actions**:
+- Break down large tasks into smaller, manageable pieces for other members
+- Regularly share progress and seek collaborators
+- Proactively offer support when you see struggling members
+
+### For Situation-Responsive Members (60%)
+
+You are the stable foundation of the organization. Please consider the following:
+
+**Your Strengths**:
+- Ability to reliably complete assigned tasks
+- Adaptability to respond flexibly to situations
+- Being an important presence that supports team stability
+
+**Effective Participation Methods**:
+- Receive clear instructions from leaders and sub-leaders
+- Don't hesitate to ask questions when unclear
+- Contribute steadily at your own pace
+
+**Growth Tips**:
+- Start with small suggestions and gradually demonstrate initiative
+- Observe and learn from other members' approaches
+- Actively share opinions in your areas of expertise
+
+### For Cautious Members (20%)
+
+Your cautiousness is a valuable quality for the organization:
+
+**Your Value**:
+- Insight to identify risks in advance
+- Meticulousness in creating high-quality deliverables
+- Thoughtful perspective that adds depth to team decisions
+
+**Accessible Participation Methods**:
+- Start with pair work or small group activities
+- Contribute in your areas of expertise or interest
+- Gradually increase responsibilities
+
+**How to Receive Support**:
+- Consult with leaders or the chair team early when in trouble
+- Utilize one-on-one dialogue opportunities
+- Build up small success experiences
+
+### For Leaders and Sub-leaders
+
+You are the key to the multi-layered delegation system:
+
+**Important Responsibilities**:
+- "Pull away" work from the chair and distribute it appropriately within teams
+- Understand member characteristics and assign suitable work to each
+- Prevent organizational stagnation and promote team self-direction
+
+**Member Support Points**:
+- **Proactive Members (20%)**: Assign significant responsibilities and provide growth opportunities
+- **Situation-Responsive Members (60%)**: Provide clear instructions and appropriate support
+- **Cautious Members (20%)**: Offer individual dialogue and gradual participation opportunities
+
+**Decision-Making Differentiation**:
+- **Quick Decision Type**: Technical implementation, daily operations, emergency response
+- **Full Consensus Type**: Branding, participant experience, organizational values
+
+**Escalation Judgment**:
+- Consult with the chair team early for problems difficult to resolve within the team
+- Actively seek support to prevent "don't know, so don't do anything" situations
+- When temporarily unable to function, ensure alternative arrangements and situation sharing
+
 ## Conclusion
 
 While the idealistic model of "having work taken away" is important, real organizational management requires a staged approach that recognizes member diversity.
 
-Based on the 2-4-2 rule, I believe creating an environment where each member can demonstrate their maximum potential is an important responsibility as chair. While there's no perfect system, we aim to build an organization where everyone can thrive through continuous improvement.
+Based on the 2-6-2 rule, I believe creating an environment where each member can demonstrate their maximum potential is an important responsibility as chair. While there's no perfect system, we aim to build an organization where everyone can thrive through continuous improvement.
 
-To all organizing members, each of your contributions supports PyCon JP 2025. If you have any troubles, please don't hesitate to consult with us. We will fully support your activities.
+To all organizing members, each of your contributions supports PyCon JP 2025. Regardless of your position, if you have any troubles, please don't hesitate to consult with us. We will fully support your activities.
 
 ## Update History
 

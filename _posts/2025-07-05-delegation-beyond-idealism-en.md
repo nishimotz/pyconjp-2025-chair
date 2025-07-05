@@ -80,6 +80,8 @@ Response when problems are discovered:
 
 For this multi-layered delegation system to function, there are expectations we have for our leaders and sub-leaders.
 
+As mentioned in previous articles, leaders and sub-leaders serve as "contact persons" and can be rotated. However, what's important here is that **while they don't need to be hands-on workers themselves, they should connect people to people, teams to teams, and support people's activities**.
+
 ### Required Skills
 
 - **Delegation techniques**: Appropriate task breakdown and explanation

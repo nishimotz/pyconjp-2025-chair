@@ -13,7 +13,7 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 
 組織運営において「誰が責任を取るのか」という問題は常に議論の対象となります。しかし、私たちが目指すべきは、個人に責任を押し付けるのではなく、「しくみ」そのものが責任を担う組織構造です。
 
-これまでの記事で説明してきた[2-6-2の委譲システム]({{ site.baseurl }}/delegation-beyond-idealism-ja.html)や[Type 1/Type 2の決定フレームワーク]({{ site.baseurl }}/2024/12/14/decisions.html)、そして[Working Out Loud]({{ site.baseurl }}/working-out-loud-ja.html)の実践は、すべてこの「システムによる責任分散」を実現するための仕組みです。
+これまでの記事で説明してきた[2-6-2の委譲システム]({{ site.baseurl }}/delegation-beyond-idealism-ja.html)や[Type 1/Type 2の決定フレームワーク]({{ site.baseurl }}/2024/12/14/decisions.html)、[Working Out Loud]({{ site.baseurl }}/working-out-loud-ja.html)の実践、[人に合わせた組織運営]({{ site.baseurl }}/adapting-organization-to-people-ja.html)、[仕事の可視化と委譲]({{ site.baseurl }}/visualizing-work-for-delegation-ja.html)は、すべてこの「システムによる責任分散」を実現するための仕組みです。
 
 ## 責任のレイヤー構造
 
@@ -142,6 +142,7 @@ PyCon JP 2025の組織運営では、明確な責任のレイヤー構造を構�
 **システム化された責任分散**：
 - 決定プロセス自体が責任を担う構造
 - 個人の判断ではなく、組織の合意としての決定
+- [主催メンバーのマインドセット]({{ site.baseurl }}/organizing-member-mindset-ja.html)として、個人責任ではなく座長チームの準備不足として捉える
 - 失敗からの学習を重視する文化
 
 ### 具体的な責任軽減の仕組み
@@ -162,6 +163,7 @@ Type 2決定 → 現場レベルでの迅速な判断
 - 個人責任の追及ではなく、システム改善への焦点
 - 失敗事例の共有と学習
 - 再発防止のためのプロセス改善
+- [「とにかくやる」の多様な形]({{ site.baseurl }}/just-do-it-diverse-forms-ja.html)として、やらない・やり方を変える決断も立派な行動として認識
 
 ## 組織停滞防止の責任分散
 
@@ -214,6 +216,7 @@ Type 2決定 → 現場レベルでの迅速な判断
 - システムに依存しすぎない個人の成長
 - 適切な挑戦機会の提供
 - 失敗を恐れない文化の醸成
+- [チケットシステムとの付き合い方]({{ site.baseurl }}/2024/12/02/rethinking-ticket-systems.html)で示すように、ツールが人を圧迫しない人中心のアプローチ
 
 ### 継続的な改善
 

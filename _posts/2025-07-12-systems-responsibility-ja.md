@@ -15,6 +15,31 @@ PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人と�
 
 これまでの記事で説明してきた[2-6-2の委譲システム]({{ site.baseurl }}/delegation-beyond-idealism-ja.html)や[Type 1/Type 2の決定フレームワーク]({{ site.baseurl }}/2024/12/14/decisions.html)、そして[Working Out Loud]({{ site.baseurl }}/working-out-loud-ja.html)の実践は、すべてこの「システムによる責任分散」を実現するための仕組みです。
 
+## 責任のレイヤー構造
+
+PyCon JP 2025の組織運営では、明確な責任のレイヤー構造を構築しています：
+
+### 一般社団法人レベル
+[一般社団法人PyCon JP Associationの役割]({{ site.baseurl }}/thoughts-on-chair-role-ja.html)として：
+- 座長の任命と基本的なガバナンス構造の提供
+- [透明性のある会計公開]({{ site.baseurl }}/thoughts-on-chair-role-ja.html)によるスポンサー信頼の構築
+- 行動規範などの基本的なポリシーフレームワークの整備
+- 年度を超えた継続的なガイドラインの提供
+
+### 座長レベル
+[座長の意思決定分離]({{ site.baseurl }}/2024/11/27/recruiting-organizer-group-members.html)により：
+- 一般社団法人から独立した年度固有の決定プロセス
+- [座長チームによる行動規範の運用]({{ site.baseurl }}/chair-team-ja.html)
+- 主催メンバーの募集と研修体制の構築
+- 年度固有の創意工夫と革新的な取り組みの実施
+
+### チーム・個人レベル
+- 明確な役割分担と権限委譲
+- [主催メンバー研修]({{ site.baseurl }}/2025/02/25/kickoff-en.html)による行動規範遵守の徹底
+- 個人の創意工夫を活かしつつ組織的サポートを提供
+
+この多層的な責任構造により、一般社団法人が大きな仕組み（行動規範、基本ガイドライン）を作り、その範囲内で座長が方針を決めて人を集めてしくみを作る、という明確な役割分担が実現されています。
+
 ## 「しくみ」による責任分散とは
 
 ### 従来の責任の問題点

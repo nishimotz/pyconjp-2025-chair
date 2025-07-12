@@ -67,7 +67,9 @@ By recording and visualizing decision-making processes, we ensure transparency t
 
 The essence of "systems taking responsibility, not people" organizational management is taking time for everyone to review together. When making important irreversible decisions, instead of someone steeling themselves to make personal decisions, we adjust schedules to secure review time and opportunities. We create an environment where all members, including both proactive and cautious individuals, can participate freely and constructively in reviews.
 
-This approach creates sustainable organizational culture where responsibility is shared, decisions are well-considered, and every member can contribute meaningfully to our collective success.
+This approach also significantly reduces the burden on the Chair. By being freed from the pressure of individual decision-making and having responsibility distributed through collective review systems, the Chair can focus on the overall direction of the organization.
+
+This creates sustainable organizational culture where responsibility is shared, decisions are well-considered, and every member can contribute meaningfully to our collective success.
 
 ---
 

@@ -5,6 +5,8 @@ permalink: /systems-responsibility-ja.html
 team: chair
 ---
 
+[**English version is here**]({{ site.baseurl }}/systems-responsibility-en.html)
+
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
 
 [PyCon JP 2025](https://2025.pycon.jp/) は9月26日〜28日に広島国際会議場で開催されます。最終日は開発スプリントです。

@@ -47,6 +47,8 @@ The key insight is that we can break down large irreversible decisions into mult
 
 This approach resembles the relationship between waterfall and agile methodologies - breaking large, risky decisions into smaller, manageable ones with feedback loops.
 
+For irreversible decisions, sufficient review time is critical. When there isn't enough time for review, rather than forcing someone to make quick personal decisions, we prioritize schedule adjustments to secure review time and opportunities.
+
 ## The Heart of the Matter: Time for Review
 
 The core of "systems taking responsibility" organizational management is taking time for everyone to review together. When making important irreversible decisions, instead of someone steeling themselves to make personal decisions, we adjust schedules to secure time and opportunities for review. We create an environment where all members, including both proactive and cautious individuals, can participate freely and constructively in reviews.

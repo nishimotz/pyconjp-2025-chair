@@ -73,13 +73,6 @@ When conducting reviews and soliciting opinions, it's also important to set clea
 
 This creates sustainable organizational culture where responsibility is shared, decisions are well-considered, and every member can contribute meaningfully to our collective success.
 
----
-
-**About PyCon JP 2025**
-PyCon JP 2025 will be held on September 26-27, 2025, in Hiroshima. We are currently recruiting organizing members who will work together to create an inclusive and inspiring conference experience.
-
----
-
 ## Update History
 
 - 2025-07-12: Initial publication

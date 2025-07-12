@@ -69,6 +69,8 @@ The essence of "systems taking responsibility, not people" organizational manage
 
 This approach also significantly reduces the burden on the Chair. By being freed from the pressure of individual decision-making and having responsibility distributed through collective review systems, the Chair can focus on the overall direction of the organization.
 
+When conducting reviews and soliciting opinions, it's also important to set clear deadlines. By providing specific timeframes such as "please provide your feedback by [date]," we help participants plan their contributions and encourage constructive participation. This ensures that the review process itself proceeds efficiently while maintaining appropriate time management for decision-making.
+
 This creates sustainable organizational culture where responsibility is shared, decisions are well-considered, and every member can contribute meaningfully to our collective success.
 
 ---

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Where Does Our Goodwill Flow? - PyCon JP 2025 Chair's Report
+title: What is Travel Grant Support? - PyCon JP 2025 Chair's Report
 layout: default
 permalink: /travel-grant-support-en.html
 team: chair
@@ -10,21 +10,50 @@ Hello, this is Nishimotz, the Chair of PyCon JP 2025.
 
 PyCon JP 2025 will be held at Hiroshima International Conference Center from September 26-28, 2025 (the final day is for development sprints). PyCon JP is Japan's largest Python community event, an international nonprofit conference organized primarily by Python community members.
 
-*This post is based on my [note article "Where Does Our Goodwill Flow?"](https://note.com/24motz/n/n717187624f86) from August 8, part of my #100-day challenge.*
+As we enter the full swing of summer in July 2025, preparations for PyCon JP 2025, scheduled for late September, are heating up. As chair, I sincerely hope that as many Pythonistas as possible from across Japan and around the world will come to Hiroshima to share unforgettable experiences.
 
-## The Deprecator
+However, when some of you heard about Hiroshima as our venue, you might have thought, **"That's a bit far"** or **"I'd like to participate, but the travel costs..."**
 
-August 6, 2025, Hiroshima.
+We want to fully support your **"I want to go"** feelings. One of the systems for this is our **"Travel Grant Support."**
 
-The morning sun's brightness is known to all, yet the shadows within our hearts remain hidden. At the Peace Memorial Museum, countless lights flicker like fireflies. In the darkness, past and future prayers intertwine, creating a mosaic of souls flowing toward tomorrow.
+*This post is based on my [note article "What is Travel Grant Support?"](https://note.com/24motz/n/nb1811c027a93) from July 16, part of my #100-day challenge.*
 
-In this age of artificial intelligence, we stand at a crossroads where technology and humanity intersect. The algorithms we create, the data we process, the decisions we automate—where does our goodwill flow in this digital landscape?
+## My Experience in Pittsburgh
 
-As we prepare for PyCon JP 2025 in Hiroshima, a city that knows both destruction and renewal, we must ask ourselves: How do we ensure that our technological progress serves humanity's highest aspirations?
+I myself was one of the recipients of a travel grant when I attended PyCon US 2025 held this year.
 
-The Python community has always been about bringing people together, sharing knowledge, and building tools that make the world better. In Hiroshima, we'll explore not just what we can build, but what we should build.
+**Conference**: [PyCon US 2025](https://us.pycon.org/2025/)  
+**Location**: Pittsburgh
 
-Our goodwill flows through every line of code we write, every algorithm we design, every decision we make about how technology should serve society. Let us gather in Hiroshima to ensure that flow leads toward a future we can all be proud of.
+When applying for the grant, I wrote honestly about my passion: **"Why do I want to go to Pittsburgh?"** and **"What do I want to gain from PyCon US?"** The process of articulating my thoughts also became a wonderful opportunity to reconfirm my participation goals.
+
+Fortunately, I was selected for the grant, and the knowledge I gained in Pittsburgh, the people I met, the conference operations I observed, and the community energy I experienced were truly invaluable. **Every decision I make about what PyCon JP 2025 should be is now informed by what I saw and heard at PyCon US.**
+
+For more details about this experience, see my [reflection article](https://note.com/24motz/n/n182577c9d8f0).
+
+## Now It's Our Turn to Support You
+
+**PyCon JP has always operated a travel grant support system.** Distance or economic reasons should never prevent valuable learning and networking opportunities from being lost.
+
+### **Historical Context**
+- **Previous years**: Support was primarily for those who had difficulty traveling to Tokyo
+- **PyCon JP 2025**: Support targets those who are far from Hiroshima
+- **Evolving approach**: While I can't predict exactly how this will change, the core mission remains the same
+
+## The Foundation of Global Support
+
+### **PSF Partnership**
+One of the pillars supporting this travel grant system has been **grants from the PSF (Python Software Foundation)**. PSF is a global nonprofit organization that protects and nurtures the Python language, and we at PyCon JP also operate as members of the global Python community with their support.
+
+**This travel grant support is also an "investment in the future" from Pythonistas around the world, including PSF.**
+
+For more about PSF and their role in the Python community, see my [detailed article](https://note.com/24motz/n/na053b81d82ae).
+
+I hope you'll come to know about this wonderful connection as well.
+
+## Let's Meet in Hiroshima
+
+**We eagerly await your passionate applications and constructive suggestions.** I look forward to meeting you in Hiroshima at the end of September!
 
 ---
 

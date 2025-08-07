@@ -40,6 +40,41 @@ We also believe this leads to safer and more secure events for all participants.
 
 It's true that platform specifications create constraints, making it difficult to immediately address all requests—like payment method limitations. This time, we strongly wanted to **"actively work on what we can control through our own decisions,"** which led us to introduce **"Free Student Tickets."**
 
+## Recent PayPal Developments
+
+PayPal has been implementing enhanced security measures recently. **3D Secure authentication** is now required for many transactions, which means you might need to complete additional verification steps during payment.
+
+Also, if you haven't used your PayPal account for a while, you may need to **re-verify your bank account information** or update your payment methods. It's worth checking your account settings before making your PyCon JP ticket purchase.
+
+## Beware of Fraud
+
+**Please be careful of phishing emails** that appear to be from PayPal. Legitimate PayPal communications will:
+- Address you by your registered name (not generic greetings)
+- Never ask for passwords or sensitive information via email
+- Always direct you to log in through the official PayPal website
+
+If you receive suspicious emails, **do not click any links**. Instead, log into your PayPal account directly through their official website to check for any legitimate notifications.
+
+## For Smooth Procedures
+
+To ensure smooth payment processing for your PyCon JP 2025 tickets:
+
+- **Verify your account** is in good standing before the ticket sale begins
+- **Update your payment methods** if any cards or bank accounts have expired
+- **Check your account limits** to ensure you can make the necessary payment
+- **Have backup payment methods** ready in case of any issues
+
+## Examples of Using PayPal as a Receiving Method
+
+PayPal isn't just for making payments—it's also useful for receiving money. For example, when international conferences provide **financial aid or travel grants**, PayPal is often used as the transfer method because:
+
+- **International transfers** are handled efficiently
+- **Currency conversion** is automatic
+- **Transaction records** are clear and trackable
+- **Recipient verification** is straightforward
+
+This is another reason why familiarity with PayPal can be valuable for active conference participants.
+
 ---
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

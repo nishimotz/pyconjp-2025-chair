@@ -34,10 +34,10 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 ### 🎫 Tickets & Participation
 
 10. **[Will You Recruit Day-of-Event Organizing Members?](https://note.com/24motz/n/n3bbc8735aabf)** (July 29)
-11. **[Why Are There Two Types of Student Tickets?](https://note.com/24motz/n/nd8f7495d20a6)** (July 28)
-12. **[What is a U25 Ticket?](https://note.com/24motz/n/n5661a9ae5b3d)** (July 27)
+11. **[Why Are There Two Types of Student Tickets?](https://note.com/24motz/n/nd8f7495d20a6)** (July 28) → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
+12. **[What is a U25 Ticket?](https://note.com/24motz/n/n5661a9ae5b3d)** (July 27) → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
 13. **[What is a Patron Ticket?](https://note.com/24motz/n/na043f140237d)** (July 26)
-14. **[What is an Early Bird Ticket?](https://note.com/24motz/n/n8db01d93006f)** (July 25)
+14. **[What is an Early Bird Ticket?](https://note.com/24motz/n/n8db01d93006f)** (July 25) → *[English detailed explanation]({{ site.baseurl }}/early-bird-tickets-explained-en.html)*
 
 ### 🏛️ Chair & Organization (Mid-July)
 
@@ -66,7 +66,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 31. **[Feeling Like You're Falling Behind as an Organizer?](https://note.com/24motz/n/n51d016c23816)** (July 8)
 32. **[Is There a Right Way to Learn Programming?](https://note.com/24motz/n/n6b1457c5a0c7)** (July 7)
 33. **[What is connpass?](https://note.com/24motz/n/n662c94e30e5c)** (July 6)
-34. **[Can You Participate Online?](https://note.com/24motz/n/n6fc5e4245bff)** (July 5)
+34. **[Can I Participate Online?](https://note.com/24motz/n/n6fc5e4245bff)** (July 5) → *[English detailed explanation]({{ site.baseurl }}/online-participation-en.html)*
 35. **[Would You Like to Peek Behind the Scenes of Software Development?](https://note.com/24motz/n/n9a92dcc00605)** (July 4)
 36. **[Are Manufacturing and Software Development Histories Similar?](https://note.com/24motz/n/n3632dbd1ac9c)** (July 3)
 37. **[Where Does Python Run?](https://note.com/24motz/n/na3f17240c435)** (July 2)

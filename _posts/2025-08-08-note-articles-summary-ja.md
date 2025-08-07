@@ -33,10 +33,10 @@ team: chair
 ### 🎫 チケット・参加関連
 
 10. **[当日主催メンバーを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日）
-11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日）
-12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日）
+11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日） → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
+12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日） → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
 13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日）
-14. **[アーリーバードチケットってなに？](https://note.com/24motz/n/n8db01d93006f)** （7月25日）
+14. **[アーリーバードチケットってなに？](https://note.com/24motz/n/n8db01d93006f)** （7月25日） → *[English detailed explanation]({{ site.baseurl }}/early-bird-tickets-explained-en.html)*
 
 ### 🏛️ 座長・運営について（7月中旬）
 
@@ -65,7 +65,7 @@ team: chair
 31. **[主催メンバーとして活動しそびれてるんだけど？](https://note.com/24motz/n/n51d016c23816)** （7月8日）
 32. **[正しいプログラミングの勉強法はある？](https://note.com/24motz/n/n6b1457c5a0c7)** （7月7日）
 33. **[connpass ってなに？](https://note.com/24motz/n/n662c94e30e5c)** （7月6日）
-34. **[オンラインで参加できますか？](https://note.com/24motz/n/n6fc5e4245bff)** （7月5日）
+34. **[オンラインで参加できますか？](https://note.com/24motz/n/n6fc5e4245bff)** （7月5日） → *[English detailed explanation]({{ site.baseurl }}/online-participation-en.html)*
 35. **[ソフトウェア開発のバックヤードを覗いてみませんか？](https://note.com/24motz/n/n9a92dcc00605)** （7月4日）
 36. **[製造業とソフトウェア開発の歴史は似ているの？](https://note.com/24motz/n/n3632dbd1ac9c)** （7月3日）
 37. **[Python はどこで動くの？](https://note.com/24motz/n/na3f17240c435)** （7月2日）

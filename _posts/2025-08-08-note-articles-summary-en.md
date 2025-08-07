@@ -10,7 +10,7 @@ Hello, this is Nishimotz, the Chair of PyCon JP 2025.
 
 PyCon JP 2025 will be held at Hiroshima International Conference Center from September 26-28, 2025 (the final day is for development sprints). PyCon JP is Japan's largest Python community event, an international nonprofit conference organized primarily by Python community members.
 
-This article serves as a record of my [note continuous posting #100-day challenge](https://note.com/24motz/m/m5b9c3affd50b) as the chair, summarizing **all 81 articles** published so far. Direct links to note articles are provided for the latest 24 articles.
+This article serves as a record of my [note continuous posting #100-day challenge](https://note.com/24motz/m/m5b9c3affd50b) as the chair, summarizing **all 81 articles** published so far. Direct links to note articles are provided for all 81 articles.
 
 Current status: **Tickets are on sale now**. Early bird tickets are still available at discounted prices.
 
@@ -19,7 +19,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 ### 📅 Latest Articles (Early August)
 
 1. **[Why FastAPI?](https://note.com/24motz/n/nbeb538515d20)** (August 7)
-2. **[Where Does Our Goodwill Flow?](https://note.com/24motz/n/n717187624f86)** (August 6) → *[English adaptation]({{ site.baseurl }}/travel-grant-support-en.html)*
+2. **[Where Does Our Goodwill Flow?](https://note.com/24motz/n/n717187624f86)** (August 6)
 3. **[Why Did We Choose Ami Otsuka as Keynote Speaker?](https://note.com/24motz/n/n2805b9ecc971)** (August 5)
 4. **[Is the Proposal Review Meeting Over?](https://note.com/24motz/n/nb5b277322a11)** (August 4)
 
@@ -160,6 +160,6 @@ We continue to recruit organizing members, sponsors, and participants. For the l
 
 ## Update History
 
-- 2025-08-08: Created complete article list page with all 81 articles, added direct note links for the latest 24 articles via RSS feed (as #100-day challenge record)
+- 2025-08-08: Created complete article list page with all 81 articles, added direct note links for all 81 articles via RSS feed (as #100-day challenge record)
 
 **The theme of PyCon JP 2025 is "pieces of python, coming together." We look forward to your participation.**

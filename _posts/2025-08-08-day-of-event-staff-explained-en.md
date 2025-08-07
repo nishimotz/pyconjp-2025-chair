@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Will You Recruit Day-of-Event Staff? Understanding Our Staffing Philosophy - PyCon JP 2025 Chair's Report
+title: Will You Recruit Day-of-Event Staff? Understanding PyCon JP 2025's Staffing Philosophy - Chair's Report
 layout: default
 permalink: /day-of-event-staff-explained-en.html
 team: chair
@@ -16,7 +16,7 @@ This is day 66 of my note continuous posting #100-day challenge as the chair.
 
 I sometimes receive this question. While it's not a final decision, **my current answer is "NO."**
 
-But instead of that, I have some shocking news to share with everyone.
+But instead of that, I have some **shocking news** to share with everyone.
 
 *This post is based on my [note article "Will You Recruit Day-of-Event Staff?"](https://note.com/24motz/n/n3bbc8735aabf) from July 29, part of my #100-day challenge.*
 
@@ -26,18 +26,20 @@ But instead of that, I have some shocking news to share with everyone.
 
 **[PyCon JP 2025 Organizing Member Application Form](https://forms.gle/7irqYKhZVj7AY7LfA)**
 
-We distinguish between the terms "staff" and "organizing members."
+## Understanding Our Terminology
+
+We distinguish between the terms **"staff"** and **"organizing members."**
 
 - **Staff**: We use this term for business contractors and vendors who enter the venue
 - **Organizing Members**: Volunteers who plan and operate the event together with me
 
-Even now, two weeks after we started ticket sales, we continue recruiting partners who will help create this festival with us.
+Even now, **two weeks after we started ticket sales**, we continue recruiting partners who will help create this festival with us.
 
-**No special skills or experience are required.** All you need is the desire to "support the Python community" and "make the Hiroshima event successful."
+**No special skills or experience are required.** All you need is the desire to **"support the Python community"** and **"make the Hiroshima event successful."**
 
-If you want to know what kind of work is involved, please check this out: [Dialogue with Hiroshima-based Organizing Members](https://note.com/24motz/n/n42e32194926e)
+If you want to know what kind of work is involved, please check this out: [Dialogue with Hiroshima-based Organizing Members](https://note.com/24motz/n/n42e32194926e).
 
-## 【We're Recruiting Network Specialists】
+## 【Urgent: We're Recruiting Network Specialists】
 
 I've been asked by the venue team to let everyone know that **we're recruiting network specialists**. Apparently, we're at a critical point where having someone or not will determine what we can accomplish.
 
@@ -45,141 +47,185 @@ Actually, if I weren't the chair, this would be an opportunity for me to get han
 
 ## PyCon JP's "Participation Philosophy"
 
-"Wait, if I become an organizing member instead of buying a ticket, can I participate for free?"
+**"Wait, if I become an organizing member instead of buying a ticket, can I participate for free?"**
 
 Some people might think this way. Let me explain our customs here.
 
-I'm sometimes asked about this, but **my work as chair is unpaid**. Moreover, at PyCon JP, all organizing members, including myself as chair, **pay participation fees to attend the conference**.
+I'm sometimes asked about this, but **my work as chair is unpaid**. Moreover, at PyCon JP, **all organizing members, including myself as chair, pay participation fees to attend the conference**.
 
-While it's not an explicit rule, speakers, participants, and organizing members are all equal partners who enjoy this event and support each other. As an expression of this philosophy, **everyone shares the costs of hosting the event**.
+While it's not an explicit rule, **speakers, participants, and organizing members are all equal partners** who enjoy this event and support each other. As an expression of this philosophy, **everyone shares the costs of hosting the event** by contributing a little bit each.
 
 We're following this policy this year as well.
 
-Organizing member tickets have different prices from general participation fees, but **only organizing members can purchase them** (purchases by non-organizing members will be invalidated).
+**Organizing member tickets have different prices from general participation fees, but only organizing members can purchase them** (purchases by non-organizing members will be invalidated).
 
-## Why Don't We Recruit Day-of-Event Volunteers?
+## Why Don't We Meet First?
 
-### **🤝 Community Partnership Philosophy**
-Rather than seeking temporary help, we believe in **building lasting partnerships** with people who want to be involved in the entire journey of creating PyCon JP 2025.
+**"I understand, but applying directly feels like a high hurdle..."**  
+**"I'd like to know more about what kind of people are involved"**
 
-### **📈 Shared Ownership Experience**
-When you're involved from planning through execution, you develop **genuine ownership** of the event's success and can contribute more meaningfully to problem-solving and innovation.
+If you feel this way, we have a **perfect opportunity** for you.
 
-### **🎯 Consistent Quality Standards**
-Having **committed organizing members** who understand our values, processes, and goals ensures consistent quality throughout all aspects of the event.
+On **July 30 (Wednesday), the commemorative 100th meeting of "Sugoi Hiroshima with Python"** will be held in Hiroshima City.
 
-### **🌱 Community Growth Focus**
-We prioritize **growing our community** of dedicated Python enthusiasts rather than just filling temporary staffing needs.
+**Event Details:**
+- **Name**: Sugoi Hiroshima with Python 第100回 (100th Meeting)
+- **Date**: July 30, 2025, 7:00 PM
+- **Location**: Near Hiroshima Station  
+- **Format**: Hybrid event (online participation welcome)
+- **Registration**: [Connpass Event Page](https://pycon-hiroshima.connpass.com/event/360595/)
 
-## What Does Being an Organizing Member Mean?
+This is a **"casual" study group** where Hiroshima's Python community gathers. And **I, the PyCon JP 2025 chair, will also be participating**.
 
-### **💡 Real Impact on Event Success**
-- **Direct influence** on conference planning and execution decisions
-- **Ownership stake** in creating memorable experiences for attendees
-- **Problem-solving role** in addressing challenges as they arise
-- **Innovation opportunities** to improve conference processes and content
+**You're very welcome to ask questions directly about PyCon JP organizing activities.** Even if you just want to experience the atmosphere of Hiroshima's Python community, that's perfectly fine. **People who are undecided about buying general tickets are also welcome.**
 
-### **🔗 Deep Community Connections**
-- **Long-term relationships** with other organizing members and Python community leaders
-- **Insider perspective** on how major tech conferences operate
-- **Network building** with speakers, sponsors, and community members
-- **Professional development** through event management experience
+Please feel free to drop by casually. Since it's a hybrid event, **online participants are very welcome too!**
 
-### **🎓 Learning and Growth Opportunities**
-- **Skill development** in areas like event management, marketing, logistics, or technology
-- **Leadership experience** in a collaborative, volunteer-driven environment
-- **Cultural exchange** particularly valuable for international members
-- **Portfolio building** with concrete conference organization experience
+For more details about Hiroshima's community history, see: [The Real "100-Month Challenge" in Hiroshima](https://note.com/24motz/n/n3dc1b2c1bc8d).
+
+## What Makes PyCon JP Different?
+
+### **Our Community-First Approach**
+Unlike many conferences that rely heavily on day-of-event volunteers, **PyCon JP focuses on building a committed community of organizing members** who are involved throughout the entire planning and execution process.
+
+### **Why This Philosophy Matters**
+**🤝 Shared Ownership**
+- Everyone involved has a stake in the event's success
+- Decisions are made collaboratively with community input
+- Long-term relationships are built, not just temporary help
+
+**📈 Quality Through Commitment**
+- Organizing members understand the full context of their work
+- Consistency across all aspects of the event
+- Innovation comes from people who deeply understand the goals
+
+**🌱 Community Development**
+- Skills and knowledge are developed over months, not days
+- Leadership opportunities for community members
+- Sustainable model for future events
 
 ## For International Organizing Members
 
-**Special value for international participants:**
+### **Special Opportunities for Global Participants**
+**Joining as an organizing member offers unique value for international participants:**
 
-### **🌏 Cultural Bridge Building**
-- **Facilitate cultural exchange** between international and Japanese Python communities
-- **Language support** for international attendees and speakers
-- **Global perspective** contribution to conference planning
-- **International network expansion** within Asian tech communities
+**🌏 Cultural Bridge Building**
+- **Deep cultural exchange** beyond typical conference attendance
+- **Insider perspective** on Japanese event organization and community culture
+- **Leadership experience** in cross-cultural collaboration
 
-### **💼 Professional Recognition**
-- **Unique experience** organizing a major Asian Python conference
-- **Cross-cultural competency** demonstration through hands-on involvement
-- **Industry visibility** in both Japanese and international Python communities
-- **Leadership credentials** in global open-source community
+**💼 Professional Development**
+- **Event management skills** applicable to your home country
+- **International networking** with Japanese tech industry professionals
+- **Portfolio enhancement** with major conference organization experience
 
-## How to Get Involved Right Now
+**🎓 Learning Opportunities**
+- **Behind-the-scenes knowledge** of how large tech conferences operate
+- **Problem-solving experience** in real-world, high-stakes situations
+- **Communication skills** in multicultural, multilingual environments
 
-### **🚀 Immediate Action Steps**
-1. **Apply through our form**: Complete the organizing member application
-2. **Join our Slack workspace**: Connect with current organizing members
-3. **Attend team meetings**: Participate in planning discussions (online/hybrid)
-4. **Choose your focus area**: Select teams that match your interests and skills
+### **Support for International Organizing Members**
+**We provide comprehensive support for international team members:**
+- **Language assistance** for those not fluent in Japanese
+- **Cultural guidance** for understanding Japanese business and community practices
+- **Remote participation** options for pre-event planning activities
+- **Travel coordination** assistance for in-person meetings when possible
 
-### **🎯 Current Priority Needs**
-- **Network Specialists**: Critical need for venue technology setup
-- **International Outreach**: Help welcome global participants
-- **Content Coordination**: Support speaker and program management
-- **Community Engagement**: Facilitate connections and networking
+## Getting Started as an Organizing Member
 
-## Want to Meet Us First?
+### **Application Process**
+1. **Complete the application form**: Provide your background and interests
+2. **Join our Slack workspace**: Connect with current team members
+3. **Choose your team**: Select from Chair, Program, Venue, PR, Sponsor, or Attendee Management
+4. **Start contributing**: Begin with tasks that match your skills and availability
 
-**"I understand, but applying directly feels like a high hurdle..."**
-**"I'd like to know more about what kind of people are involved"**
+### **What to Expect**
+**📅 Time Commitment**
+- **Flexible schedule**: A few hours per week, adaptable to your availability
+- **Peak periods**: More intensive work closer to the event
+- **Remote-friendly**: Most coordination happens online via Slack
 
-If you feel this way, we have a perfect opportunity for you.
+**🎯 Team Structure**
+- **Chair Team**: Overall coordination and decision-making
+- **Program Team**: Content curation, speaker management, schedule planning
+- **Venue Team**: Logistics, technical setup, on-site coordination
+- **PR Team**: Marketing, social media, community outreach
+- **Sponsor Team**: Corporate partnerships and sponsor relations
+- **Attendee Management Team**: Registration, support, attendee experience
 
-**Event**: すごい広島 with Python 第100回 (Commemorative 100th Meeting!)
-**Date**: July 30, 2025, 7:00 PM
-**Location**: Near Hiroshima Station
-**Format**: Hybrid (online participation welcome)
-**Details & Registration**: [Connpass Event](https://pycon-hiroshima.connpass.com/event/360595/)
+**🤝 Community Integration**
+- **Regular meetings**: Team meetings and all-hands updates
+- **Social events**: Team building and community connection opportunities
+- **Recognition**: Official acknowledgment of your contributions
 
-This is a **"casual" study group** where Hiroshima's Python community gathers. And I, the PyCon JP 2025 chair, will also be participating.
+## Success Stories from Past Organizing Members
 
-**You're very welcome to ask questions directly about PyCon JP organizing activities.** Even if you just want to experience the atmosphere of Hiroshima's Python community, that's perfectly fine. People who are undecided about buying general tickets are also welcome.
+### **Career and Community Impact**
+**Previous organizing members have reported:**
 
-**Please feel free to drop by casually.** Since it's a hybrid event, online participants are very welcome too!
+**📈 Professional Growth**
+- **Leadership skills** developed through team coordination
+- **Project management experience** from large-scale event planning
+- **Technical skills** gained through specific team responsibilities
 
-## The Organizing Member Experience vs. Day-of-Event Volunteering
+**🌐 Network Expansion**
+- **Industry connections** with speakers, sponsors, and attendees
+- **International relationships** with global Python community members
+- **Local community ties** strengthened through collaborative work
 
-### **Traditional Day-of-Event Volunteering**
-- **Limited scope**: Specific tasks assigned on event days
-- **Minimal context**: Less understanding of overall event goals
-- **Temporary engagement**: Relationship ends when event concludes
-- **Task-focused**: Emphasis on completing assigned duties
+**🎯 Personal Satisfaction**
+- **Pride in contribution** to something meaningful and lasting
+- **Skills confidence** from successfully completing challenging projects
+- **Community recognition** for dedication and service
 
-### **PyCon JP Organizing Member Experience**  
-- **Comprehensive involvement**: Participate in planning, preparation, and execution
-- **Strategic understanding**: Full context of conference goals and community impact
-- **Lasting relationships**: Ongoing connections with Python community leaders
-- **Outcome-focused**: Emphasis on overall event success and community building
+## Current Opportunities and Needs
+
+### **Priority Areas Where We Need Help**
+
+**🔧 Technical Roles**
+- **Network specialists**: Critical need for venue technology setup
+- **Web developers**: Site maintenance and feature development
+- **Systems administrators**: Infrastructure and deployment support
+
+**📢 Communications Roles**
+- **Social media managers**: Content creation and community engagement
+- **Translation coordinators**: Bilingual content and interpretation support
+- **Designer/artists**: Visual materials and brand consistency
+
+**🎪 Event Operations**
+- **Logistics coordinators**: Venue management and supplier relations
+- **Program assistants**: Speaker coordination and content management
+- **Attendee experience**: Registration and participant support
+
+### **Skills We Value (But Don't Require)**
+- **Event organization experience** (any scale or type)
+- **Community management** and volunteer coordination
+- **Technical skills** relevant to conference operations
+- **Multilingual abilities** for international outreach
+- **Creative talents** for design, content, or presentation
 
 ## Ready to Join Our Team?
 
-**Organizing member recruitment is still open!** Here's what you need to know:
+### **Take the Next Step**
+If you're interested in becoming a PyCon JP 2025 organizing member:
 
-### **Requirements**
-- ✅ **Desire to support** the Python community
-- ✅ **Commitment to help** make Hiroshima event successful
-- ❌ **No specific technical skills** required
-- ❌ **No previous conference experience** needed
+1. **Apply through our official form**: [PyCon JP 2025 Organizing Member Application](https://forms.gle/7irqYKhZVj7AY7LfA)
+2. **Join our community meetup**: Attend Sugoi Hiroshima with Python 第100回 on July 30
+3. **Connect with us online**: Reach out through official channels with questions
+4. **Consider your contribution**: Think about how your skills and interests align with our needs
 
-### **What You'll Gain**
-- **Deep conference industry knowledge** through hands-on experience
-- **Professional network expansion** in Python and tech communities
-- **Leadership and project management skills** in collaborative environment
-- **Cultural competency** and international collaboration experience
-- **Portfolio enhancement** with major conference organization credentials
-- **Lasting friendships** with like-minded Python enthusiasts
-
-### **Current Commitment**
-- **Flexible time commitment**: A few hours per week, adaptable to your schedule
-- **Remote-friendly**: Primarily online collaboration via Slack
-- **Travel support**: Available with budget limitations for in-person meetings
-- **Paid participation**: Organizing members purchase special tickets at different rates
+### **What We Offer in Return**
+- **Meaningful work** that impacts the global Python community
+- **Skill development** opportunities in your areas of interest
+- **Leadership experience** in a collaborative, volunteer-driven environment
+- **International connections** with community members worldwide
+- **Recognition and gratitude** from the entire Python community
+- **Free organizing member ticket** (at special pricing, following our equal participation philosophy)
 
 ---
 
-*Instead of seeking temporary day-of-event volunteers, we're building a community of committed partners who will help create an exceptional PyCon JP 2025 experience. Join us as an organizing member and become part of something bigger!*
+**Instead of seeking day-of-event volunteers, we're building a committed community of organizing members who will create an exceptional PyCon JP 2025 experience together.**
+
+*Ready to be part of something bigger than just attending? Join us as an organizing member and help bring "pieces of python, coming together" to life in Hiroshima!*
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

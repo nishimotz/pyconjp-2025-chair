@@ -70,31 +70,6 @@ Even if you can't participate on weekdays, Saturday-only participation has more 
 
 Let's meet at the venue in Hiroshima. All organizing members are looking forward to your participation from the bottom of our hearts!
 
-## Details and Supplementary Information
-
-### Eligibility
-The two ticket types introduced in this article are for students (graduate students, university students, vocational school students, high school students, middle school students). Please bring valid documentation proving you are a student as of the first day of the event (September 26).
-
-### For Non-Students Under 25
-We also have discount tickets for people who are not students but are 25 years old or younger (U25 tickets).
-
-### Travel Grant Support
-Remote travel support applications are also being accepted. The deadline is August 8, 2025 AoE (August 9, 2025 20:59 JST).
-
-### Official Party Not Included
-Both types of student tickets require separate purchase for official party participation rights. Please wait for official announcements.
-
-### Application
-Apply through our [official ticket page](https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html).
-
-## Our Philosophy: Removing Every Barrier
-
-This dual ticket system reflects our core belief: **every young person should have equal access to learning and growth opportunities, regardless of their financial circumstances or family situation.**
-
-Whether you choose the paid or free option, you're making the right choice for your circumstances. What matters most is that you're here, ready to learn, connect, and grow with our community.
-
 ---
-
-*Are you a student interested in Python and community? Choose the ticket type that works best for you and join us in Hiroshima for an unforgettable learning experience!*
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

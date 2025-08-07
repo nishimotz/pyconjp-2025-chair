@@ -17,46 +17,46 @@ team: chair
 
 ### 📅 最新記事（8月上旬）
 
-1. **[なぜ FastAPI なのか？](https://note.com/24motz/n/nbeb538515d20)** （8月7日・15時間前）
-2. **[私たちの善意は、どこへ流れ着くのか？](https://note.com/24motz/n/n717187624f86)** （8月6日・1日前）
-3. **[キーノートに大塚あみさんを選んだ理由は？](https://note.com/24motz/n/n2805b9ecc971)** （8月5日・2日前）
-4. **[プロポーザル採択会議は終わったの？](https://note.com/24motz/n/nb5b277322a11)** （8月4日・3日前）
+1. **[なぜ FastAPI なのか？](https://note.com/24motz/n/nbeb538515d20)** （8月7日）
+2. **[私たちの善意は、どこへ流れ着くのか？](https://note.com/24motz/n/n717187624f86)** （8月6日）
+3. **[キーノートに大塚あみさんを選んだ理由は？](https://note.com/24motz/n/n2805b9ecc971)** （8月5日）
+4. **[プロポーザル採択会議は終わったの？](https://note.com/24motz/n/nb5b277322a11)** （8月4日）
 
 ### 🐍 Python技術・基礎知識（7月後半〜8月上旬）
 
-5. **[NetworkX ってなに？](https://note.com/24motz/n/n8ee568671aca)** （8月3日・4日前）
-6. **[Python を終了するにはどうしたらいいですか？](https://note.com/24motz/n/ne3faee1d9a38)** （8月2日・5日前）
-7. **[None さんってだれ？](https://note.com/24motz/n/nbab88c96ae0e)** （8月1日・6日前）
-8. **[PayPal ってなに？](https://note.com/24motz/n/naef61d4ab99a)** （7月31日・7日前）
-9. **[セイウチ演算子ってなに？](https://note.com/24motz/n/n48161df460cc)** （7月30日・8日前）
+5. **[NetworkX ってなに？](https://note.com/24motz/n/n8ee568671aca)** （8月3日）
+6. **[Python を終了するにはどうしたらいいですか？](https://note.com/24motz/n/ne3faee1d9a38)** （8月2日）
+7. **[None さんってだれ？](https://note.com/24motz/n/nbab88c96ae0e)** （8月1日）
+8. **[PayPal ってなに？](https://note.com/24motz/n/naef61d4ab99a)** （7月31日）
+9. **[セイウチ演算子ってなに？](https://note.com/24motz/n/n48161df460cc)** （7月30日）
 
 ### 🎫 チケット・参加関連
 
-10. **[当日主催メンバーを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日・9日前）
-11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日・10日前）
-12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日・11日前）
-13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日・12日前）
-14. **[アーリーバードチケットってなに？](https://note.com/24motz/n/n8db01d93006f)** （7月25日・13日前）
+10. **[当日主催メンバーを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日）
+11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日）
+12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日）
+13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日）
+14. **[アーリーバードチケットってなに？](https://note.com/24motz/n/n8db01d93006f)** （7月25日）
 
 ### 🏛️ 座長・運営について（7月中旬）
 
-15. **[私はなぜ座長になったのか？](https://note.com/24motz/n/naaf1ac3164f3)** （2週間前）
-16. **[Final ってなに？](https://note.com/24motz/n/n7a680126267e)** （2週間前）
-17. **[広島にとって PyCon JP ってなに？](https://note.com/24motz/n/n6a4361269f3b)** （2週間前）
-18. **[アンスコってなに？](https://note.com/24motz/n/n024dea3bbe9c)** （2週間前）
-19. **[Batteries Included ってなに？](https://note.com/24motz/n/naf5c6b3b2aa4)** （2週間前）
-20. **[python -m json.tool ってなに？](https://note.com/24motz/n/nfdc99293d03f)** （2週間前）
+15. **[私はなぜ座長になったのか？](https://note.com/24motz/n/naaf1ac3164f3)** （7月24日）
+16. **[Final ってなに？](https://note.com/24motz/n/n7a680126267e)** （7月23日）
+17. **[広島にとって PyCon JP ってなに？](https://note.com/24motz/n/n6a4361269f3b)** （7月22日）
+18. **[アンスコってなに？](https://note.com/24motz/n/n024dea3bbe9c)** （7月21日）
+19. **[Batteries Included ってなに？](https://note.com/24motz/n/naf5c6b3b2aa4)** （7月20日）
+20. **[python -m json.tool ってなに？](https://note.com/24motz/n/nfdc99293d03f)** （7月19日）
 21. **「Pythonで動かしながら学ぶコンピュータネットワーク」はどんな本？** （2週間前）
 
 ### 🎪 イベント・コミュニティ（7月上旬）
 
-22. **[SWAG ってなに？](https://note.com/24motz/n/n5749ad0536f4)** （3週間前）
-23. **[遠方支援ってなに？](https://note.com/24motz/n/nb1811c027a93)** （3週間前）
-24. **[Python は誰が書いても同じになる？](https://note.com/24motz/n/nb4e799f133b7)** （3週間前）
-25. **[uv ってなに？](https://note.com/24motz/n/n60dc4f6249ed)** （3週間前）
-26. **連続投稿50日目の感想は？** （3週間前）
-27. **Python のエコシステムってなに？** （3週間前）
-28. **PSF ってなに？** （3週間前）
+22. **[SWAG ってなに？](https://note.com/24motz/n/n5749ad0536f4)** （7月18日）
+23. **[遠方支援ってなに？](https://note.com/24motz/n/nb1811c027a93)** （7月17日）
+24. **[Python は誰が書いても同じになる？](https://note.com/24motz/n/nb4e799f133b7)** （7月16日）
+25. **[uv ってなに？](https://note.com/24motz/n/n60dc4f6249ed)** （7月15日）
+26. **連続投稿50日目の感想は？** （7月14日）
+27. **Python のエコシステムってなに？** （7月13日）
+28. **PSF ってなに？** （7月12日）
 
 ### 👨‍💻 個人体験・学習（6月後半）
 

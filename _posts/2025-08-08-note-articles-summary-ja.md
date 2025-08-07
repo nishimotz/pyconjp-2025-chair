@@ -94,20 +94,20 @@ team: chair
 
 55. **[ファイルを開くのは open() ですか？](https://note.com/24motz/n/n535d2707a381)** （6月14日）
 56. **[私はなぜ主催メンバーになったか？](https://note.com/24motz/n/n8fac5fe20eb5)** （6月13日）
-57. **[ポスター形式とは？](https://note.com/24motz/n/n86b9498687c0)** （6月2日） → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
-58. **[Python で a ＜ b ＜ c はどう書くの？](https://note.com/24motz/n/n40efff95676d)** （6月12日）
-59. **[なぜ「a, b = b, a」は学校で教えにくいのか？](https://note.com/24motz/n/n15b9cc1de0ae)** （6月11日）
-60. **[【学校の先生方】 PyCon JP 2025 の「出張申請書」はどう書けばいいですか？](https://note.com/24motz/n/n32517be8c66c)** （6月10日）
-61. **[主催メンバーになると Python を学べるの？](https://note.com/24motz/n/n4da36d529504)** （6月9日）
-62. **[学校で習ったけど Python ってつまらない？](https://note.com/24motz/n/n2e46eef9cb6b)** （6月8日）
-63. **[Python って最近よく聞くけど？](https://note.com/24motz/n/n2528cf9459c2)** （6月7日）
+57. **[Python で a ＜ b ＜ c はどう書くの？](https://note.com/24motz/n/n40efff95676d)** （6月12日）
+58. **[なぜ「a, b = b, a」は学校で教えにくいのか？](https://note.com/24motz/n/n15b9cc1de0ae)** （6月11日）
+59. **[【学校の先生方】 PyCon JP 2025 の「出張申請書」はどう書けばいいですか？](https://note.com/24motz/n/n32517be8c66c)** （6月10日）
+60. **[主催メンバーになると Python を学べるの？](https://note.com/24motz/n/n4da36d529504)** （6月9日）
+61. **[学校で習ったけど Python ってつまらない？](https://note.com/24motz/n/n2e46eef9cb6b)** （6月8日）
+62. **[Python って最近よく聞くけど？](https://note.com/24motz/n/n2528cf9459c2)** （6月7日）
 
 ### 🏢 会場・システム（6月上旬）
 
-64. **[広島国際会議場ってなに？](https://note.com/24motz/n/n4f6801257221)** （6月6日） → *[English detailed explanation]({{ site.baseurl }}/hiroshima-venue-explained-en.html)*
-65. **[プロポーザルの採択率は？](https://note.com/24motz/n/n7211316e6adf)** （6月5日）
-66. **[pretalx ってなに？](https://note.com/24motz/n/n013f49c33966)** （6月4日）
-67. **[Python コミュニティを紹介しませんか？](https://note.com/24motz/n/nca6d0465a0ef)** （6月3日）
+63. **[広島国際会議場ってなに？](https://note.com/24motz/n/n4f6801257221)** （6月6日） → *[English detailed explanation]({{ site.baseurl }}/hiroshima-venue-explained-en.html)*
+64. **[プロポーザルの採択率は？](https://note.com/24motz/n/n7211316e6adf)** （6月5日）
+65. **[pretalx ってなに？](https://note.com/24motz/n/n013f49c33966)** （6月4日）
+66. **[Python コミュニティを紹介しませんか？](https://note.com/24motz/n/nca6d0465a0ef)** （6月3日）
+67. **[ポスター形式とは？](https://note.com/24motz/n/n86b9498687c0)** （6月2日） → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
 68. **[AI を使っていいの？](https://note.com/24motz/n/n550b12d0947e)** （6月1日）
 69. **[PyCon JP 2025 の準備はいつ始めたの？](https://note.com/24motz/n/na3e81ea938f8)** （5月31日）
 70. **[PyCon JP 2025 を広島で開催するのはなぜ？](https://note.com/24motz/n/nf7602be7df5b)** （5月30日）

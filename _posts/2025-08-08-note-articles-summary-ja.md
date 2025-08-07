@@ -27,7 +27,7 @@ team: chair
 5. **[NetworkX ってなに？](https://note.com/24motz/n/n8ee568671aca)** （8月3日）
 6. **[Python を終了するにはどうしたらいいですか？](https://note.com/24motz/n/ne3faee1d9a38)** （8月2日）
 7. **[None さんってだれ？](https://note.com/24motz/n/nbab88c96ae0e)** （8月1日）
-8. **[PayPal ってなに？](https://note.com/24motz/n/naef61d4ab99a)** （7月31日）
+8. **[PayPal ってなに？](https://note.com/24motz/n/naef61d4ab99a)** （7月31日） → *[English detailed explanation]({{ site.baseurl }}/paypal-explained-en.html)*
 9. **[セイウチ演算子ってなに？](https://note.com/24motz/n/n48161df460cc)** （7月30日）
 
 ### 🎫 チケット・参加関連
@@ -35,7 +35,7 @@ team: chair
 10. **[当日主催メンバーを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日）
 11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日） → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
 12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日） → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
-13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日）
+13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日） → *[English detailed explanation]({{ site.baseurl }}/patron-tickets-explained-en.html)*
 14. **[アーリーバードチケットってなに？](https://note.com/24motz/n/n8db01d93006f)** （7月25日） → *[English detailed explanation]({{ site.baseurl }}/early-bird-tickets-explained-en.html)*
 
 ### 🏛️ 座長・運営について（7月中旬）

@@ -28,7 +28,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 5. **[What is NetworkX?](https://note.com/24motz/n/n8ee568671aca)** (August 3)
 6. **[How Do You Exit Python?](https://note.com/24motz/n/ne3faee1d9a38)** (August 2)
 7. **[Who is Mr./Ms. None?](https://note.com/24motz/n/nbab88c96ae0e)** (August 1)
-8. **[What is PayPal?](https://note.com/24motz/n/naef61d4ab99a)** (July 31)
+8. **[What is PayPal?](https://note.com/24motz/n/naef61d4ab99a)** (July 31) → *[English detailed explanation]({{ site.baseurl }}/paypal-explained-en.html)*
 9. **[What is the Walrus Operator?](https://note.com/24motz/n/n48161df460cc)** (July 30)
 
 ### 🎫 Tickets & Participation
@@ -36,7 +36,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 10. **[Will You Recruit Day-of-Event Organizing Members?](https://note.com/24motz/n/n3bbc8735aabf)** (July 29)
 11. **[Why Are There Two Types of Student Tickets?](https://note.com/24motz/n/nd8f7495d20a6)** (July 28) → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
 12. **[What is a U25 Ticket?](https://note.com/24motz/n/n5661a9ae5b3d)** (July 27) → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
-13. **[What is a Patron Ticket?](https://note.com/24motz/n/na043f140237d)** (July 26)
+13. **[What is a Patron Ticket?](https://note.com/24motz/n/na043f140237d)** (July 26) → *[English detailed explanation]({{ site.baseurl }}/patron-tickets-explained-en.html)*
 14. **[What is an Early Bird Ticket?](https://note.com/24motz/n/n8db01d93006f)** (July 25) → *[English detailed explanation]({{ site.baseurl }}/early-bird-tickets-explained-en.html)*
 
 ### 🏛️ Chair & Organization (Mid-July)

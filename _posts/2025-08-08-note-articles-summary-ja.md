@@ -104,7 +104,7 @@ team: chair
 
 ### 🏢 会場・システム（6月上旬）
 
-64. **[広島国際会議場ってなに？](https://note.com/24motz/n/n4f6801257221)** （6月6日）
+64. **[広島国際会議場ってなに？](https://note.com/24motz/n/n4f6801257221)** （6月6日） → *[English detailed explanation]({{ site.baseurl }}/hiroshima-venue-explained-en.html)*
 65. **[プロポーザルの採択率は？](https://note.com/24motz/n/n7211316e6adf)** （6月5日）
 66. **[pretalx ってなに？](https://note.com/24motz/n/n013f49c33966)** （6月4日）
 67. **[Python コミュニティを紹介しませんか？](https://note.com/24motz/n/nca6d0465a0ef)** （6月3日）

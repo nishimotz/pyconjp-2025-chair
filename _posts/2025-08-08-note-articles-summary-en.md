@@ -105,7 +105,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 
 ### 🏢 Venue & Systems (Early June)
 
-64. **[What is Hiroshima International Conference Center?](https://note.com/24motz/n/n4f6801257221)** (June 6)
+64. **[What is Hiroshima International Conference Center?](https://note.com/24motz/n/n4f6801257221)** (June 6) → *[English detailed explanation]({{ site.baseurl }}/hiroshima-venue-explained-en.html)*
 65. **[What is the Proposal Acceptance Rate?](https://note.com/24motz/n/n7211316e6adf)** (June 5)
 66. **[What is pretalx?](https://note.com/24motz/n/n013f49c33966)** (June 4)
 67. **[Would You Like to Introduce Python Communities?](https://note.com/24motz/n/nca6d0465a0ef)** (June 3)

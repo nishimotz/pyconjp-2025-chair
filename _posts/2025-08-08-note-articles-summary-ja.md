@@ -51,7 +51,7 @@ team: chair
 ### 🎪 イベント・コミュニティ（7月上旬）
 
 22. **[SWAG ってなに？](https://note.com/24motz/n/n5749ad0536f4)** （7月18日）
-23. **[遠方支援ってなに？](https://note.com/24motz/n/nb1811c027a93)** （7月17日）
+23. **[遠方支援ってなに？](https://note.com/24motz/n/nb1811c027a93)** （7月17日） → *[English detailed explanation]({{ site.baseurl }}/travel-grant-support-en.html)*
 24. **[Python は誰が書いても同じになる？](https://note.com/24motz/n/nb4e799f133b7)** （7月16日）
 25. **[uv ってなに？](https://note.com/24motz/n/n60dc4f6249ed)** （7月15日）
 26. **[連続投稿50日目の感想は？](https://note.com/24motz/n/n8285f62336bc)** （7月14日）
@@ -70,7 +70,7 @@ team: chair
 36. **[製造業とソフトウェア開発の歴史は似ているの？](https://note.com/24motz/n/n3632dbd1ac9c)** （7月3日）
 37. **[Python はどこで動くの？](https://note.com/24motz/n/na3f17240c435)** （7月2日）
 38. **[ホントに学校で Python 教えてるの？](https://note.com/24motz/n/nbe063ca2b1b9)** （7月1日）
-39. **[広島でどんな観光ができるの？](https://note.com/24motz/n/n6de670f8bbde)** （6月30日）
+39. **[広島でどんな観光ができるの？](https://note.com/24motz/n/n6de670f8bbde)** （6月30日） → *[English detailed explanation]({{ site.baseurl }}/hiroshima-tourism-guide-en.html)*
 
 ### 📝 プロポーザル・発表関連（6月後半）
 

@@ -52,7 +52,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 ### 🎪 Events & Community (Early July)
 
 22. **[What is SWAG?](https://note.com/24motz/n/n5749ad0536f4)** (July 18)
-23. **[What is Remote Support?](https://note.com/24motz/n/nb1811c027a93)** (July 17)
+23. **[What is Remote Support?](https://note.com/24motz/n/nb1811c027a93)** (July 17) → *[English detailed explanation]({{ site.baseurl }}/travel-grant-support-en.html)*
 24. **[Does Everyone Write the Same Python Code?](https://note.com/24motz/n/nb4e799f133b7)** (July 16)
 25. **[What is uv?](https://note.com/24motz/n/n60dc4f6249ed)** (July 15)
 26. **[Thoughts on the 50th Day of Continuous Posting?](https://note.com/24motz/n/n8285f62336bc)** (July 14)
@@ -71,7 +71,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 36. **[Are Manufacturing and Software Development Histories Similar?](https://note.com/24motz/n/n3632dbd1ac9c)** (July 3)
 37. **[Where Does Python Run?](https://note.com/24motz/n/na3f17240c435)** (July 2)
 38. **[Do Schools Really Teach Python?](https://note.com/24motz/n/nbe063ca2b1b9)** (July 1)
-39. **[What Kind of Tourism is Available in Hiroshima?](https://note.com/24motz/n/n6de670f8bbde)** (June 30)
+39. **[What Kind of Tourism is Available in Hiroshima?](https://note.com/24motz/n/n6de670f8bbde)** (June 30) → *[English detailed explanation]({{ site.baseurl }}/hiroshima-tourism-guide-en.html)*
 
 ### 📝 Proposals & Presentations (Late June)
 

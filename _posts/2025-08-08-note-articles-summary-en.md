@@ -65,7 +65,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 30. **[How Did the Chair Meet Python?](https://note.com/24motz/n/n97e205c431d8)** (July 9)
 31. **[Feeling Like You're Falling Behind as an Organizer?](https://note.com/24motz/n/n51d016c23816)** (July 8)
 32. **[Is There a Right Way to Learn Programming?](https://note.com/24motz/n/n6b1457c5a0c7)** (July 7)
-33. **[What is connpass?](https://note.com/24motz/n/n662c94e30e5c)** (July 6)
+33. **[What is connpass?](https://note.com/24motz/n/n662c94e30e5c)** (July 6) → *[English detailed explanation]({{ site.baseurl }}/connpass-explained-en.html)*
 34. **[Can I Participate Online?](https://note.com/24motz/n/n6fc5e4245bff)** (July 5) → *[English detailed explanation]({{ site.baseurl }}/online-participation-en.html)*
 35. **[Would You Like to Peek Behind the Scenes of Software Development?](https://note.com/24motz/n/n9a92dcc00605)** (July 4)
 36. **[Are Manufacturing and Software Development Histories Similar?](https://note.com/24motz/n/n3632dbd1ac9c)** (July 3)

@@ -64,7 +64,7 @@ team: chair
 30. **[座長と Python の出会いは？](https://note.com/24motz/n/n97e205c431d8)** （7月9日）
 31. **[主催メンバーとして活動しそびれてるんだけど？](https://note.com/24motz/n/n51d016c23816)** （7月8日）
 32. **[正しいプログラミングの勉強法はある？](https://note.com/24motz/n/n6b1457c5a0c7)** （7月7日）
-33. **[connpass ってなに？](https://note.com/24motz/n/n662c94e30e5c)** （7月6日）
+33. **[connpass ってなに？](https://note.com/24motz/n/n662c94e30e5c)** （7月6日） → *[English detailed explanation]({{ site.baseurl }}/connpass-explained-en.html)*
 34. **[オンラインで参加できますか？](https://note.com/24motz/n/n6fc5e4245bff)** （7月5日） → *[English detailed explanation]({{ site.baseurl }}/online-participation-en.html)*
 35. **[ソフトウェア開発のバックヤードを覗いてみませんか？](https://note.com/24motz/n/n9a92dcc00605)** （7月4日）
 36. **[製造業とソフトウェア開発の歴史は似ているの？](https://note.com/24motz/n/n3632dbd1ac9c)** （7月3日）

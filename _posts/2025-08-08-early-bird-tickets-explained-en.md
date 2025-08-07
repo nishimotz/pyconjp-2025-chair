@@ -63,14 +63,6 @@ Despite these difficult conditions, our organizing team has one powerful wish: r
 
 These Early Bird tickets represent our heartfelt gratitude to those who believe in PyCon JP's value itself and enthusiastically declare "I'm coming to Hiroshima!"
 
-## For Sponsor Companies
-
-To sponsor companies who continuously support PyCon JP activities: thank you very much.
-
-Sponsor plans include "conference participation rights" according to each plan's content. Details about using these participation rights and registering participant information will be sent individually to your company's contact person by our sponsor team later.
-
-Please contact our sponsor team with any questions.
-
 ## Did You Know About Hiroshima's Prefectural Bird?
 
 Let me share some bird trivia related to Early Bird tickets.
@@ -89,14 +81,10 @@ This relationship reminds me of **human-AI collaboration**:
 - **Abi's "corralling"** = AI's role: AI rapidly analyzes vast amounts of data humans can't handle, discovering valuable patterns and trends (= fish schools)
 - **Fishermen's "catching"** = Human role: Based on AI-provided insights, humans create innovative ideas and develop final business strategies, generating significant value (= catch)
 
-For example: AI analyzes market data to identify promising trends (Abi corralling), while humans use that information to plan innovative new products (fishermen catching).
-
 Each utilizing their strengths to achieve results neither could accomplish alone—this hints at future ways of working. I'm excited thinking about it!
 
 At PyCon JP 2025, we're sure to see stimulating discussions where cutting-edge technology intersects with human wisdom.
 
 ---
-
-*Ready to join us? Check current ticket availability at [PyCon JP 2025 official website](https://2025.pycon.jp/) and secure your Early Bird discount while still available!*
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

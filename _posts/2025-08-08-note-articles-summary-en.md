@@ -19,7 +19,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 ### 📅 Latest Articles (Early August)
 
 1. **[Why FastAPI?](https://note.com/24motz/n/nbeb538515d20)** (August 7)
-2. **[Where Does Our Goodwill Flow?](https://note.com/24motz/n/n717187624f86)** (August 6)
+2. **[Where Does Our Goodwill Flow?](https://note.com/24motz/n/n717187624f86)** (August 6) → *[English adaptation]({{ site.baseurl }}/travel-grant-support-en.html)*
 3. **[Why Did We Choose Ami Otsuka as Keynote Speaker?](https://note.com/24motz/n/n2805b9ecc971)** (August 5)
 4. **[Is the Proposal Review Meeting Over?](https://note.com/24motz/n/nb5b277322a11)** (August 4)
 

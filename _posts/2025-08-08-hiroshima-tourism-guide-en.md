@@ -155,76 +155,7 @@ This article presents a travel plan I've personally crafted around PyCon JP 2025
 - [Central Plant Tour](https://dive-hiroshima.com/explore/3185/)
 - [Grand Prince Hotel G7 Exhibit](https://www.princehotels.co.jp/hiroshima/informations/g7_photo/)
 
-## Why This Extended Stay Makes Sense
 
-### **🌸 Seasonal Perfection**
-**Late September in Hiroshima offers:**
-- **Perfect Weather**: Comfortable temperatures, clear skies
-- **Autumn Colors**: Early fall foliage beginning to appear
-- **Cultural Events**: Traditional festivals and seasonal celebrations
-- **Optimal Tourism**: Less crowded than peak seasons
-
-### **🎯 Conference Integration Benefits**
-**Combining tourism with PyCon JP creates:**
-- **Cultural Context**: Understanding Japanese tech culture through local experiences
-- **Extended Networking**: More relaxed conversations outside formal sessions
-- **Memory Creation**: Conference connections anchored by shared experiences
-- **Cost Efficiency**: Maximize value of international travel investment
-
-### **🚄 Transportation Advantages**
-**Hiroshima as a base offers excellent access to:**
-- **Regional Attractions**: Easy day trips to multiple destinations
-- **Efficient Rail System**: JR Pass optimization for nationwide travel
-- **Airport Connectivity**: Direct flights to major international destinations
-- **Local Transportation**: Comprehensive tram and bus networks
-
-## Practical Planning Considerations
-
-### **🏨 Accommodation Strategies**
-- **Conference Hotels**: Book early for properties near the venue
-- **Traditional Options**: Ryokans for authentic Japanese hospitality
-- **International Chains**: Familiar amenities for international travelers
-- **Alternative Stays**: Airbnb or local guesthouses for cultural immersion
-
-### **💰 Budget Planning**
-- **JR Pass**: Consider 7-day pass for multiple day trips
-- **City Pass**: Hiroshima tourist passes for local attractions
-- **Dining Budget**: Mix of high-end and local experiences
-- **Activity Costs**: Many temples and gardens have modest admission fees
-
-### **📱 Technology Tips**
-- **Translation Apps**: Essential for non-Japanese speakers
-- **Transportation Apps**: Google Maps works well for Japanese transit
-- **Payment Methods**: Increasing acceptance of international cards
-- **WiFi Access**: Widely available at hotels and major attractions
-
-## Cultural Sensitivity and Etiquette
-
-### **🙏 Important Considerations**
-- **Peace Memorial Sites**: Respectful behavior and appropriate attire
-- **Temple/Shrine Visits**: Follow proper visiting protocols
-- **Dining Etiquette**: Basic chopstick usage and table manners
-- **Public Behavior**: Quiet voices on public transportation
-
-### **🗣️ Language Support**
-- **English Signage**: Major attractions have English information
-- **Hotel Staff**: Tourist hotels typically have English-speaking staff
-- **Translation Services**: PyCon JP volunteers can often assist
-- **Emergency Contacts**: Keep important numbers readily available
-
-## Making the Most of Your Experience
-
-### **📸 Photography Opportunities**
-- **Iconic Shots**: Floating torii gate, Peace Memorial, city views
-- **Conference Moments**: Document your PyCon JP experience
-- **Cultural Scenes**: Street photography, traditional architecture
-- **Personal Memories**: Connections made and experiences shared
-
-### **🎁 Souvenir Strategies**
-- **Regional Specialties**: Hiroshima-style okonomiyaki sauce, local sake
-- **Traditional Crafts**: Kumano brushes, local ceramics
-- **Conference Memorabilia**: PyCon JP exclusive items
-- **Practical Items**: Quality Japanese products for daily use
 
 ## Summary: Pieces of Python, Coming Together
 
@@ -232,20 +163,6 @@ The theme of PyCon JP 2025 is **"Pieces of Python, Coming Together."** This enco
 
 **Beyond learning and connections, experience Hiroshima's autumn with all five senses.** Please plan your own unique week-long journey!
 
-### **Important Planning Notes**
-- **Personal Experience Disclaimer**: I know about some events and facilities mentioned but haven't personally visited all of them
-- **Schedule Verification**: Please confirm operating days, visiting hours, and event dates on official websites
-- **Reservation Requirements**: Some attractions require advance booking, especially during conference period
-
-### **Conference Information**
-- **Tickets**: Information and sales details available on the official website
-- **Travel Support**: Remote travel assistance information is currently being prepared
-- **Updates**: Check the official site for the latest announcements
-
 ---
 
-*Ready to experience the best of both Python community and Japanese culture? Start planning your extended Hiroshima adventure around PyCon JP 2025 and create memories that will last a lifetime!*
-
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**
-
-For more information about travel support for distant participants, see my previous article: [Special Slots for Local Companies in Hiroshima](https://note.com/24motz/n/n8828bcad687a)

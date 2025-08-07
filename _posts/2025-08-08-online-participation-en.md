@@ -72,31 +72,8 @@ At the end of September 2025, we'll prepare the ultimate "sanctuary" in Hiroshim
 
 **Please come to Hiroshima and directly receive all of these feelings that can't be fully conveyed through a screen.**
 
-## What We Offer vs. What Requires Your Presence
-
-### Limited Online Options
-- **Archived recordings** of selected sessions will be available after the event
-- **Some live streaming** may be provided for keynotes (not confirmed yet)
-- **Social media engagement** during the conference
-
-### The Full Experience Requires Being There
-- **Hallway conversations** and spontaneous networking
-- **Hands-on workshops** and interactive sessions  
-- **Development sprints** on September 28
-- **Cultural immersion** in Hiroshima's unique atmosphere
-- **Complete focus** away from daily distractions
-- **Serendipitous encounters** that change careers and perspectives
-
-## Our Honest Answer
-
-While we understand not everyone can travel to Japan, **PyCon JP 2025 is designed as an in-person experience.** We're building something that can only be fully experienced by being physically present in Hiroshima.
-
-If online is your only option, we respect that and will provide what we can. But if there's any way you can join us in person, we believe the investment will pay dividends in ways that go far beyond what any online experience can offer.
-
-**We're looking forward to meeting you with all our hearts.**
+**Please come to Hiroshima and directly receive all of these feelings that can't be fully conveyed through a screen.**
 
 ---
-
-*Ready to experience the full power of "being there"? Check our registration details at [PyCon JP 2025 official website](https://2025.pycon.jp/) and join us in creating something extraordinary together in Hiroshima!*
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

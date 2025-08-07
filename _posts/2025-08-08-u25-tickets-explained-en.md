@@ -62,36 +62,6 @@ Having you feel "Maybe I'm next"—that's one of the things we want to achieve a
 
 Please come experience the moment when the future moves, right here in Hiroshima. And together with Ami and engineers gathered from across the country, find your own new piece.
 
-## Before You Apply, Please Check
-
-Please be sure to check the eligibility conditions and detailed contents of U25 tickets before applying.
-
-### Eligibility
-- Born on or after September 27, 1999
-- Must be 25 years old or younger on the conference's first day (September 26, 2025)
-- We also have (even more affordable) tickets for students, which I'll introduce in another article
-
-### What's Not Included
-- Official party participation rights (details about purchasing party tickets will be announced when ready)
-
-### Check-in on Event Day
-Please bring documentation that can prove you are 25 years old or younger as of the first day of the event (September 26).
-
-### Application
-Please apply through the [PyCon JP 2025 connpass event page](https://pyconjp.connpass.com/event/359523/).
-
-U25 tickets are available in limited quantities. If you're interested, please complete your registration early.
-
-For questions, please use the "Contact Us" feature on our official website rather than connpass's "Event Inquiry" function. As we're run by volunteers, responses may take some time. Please bear with us.
-
-**PyCon JP 2025 Contact Form**: https://pyconjp.atlassian.net/servicedesk/customer/portal/5
-
-### Travel Grant Support Available
-
-The application deadline for our travel grant support for remote participants is August 8, 2025 AoE (August 9, 2025 20:59 JST). Please consider this option as well.
-
 ---
-
-*Are you 25 or younger and passionate about Python? Check out our U25 tickets and join us in Hiroshima to witness—and perhaps become part of—the future of our community!*
 
 **PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**

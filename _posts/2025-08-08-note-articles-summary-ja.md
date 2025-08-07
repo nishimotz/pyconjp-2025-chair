@@ -32,7 +32,7 @@ team: chair
 
 ### 🎫 チケット・参加関連
 
-10. **[当日主催メンバーを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日）
+10. **[当日スタッフを募集しますか？](https://note.com/24motz/n/n3bbc8735aabf)** （7月29日） → *[English detailed explanation]({{ site.baseurl }}/day-of-event-staff-explained-en.html)*
 11. **[なぜ2種類の学生チケットがあるの？](https://note.com/24motz/n/nd8f7495d20a6)** （7月28日） → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
 12. **[U25チケットってなに？](https://note.com/24motz/n/n5661a9ae5b3d)** （7月27日） → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
 13. **[パトロンチケットってなに？](https://note.com/24motz/n/na043f140237d)** （7月26日） → *[English detailed explanation]({{ site.baseurl }}/patron-tickets-explained-en.html)*
@@ -94,7 +94,7 @@ team: chair
 
 55. **[ファイルを開くのは open() ですか？](https://note.com/24motz/n/n535d2707a381)** （6月14日）
 56. **[私はなぜ主催メンバーになったか？](https://note.com/24motz/n/n8fac5fe20eb5)** （6月13日）
-57. **[ポスター形式とは？](https://note.com/24motz/n/n86b9498687c0)** （6月2日）
+57. **[ポスター形式とは？](https://note.com/24motz/n/n86b9498687c0)** （6月2日） → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
 58. **[Python で a ＜ b ＜ c はどう書くの？](https://note.com/24motz/n/n40efff95676d)** （6月12日）
 59. **[なぜ「a, b = b, a」は学校で教えにくいのか？](https://note.com/24motz/n/n15b9cc1de0ae)** （6月11日）
 60. **[【学校の先生方】 PyCon JP 2025 の「出張申請書」はどう書けばいいですか？](https://note.com/24motz/n/n32517be8c66c)** （6月10日）

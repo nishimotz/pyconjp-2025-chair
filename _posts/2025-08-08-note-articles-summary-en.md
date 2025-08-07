@@ -33,7 +33,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 
 ### 🎫 Tickets & Participation
 
-10. **[Will You Recruit Day-of-Event Organizing Members?](https://note.com/24motz/n/n3bbc8735aabf)** (July 29)
+10. **[Will You Recruit Day-of-Event Staff?](https://note.com/24motz/n/n3bbc8735aabf)** (July 29) → *[English detailed explanation]({{ site.baseurl }}/day-of-event-staff-explained-en.html)*
 11. **[Why Are There Two Types of Student Tickets?](https://note.com/24motz/n/nd8f7495d20a6)** (July 28) → *[English detailed explanation]({{ site.baseurl }}/student-tickets-explained-en.html)*
 12. **[What is a U25 Ticket?](https://note.com/24motz/n/n5661a9ae5b3d)** (July 27) → *[English detailed explanation]({{ site.baseurl }}/u25-tickets-explained-en.html)*
 13. **[What is a Patron Ticket?](https://note.com/24motz/n/na043f140237d)** (July 26) → *[English detailed explanation]({{ site.baseurl }}/patron-tickets-explained-en.html)*
@@ -95,7 +95,7 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 
 55. **[Is open() Used to Open Files?](https://note.com/24motz/n/n535d2707a381)** (June 14)
 56. **[Why Did I Become an Organizer?](https://note.com/24motz/n/n8fac5fe20eb5)** (June 13)
-57. **[What is Poster Format?](https://note.com/24motz/n/n86b9498687c0)** (June 2)
+57. **[What is Poster Format?](https://note.com/24motz/n/n86b9498687c0)** (June 2) → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
 58. **[How Do You Write a < b < c in Python?](https://note.com/24motz/n/n40efff95676d)** (June 12)
 59. **[Why is "a, b = b, a" Hard to Teach in Schools?](https://note.com/24motz/n/n15b9cc1de0ae)** (June 11)
 60. **[【For School Teachers】 How Should I Fill Out the "Business Trip Application" for PyCon JP 2025?](https://note.com/24motz/n/n32517be8c66c)** (June 10)

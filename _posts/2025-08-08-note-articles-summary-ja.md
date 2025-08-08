@@ -93,8 +93,8 @@ team: chair
 ### 🎓 教育・学習（6月中旬）
 
 55. **[ファイルを開くのは open() ですか？](https://note.com/24motz/n/n535d2707a381)** （6月14日）
-56. **[私はなぜ主催メンバーになったか？](https://note.com/24motz/n/n8fac5fe20eb5)** （6月13日）
-57. **[Python で a ＜ b ＜ c はどう書くの？](https://note.com/24motz/n/n40efff95676d)** （6月12日）
+56. **[私はなぜ主催メンバーになったか？](https://note.com/24motz/n/n8fac5fe20eb5)** （6月13日） → *[English detailed explanation]({{ site.baseurl }}/why-became-organizer-en.html)*
+57. **[Python で a ＜ b ＜ c はどう書くの？](https://note.com/24motz/n/n40efff95676d)** （6月12日） → *[English detailed explanation]({{ site.baseurl }}/python-comparison-operators-en.html)*
 58. **[なぜ「a, b = b, a」は学校で教えにくいのか？](https://note.com/24motz/n/n15b9cc1de0ae)** （6月11日）
 59. **[【学校の先生方】 PyCon JP 2025 の「出張申請書」はどう書けばいいですか？](https://note.com/24motz/n/n32517be8c66c)** （6月10日）
 60. **[主催メンバーになると Python を学べるの？](https://note.com/24motz/n/n4da36d529504)** （6月9日）

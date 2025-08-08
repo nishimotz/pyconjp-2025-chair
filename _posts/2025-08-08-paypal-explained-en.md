@@ -57,12 +57,17 @@ If you receive suspicious emails, **do not click any links**. Instead, log into 
 
 ## For Smooth Procedures
 
-To ensure smooth payment processing for your PyCon JP 2025 tickets:
+Let me share the smooth procedure I practice when making these payments.
 
-- **Verify your account** is in good standing before the ticket sale begins
-- **Update your payment methods** if any cards or bank accounts have expired
-- **Check your account limits** to ensure you can make the necessary payment
-- **Have backup payment methods** ready in case of any issues
+**First, before opening the connpass page, I open PayPal's official site and log into my account.** 
+
+Why? Because this prevents situations like "frantically entering ID and password on the payment screen" or "accidentally logging into the wrong account."
+
+It's also perfect to check things like card expiration dates and identity verification status at this time.
+
+Furthermore, during the payment process, you might encounter card company authentication screens (3D Secure) or PayPal's own multi-factor authentication (MFA). That's why I recommend completing preparations beforehand to minimize any "rush and confusion" during the procedure.
+
+With advance preparation, even if additional authentication is required after applying on connpass, you can calmly handle it and proceed to the payment screen.
 
 ## Examples of Using PayPal as a Receiving Method
 

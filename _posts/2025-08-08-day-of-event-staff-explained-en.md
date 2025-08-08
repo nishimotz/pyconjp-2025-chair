@@ -5,7 +5,9 @@ layout: default
 permalink: /day-of-event-staff-explained-en.html
 ---
 
-PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 to 28, 2025 (the last day is development sprints). [https://2025.pycon.jp/](https://2025.pycon.jp/)
+PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 to 28, 2025 (the last day is development sprints).
+
+[https://2025.pycon.jp/](https://2025.pycon.jp/)
 
 PyCon JP is Japan's largest Python community event, a non-profit international conference organized mainly by Python community members.
 This article is day 66 of my note continuous posting [#100-day challenge](https://note.com/hashtag/100%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8) as the chair.
@@ -37,7 +39,9 @@ If you want to know what kind of work there is, please check this out: [**Dialog
 
 The venue team asked me to mention that we're recruiting someone for network responsibilities.
 Right now we're at a critical point where what we can do changes depending on whether we have people or not.
-Actually, if I weren't the chair, this would be an opportunity to touch routers... [https://note.com/24motz/n/n42e32194926e](https://note.com/24motz/n/n42e32194926e)
+Actually, if I weren't the chair, this would be an opportunity to touch routers...
+
+[https://note.com/24motz/n/n42e32194926e](https://note.com/24motz/n/n42e32194926e)
 
 ## PyCon JP's "Philosophy of Participation"
 

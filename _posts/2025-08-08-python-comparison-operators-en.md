@@ -9,7 +9,9 @@ permalink: /python-comparison-operators-en.html
 
 I'm Nishimotz, Chair of [PyCon JP 2025](https://2025.pycon.jp/).
 
-Previously, I wrote this article: [https://note.com/24motz/n/n15b9cc1de0ae](https://note.com/24motz/n/n15b9cc1de0ae)
+Previously, I wrote this article:
+
+[https://note.com/24motz/n/n15b9cc1de0ae](https://note.com/24motz/n/n15b9cc1de0ae)
 
 After that, I got curious and asked AI, and learned that languages with syntax that can simultaneously exchange (multiple assignment) multiple variable values in one line like Python's "a, b = b, a" exist in other languages too.
 So languages like Ruby, JavaScript, Perl were mentioned.
@@ -64,7 +66,9 @@ Why don't you come to Hiroshima to experience this "Python magic"?
 ## PyCon JP 2025 is recruiting speakers and sponsors!
 
 PyCon JP 2025 will be held at **Hiroshima International Conference Center** on September 26-28, 2025.
-The last day is development sprints. [https://note.com/24motz/n/n4f6801257221](https://note.com/24motz/n/n4f6801257221)
+The last day is development sprints.
+
+[https://note.com/24motz/n/n4f6801257221](https://note.com/24motz/n/n4f6801257221)
 
 **This is the first time PyCon JP is held outside Tokyo**, and we're currently recruiting speakers (proposals).
 The deadline is June 29.

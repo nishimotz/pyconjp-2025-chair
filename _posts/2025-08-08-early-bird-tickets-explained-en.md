@@ -5,13 +5,21 @@ layout: default
 permalink: /early-bird-tickets-explained-en.html
 ---
 
-PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 to 28, 2025 (the last day is development sprints). [https://note.com/24motz/n/n4f6801257221](https://note.com/24motz/n/n4f6801257221)
+PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 to 28, 2025 (the last day is development sprints).
 
-PyCon JP is Japan's largest Python community event, a non-profit international conference organized mainly by Python community members. [https://pyconjp.connpass.com/event/359523/](https://pyconjp.connpass.com/event/359523/)
+[https://note.com/24motz/n/n4f6801257221](https://note.com/24motz/n/n4f6801257221)
+
+PyCon JP is Japan's largest Python community event, a non-profit international conference organized mainly by Python community members.
+
+[https://pyconjp.connpass.com/event/359523/](https://pyconjp.connpass.com/event/359523/)
 
 This article is day 62 of my note continuous posting [#100-day challenge](https://note.com/hashtag/100%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8) as the chair.
 
-Actually, we had already started sales, but we published the ticket sales announcement on the official blog. [https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html](https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html) [https://note.com/24motz/n/n662c94e30e5c](https://note.com/24motz/n/n662c94e30e5c)
+Actually, we had already started sales, but we published the ticket sales announcement on the official blog.
+
+[https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html](https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html)
+
+[https://note.com/24motz/n/n662c94e30e5c](https://note.com/24motz/n/n662c94e30e5c)
 
 Today I'll explain PyCon JP 2025's "early bird tickets."
 
@@ -63,7 +71,9 @@ First, we ask speakers who will present to purchase conference participation tic
 Also, regardless of proposal acceptance results (accepted/rejected), we generally don't provide refunds for tickets once purchased.
 
 On top of this, we must apologize to everyone again.
-Due to scheduling, we had to start ticket sales before announcing proposal acceptance results. [https://twitter.com/pyconjapan/status/1947854939872756019](https://twitter.com/pyconjapan/status/1947854939872756019)
+Due to scheduling, we had to start ticket sales before announcing proposal acceptance results.
+
+[https://twitter.com/pyconjapan/status/1947854939872756019](https://twitter.com/pyconjapan/status/1947854939872756019)
 
 We painfully understand that acceptance results are very important for applicants in deciding participation.
 The feeling of wanting to purchase tickets after waiting for results is completely reasonable, and we sincerely apologize for this schedule.
@@ -95,7 +105,9 @@ This fishing mechanism is very suggestive for us today, especially those involve
 First, flocks of loons use their sharp diving ability to drive small fish (sand lance) schools near the sea surface.
 Sea bream and sea bass gather targeting those small fish.
 Experienced fishermen carefully observe the loon flock movements and gently bring their boats to where fish schools are forming.
-Then they accurately catch the fish that loons drove up using traditional single-hook fishing (hand fishing). [https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html](https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html)
+Then they accurately catch the fish that loons drove up using traditional single-hook fishing (hand fishing).
+
+[https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html](https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html)
 
 This relationship reminds me of "human-AI collaboration."
 The loons' "driving" is AI's role.
@@ -107,4 +119,6 @@ Like AI analyzing market data to identify promising trends (loon driving) and hu
 Each uses their strengths to achieve results that one (bird) alone couldn't accomplish.
 Thinking that hints for future working styles existed in this traditional Hiroshima fishing makes me excited.
 
-At PyCon JP 2025 too, there should be many stimulating discussions where cutting-edge technology intersects with our human wisdom using it. [https://2025.pycon.jp/](https://2025.pycon.jp/)
+At PyCon JP 2025 too, there should be many stimulating discussions where cutting-edge technology intersects with our human wisdom using it.
+
+[https://2025.pycon.jp/](https://2025.pycon.jp/)

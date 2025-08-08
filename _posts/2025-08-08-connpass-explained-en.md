@@ -10,10 +10,14 @@ This note is day 43 of my [#100-day challenge](https://note.com/hashtag/100%E6%9
 
 PyCon JP 2025 will be held on September 26-27 in Hiroshima. September 28 will be the development sprint.
 We are currently recruiting sponsors.
-Registration will open in July. [https://2025.pycon.jp/](https://2025.pycon.jp/)
+Registration will open in July.
+
+[https://2025.pycon.jp/](https://2025.pycon.jp/)
 
 You see the PyCon JP official site and decide to participate.
-When you go to the registration page, you naturally encounter the "connpass" logo. "What is this?" "Why do I have to use this?" If you're new to this, it's natural to think that way. [https://connpass.com/](https://connpass.com/)
+When you go to the registration page, you naturally encounter the "connpass" logo. "What is this?" "Why do I have to use this?" If you're new to this, it's natural to think that way.
+
+[https://connpass.com/](https://connpass.com/)
 
 Today, before explaining the specific registration process, let me first explain what this "connpass" service is and what it means to our IT community, especially PyCon JP.
 
@@ -21,7 +25,9 @@ Today, before explaining the specific registration process, let me first explain
 
 connpass is a web service that handles the entire flow of finding, registering for, and participating in IT study groups and conferences. Since appearing in 2011, it has continued to support Japan's IT study group culture and can be called a "veteran" in this field.
 Various technical events, large and small, gather and are held in this "square" every day.
-When you access connpass, it's like stepping into this vibrant square and exploring interesting events. Here's an article I'd like to introduce: ["Hearing about connpass history"](https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/). [https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/](https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/)
+When you access connpass, it's like stepping into this vibrant square and exploring interesting events. Here's an article I'd like to introduce: ["Hearing about connpass history"](https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/).
+
+[https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/](https://dotstud.io/blog/connpass-n0bisuke-interview-vol2/)
 
 ## A "Comrade-in-Arms" That Grew with PyCon JP
 
@@ -37,10 +43,14 @@ People involved in the service often give talks about development and operations
 ## My Experience as an Event Organizer
 
 I think some people have used connpass to organize small study groups, but not many have used it to collect participation fees.
-I have experience organizing an event called "PyCon mini Hiroshima" several times in Hiroshima. [https://pycon-hiroshima.connpass.com/event/139166/](https://pycon-hiroshima.connpass.com/event/139166/)
+I have experience organizing an event called "PyCon mini Hiroshima" several times in Hiroshima.
+
+[https://pycon-hiroshima.connpass.com/event/139166/](https://pycon-hiroshima.connpass.com/event/139166/)
 
 I used the payment functionality myself at that time.
-I learned that connpass **doesn't charge platform fees** from us event organizers. [https://help.connpass.com/organizers/paid-event-edit](https://help.connpass.com/organizers/paid-event-edit)
+I learned that connpass **doesn't charge platform fees** from us event organizers.
+
+[https://help.connpass.com/organizers/paid-event-edit](https://help.connpass.com/organizers/paid-event-edit)
 
 The participation fees I collected from participants (as an event organizer) were received in full, minus only the fees from the payment service behind connpass (PayPal).
 I don't really understand how this kind of operation is possible, but I think it's something to be grateful for.
@@ -52,17 +62,25 @@ Your history of past event participation remains on your profile, and when you l
 Also, it has social networking features, so you can learn about events that friends are organizing or participating in.
 Meeting events and connecting with people.
 Connecting with people leads to discovering more events.
-It's convenient that information keeps coming to you without actively searching. [https://help.connpass.com/basic/setting_sns](https://help.connpass.com/basic/setting_sns)
+It's convenient that information keeps coming to you without actively searching.
+
+[https://help.connpass.com/basic/setting_sns](https://help.connpass.com/basic/setting_sns)
 
 ## Conference Feature
 
-connpass recently launched a conference feature. [https://connpass.com/feature/conference/](https://connpass.com/feature/conference/)
+connpass recently launched a conference feature.
+
+[https://connpass.com/feature/conference/](https://connpass.com/feature/conference/)
 
 PyCon JP 2025 is also featured here.
-If you haven't registered yet, please create a new connpass account while we're preparing for ticket sales. [https://help.connpass.com/basic/register](https://help.connpass.com/basic/register)
+If you haven't registered yet, please create a new connpass account while we're preparing for ticket sales.
+
+[https://help.connpass.com/basic/register](https://help.connpass.com/basic/register)
 
 ## PyCon JP 2025 is Held in Hiroshima
 
 PyCon JP 2025 is held in Hiroshima. (I wrote that again)
 
-The official site will make various announcements for participants, but I also plan to write various things from a personal standpoint (58 days left). [https://note.com/24motz/n/nf7602be7df5b](https://note.com/24motz/n/nf7602be7df5b)
+The official site will make various announcements for participants, but I also plan to write various things from a personal standpoint (58 days left).
+
+[https://note.com/24motz/n/nf7602be7df5b](https://note.com/24motz/n/nf7602be7df5b)

@@ -9,19 +9,29 @@ permalink: /why-became-organizer-en.html
 
 I'm nishimotz / 24motz, Chair of [PyCon JP 2025](https://2025.pycon.jp/).
 
-I wrote about how we came to hold it in Hiroshima, when I started preparing, and such things. [https://note.com/24motz/n/nf7602be7df5b](https://note.com/24motz/n/nf7602be7df5b) [https://note.com/24motz/n/na3e81ea938f8](https://note.com/24motz/n/na3e81ea938f8)
+I wrote about how we came to hold it in Hiroshima, when I started preparing, and such things.
 
-When we were trying to decide the PyCon JP 2025 venue, I was an organizing member of PyCon JP 2024. [https://2024.pycon.jp/](https://2024.pycon.jp/)
+[https://note.com/24motz/n/nf7602be7df5b](https://note.com/24motz/n/nf7602be7df5b)
+
+[https://note.com/24motz/n/na3e81ea938f8](https://note.com/24motz/n/na3e81ea938f8)
+
+When we were trying to decide the PyCon JP 2025 venue, I was an organizing member of PyCon JP 2024.
+
+[https://2024.pycon.jp/](https://2024.pycon.jp/)
 
 I knew several people who had participated as organizing members of PyCon JP (held in Tokyo) while living in Hiroshima, so I knew such things were possible. (People not living in the host city can also participate in operations in various ways)
 
-But when recruitment began, it was still right after YAPC::Hiroshima 2024, so I thought "Am I going to run another event's operations so soon?" and my family must have been exasperated too (and here I am doing 2025 as well)... [https://yapcjapan.org/2024hiroshima/](https://yapcjapan.org/2024hiroshima/)
+But when recruitment began, it was still right after YAPC::Hiroshima 2024, so I thought "Am I going to run another event's operations so soon?" and my family must have been exasperated too (and here I am doing 2025 as well)...
+
+[https://yapcjapan.org/2024hiroshima/](https://yapcjapan.org/2024hiroshima/)
 
 Still, I got involved because in spring 2024, there was something that concerned me.
 
 ## What changed in April 2024?
 
-On April 1, 2024, the revised Act on Elimination of Discrimination against Persons with Disabilities came into effect, making **"provision of reasonable accommodation" by businesses a legal obligation**. [https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet.html](https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet.html)
+On April 1, 2024, the revised Act on Elimination of Discrimination against Persons with Disabilities came into effect, making **"provision of reasonable accommodation" by businesses a legal obligation**.
+
+[https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet.html](https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet.html)
 
 Until then it was an "effort obligation" meaning "please do it if possible," but from April 2024, it became a legal obligation.
 Events like PyCon JP also become subject to this law as "businesses."
@@ -35,9 +45,13 @@ Specifically, accommodation for wheelchair users at venues, information support 
 While many people were confused thinking "What should we do?", for me this was an event where "legal basis was added to something I had been strongly interested in for a long time."
 
 I have worked on Japanese localization of the visual impairment support technology NVDA for many years.
-This was what got me seriously learning Python. [https://www.nvda.jp/](https://www.nvda.jp/)
+This was what got me seriously learning Python.
 
-At PyCon JP 2012, we held a co-located event with many participants with visual impairments. [https://workshop.nvda.jp/](https://workshop.nvda.jp/)
+[https://www.nvda.jp/](https://www.nvda.jp/)
+
+At PyCon JP 2012, we held a co-located event with many participants with visual impairments.
+
+[https://workshop.nvda.jp/](https://workshop.nvda.jp/)
 
 Currently, this law provides exemptions when it would be an "excessive burden."
 That is, it doesn't force financially difficult accommodations on individual business owners or small organizations.
@@ -51,7 +65,9 @@ At PyCon US 2025 (Pittsburgh) that I attended recently, I met many participants 
 Visual impairment, hearing impairment, wheelchair users, etc. - various people who normally use Python and are developers or learners participating in the community.
 
 Such participants are not "special beings."
-I think what's being questioned is how we, as members of the Python community, welcome them. [https://note.com/24motz/n/n182577c9d8f0](https://note.com/24motz/n/n182577c9d8f0)
+I think what's being questioned is how we, as members of the Python community, welcome them.
+
+[https://note.com/24motz/n/n182577c9d8f0](https://note.com/24motz/n/n182577c9d8f0)
 
 ## How was PyCon JP 2024?
 
@@ -75,7 +91,9 @@ PyCon JP 2025 will be held at **Hiroshima International Conference Center** on S
 The last day is development sprints.
 **This is the first time PyCon JP is held outside Tokyo**, and we're currently recruiting speakers (proposals).
 The deadline is June 29.
-We use a system called pretalx. [https://note.com/24motz/n/n013f49c33966](https://note.com/24motz/n/n013f49c33966)
+We use a system called pretalx.
+
+[https://note.com/24motz/n/n013f49c33966](https://note.com/24motz/n/n013f49c33966)
 
 **Posters and community posters have the same deadline**, so please be careful!
 [https://note.com/24motz/n/n7211316e6adf](https://note.com/24motz/n/n7211316e6adf)

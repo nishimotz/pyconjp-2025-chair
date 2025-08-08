@@ -94,9 +94,9 @@ Current status: **Tickets are on sale now**. Early bird tickets are still availa
 ### 🎓 Education & Learning (Mid-June)
 
 55. **[Is open() Used to Open Files?](https://note.com/24motz/n/n535d2707a381)** (June 14)
-56. **[Why Did I Become an Organizer?](https://note.com/24motz/n/n8fac5fe20eb5)** (June 13)
-57. **[What is Poster Format?](https://note.com/24motz/n/n86b9498687c0)** (June 2) → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
-58. **[How Do You Write a < b < c in Python?](https://note.com/24motz/n/n40efff95676d)** (June 12)
+56. **[Why Did I Become an Organizer?](https://note.com/24motz/n/n8fac5fe20eb5)** (June 13) → *[English detailed explanation]({{ site.baseurl }}/why-became-organizer-en.html)*
+57. **[How Do You Write a < b < c in Python?](https://note.com/24motz/n/n40efff95676d)** (June 12) → *[English detailed explanation]({{ site.baseurl }}/python-comparison-operators-en.html)*
+58. **[What is Poster Format?](https://note.com/24motz/n/n86b9498687c0)** (June 2) → *[English detailed explanation]({{ site.baseurl }}/poster-format-explained-en.html)*
 59. **[Why is "a, b = b, a" Hard to Teach in Schools?](https://note.com/24motz/n/n15b9cc1de0ae)** (June 11)
 60. **[【For School Teachers】 How Should I Fill Out the "Business Trip Application" for PyCon JP 2025?](https://note.com/24motz/n/n32517be8c66c)** (June 10)
 61. **[Can You Learn Python by Becoming an Organizer?](https://note.com/24motz/n/n4da36d529504)** (June 9)

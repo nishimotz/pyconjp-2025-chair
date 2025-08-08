@@ -1,168 +1,114 @@
 ---
 lang: en
-title: What Tourism Opportunities Are Available in Hiroshima? Your Complete PyCon JP 2025 Travel Guide - Chair's Report
+title: What kind of sightseeing can you do in Hiroshima? - PyCon JP 2025
 layout: default
 permalink: /hiroshima-tourism-guide-en.html
-team: chair
 ---
 
-Hello! I'm Nishimoto, Chair of PyCon JP 2025. This is day 37 of my #100-day challenge note series.
+Hello! I'm Nishimotz, Chair of [PyCon JP 2025](https://2025.pycon.jp/).
+This note is day 37 of my [#100-day challenge](https://note.com/hashtag/100%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8).
 
-PyCon JP 2025 will be held at Hiroshima International Conference Center from September 26 (Friday) to 28 (Sunday), 2025. Two days of conference, with the final day dedicated to development sprints.
+PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 (Fri) to 28 (Sun), 2025. Two days of conference, and the last day will be development sprints.
 
-Why not plan a leisurely journey to explore Hiroshima while joining this event where you can connect with Python community members from across Japan and around the world?
+Why not plan a trip to slowly enjoy Hiroshima in conjunction with this event where you can interact with Python community members from all over the country and the world?
+In this article, I'll introduce a travel plan I created on my own, centered around PyCon JP 2025.
+I hope others will write detailed information about each of these!
 
-This article presents a travel plan I've personally crafted around PyCon JP 2025. I'd love for others to provide detailed information about each destination!
+## 🧳 Model Plan: 8-Day Hiroshima Stay
 
-*This post is based on my [note article "What Tourism Opportunities Are Available in Hiroshima?"](https://note.com/24motz/n/n6de670f8bbde) from June 30, part of my #100-day challenge.*
+### 🗓 September 23 (Tue・Holiday) 《Pre-arrival Day 1》
+**Autumn of Culture and Crafts: Kumano Brush Festival and Hiroshima City Exploration**
 
-## 🧳 Model Plan: 8-Day Hiroshima Journey
+- Travel from Haneda to Hiroshima Airport
+- Kumano Town "Brush Festival" (brush memorial service, hands-on experience, food stalls), a traditional autumn equinox event
+- Check out trendy sweets and the latest souvenirs at Hiroshima Station building "Minamoa・Ekie"
 
-### 🗓 September 23 (Tuesday, Holiday) - Day 1: Pre-arrival
-**Culture and Craftsmanship in Autumn: Kumano Brush Festival & Hiroshima City Exploration**
+[https://www.instagram.com/kumanofudematsuri/p/DK1ETuESCY0/](https://www.instagram.com/kumanofudematsuri/p/DK1ETuESCY0/)
+[https://www.fudematsuri.jp/](https://www.fudematsuri.jp/)
+[https://www.minamoa-ekie.jp/](https://www.minamoa-ekie.jp/)
 
-- **Morning**: Flight from Haneda to Hiroshima Airport
-- **Afternoon**: Kumano Town "Brush Festival" (brush memorial service, hands-on experiences, food stalls) - an annual autumn equinox tradition
-- **Evening**: Hiroshima Station Building "Minamoa/Ekie" - check out trending sweets and latest souvenirs
+### 🗓 September 24 (Wed) 《Day 2》
+**Quietly Savoring Hiroshima Through City Sightseeing**
 
-**Resources:**
-- [Kumano Brush Festival Instagram](https://www.instagram.com/kumanofudematsuri/p/DK1ETuESCY0/)
-- [Official Festival Website](https://www.fudematsuri.jp/)
-- [Minamoa Ekie Shopping](https://www.minamoa-ekie.jp/)
+- Peace Memorial Museum and Atomic Bomb Dome (also check out the PyCon JP venue location!)
+- Observatory at Orizuru Tower
+- Stroll and café time at Hiroshima Gate Park
+- Enjoy gardens and art at Shukkeien Garden and museums
+- Evening: Network with the local community at "Sugoi Hiroshima" (check on connpass)
 
-### 🗓 September 24 (Wednesday) - Day 2: City Tour
-**Downtown Sightseeing for a Quiet Hiroshima Experience**
+[https://www.orizurutower.jp/](https://www.orizurutower.jp/)
+[https://shukkeien.jp/](https://shukkeien.jp/)
+[https://gate-park.jp/](https://gate-park.jp/)
+[https://great-h.connpass.com/event/](https://great-h.connpass.com/event/)
 
-- **Morning**: Peace Memorial Museum and Atomic Bomb Dome (also scope out the PyCon JP venue location!)
-- **Midday**: Orizuru Tower for panoramic views
-- **Afternoon**: Hiroshima Gate Park for strolling and cafe time
-- **Late afternoon**: Shukkeien Garden and Art Museum for gardens and art appreciation
-- **Evening**: "Sugoi Hiroshima" local community meetup (check connpass for details)
+### 🗓 September 25 (Thu) 《Day 3》
+**Miyajima Sightseeing (Full Day)**
 
-**Key Attractions:**
-- **Peace Memorial Complex**: Essential historical context for understanding Hiroshima
-- **Orizuru Tower**: Modern observation deck with interactive exhibits
-- **Gate Park**: Contemporary urban space perfect for relaxation
-- **Shukkeien Garden**: Traditional Japanese landscape garden dating to 1620
+- Itsukushima Shrine, Great Torii, gourmet food and shopping in the shopping district
+- Enjoy spectacular views on the Misen Ropeway
+- Stand-up paddleboard experience too
 
-**Resources:**
-- [Orizuru Tower](https://www.orizurutower.jp/)
-- [Shukkeien Garden](https://shukkeien.jp/)
-- [Gate Park](https://gate-park.jp/)
-- [Great Hiroshima Meetups](https://great-h.connpass.com/event/)
+[https://miyajima-ropeway.info/](https://miyajima-ropeway.info/)
+[https://www.asoview.com/leisure/11/location/are0340900/](https://www.asoview.com/leisure/11/location/are0340900/)
 
-### 🗓 September 25 (Thursday) - Day 3: Island Adventure
-**Miyajima Full Day Tour**
+I also wrote about Miyajima's Machiya Street before. [https://note.com/24motz/n/n55ad8fc5f8bb](https://note.com/24motz/n/n55ad8fc5f8bb)
 
-- **Morning**: Itsukushima Shrine, famous floating torii gate, shopping street for gourmet food and souvenirs
-- **Afternoon**: Mount Misen Ropeway for breathtaking panoramic views
-- **Optional**: Stand-up paddleboard experience for the adventurous
+### 🗓 September 26 (Fri) 《Day 4》
+**PyCon JP 2025 Opening**
 
-**Miyajima Highlights:**
-- **Itsukushima Shrine**: One of Japan's three most scenic views
-- **Floating Torii Gate**: Iconic symbol of Hiroshima, especially beautiful at high tide
-- **Mount Misen**: Sacred mountain with spectacular 360-degree views
-- **Traditional Shopping Street**: Local delicacies including maple leaf-shaped pastries
+- Registration, keynote, session participation
+- Evening: official party or volunteer meetups
 
-**Resources:**
-- [Miyajima Ropeway](https://miyajima-ropeway.info/)
-- [Adventure Activities](https://www.asoview.com/leisure/11/location/are0340900/)
+[https://2025.pycon.jp/](https://2025.pycon.jp/)
 
-*I previously wrote about Miyajima's traditional townhouse streets in [this article](https://note.com/24motz/n/n55ad8fc5f8bb).*
+### 🗓 September 27 (Sat) 《Day 5》
+**PyCon JP Day 2**
 
-### 🗓 September 26 (Friday) - Day 4: Conference Begins
-**PyCon JP 2025 Opening Day**
+- Sessions, exhibitions, poster presentations, etc.
+- Evening: networking with people you met at the venue
 
-- **Morning**: Registration, opening keynote, technical sessions
-- **Afternoon**: Presentations, workshops, networking
-- **Evening**: Official reception or informal meetups with fellow attendees
+### 🗓 September 28 (Sun) 《Day 6》
+**PyCon JP Development Sprint (All Day)**
 
-**Conference Experience:**
-- **International Community**: Connect with Python developers from around the world
-- **Technical Learning**: Cutting-edge presentations and workshops
-- **Cultural Exchange**: Perfect opportunity to experience Japanese tech culture
+- Contribution and hackathon-style activities
 
-**Resources:**
-- [PyCon JP 2025 Official Site](https://2025.pycon.jp/)
+### 🗓 September 29 (Mon) 《Day 7》
+**Choose Your Activity Day**
 
-### 🗓 September 27 (Saturday) - Day 5: Conference Day Two
-**PyCon JP Full Programming**
+- Cycling on Onomichi・Shimanami Kaido
+- Feel the history and sea of the former Navy at Etajima
+- Healing time with rabbits at Okunoshima (Rabbit Island)
+- Autumn flowers and nature walk at Wakunaga Garden
+- Sake brewery tour (Saijo area, Higashihiroshima City)
+- Shimose Art Museum (noted as one of the world's most beautiful museums)
+- For sports fans: Mazda Stadium or Edion Peace Wing Hiroshima
+- Pilgrimage to game and anime holy sites too
 
-- **All Day**: Sessions, exhibitions, poster presentations
-- **Evening**: Socialize with new connections made at the venue
+[https://garden.wakunaga.co.jp/](https://garden.wakunaga.co.jp/)
+[https://etajima-kanko.com/](https://etajima-kanko.com/)
+[https://www.takeharakankou.jp/feature/usagi/top](https://www.takeharakankou.jp/feature/usagi/top)
+[https://simose-museum.jp/](https://simose-museum.jp/)
 
-**Conference Activities:**
-- **Technical Sessions**: Deep-dive presentations on Python technologies
-- **Poster Sessions**: Interactive discussions with researchers and practitioners
-- **Exhibitions**: Latest tools, libraries, and services in the Python ecosystem
-- **Networking**: Structured and informal opportunities to connect
+### 🗓 September 30 (Tue) 《Final Day》
+**Choose Your Activity Day・Trip Finale**
 
-### 🗓 September 28 (Sunday) - Day 6: Development Sprint
-**PyCon JP Development Sprint (Full Day)**
+- Mazda Museum (Hiroshima City Minami Ward) - Reservation required
+- Hiroshima City Environment Bureau Naka Plant (garbage processing facility) tour (some require reservations), a contemporary art-like facility that's also talked about as a movie filming location
+- Grand Prince Hotel Hiroshima (Ujina area) G7 Summit related exhibitions, seaside stroll
+- Evening: Final flight (20:10〜20:25) to Haneda
 
-- **All Day**: Contribution activities and hackathon-style development
+[https://www.mazda.com/ja/experience/museum/](https://www.mazda.com/ja/experience/museum/)
+[https://dive-hiroshima.com/explore/3185/](https://dive-hiroshima.com/explore/3185/)
+[https://www.princehotels.co.jp/hiroshima/informations/g7_photo/](https://www.princehotels.co.jp/hiroshima/informations/g7_photo/)
 
-**Sprint Activities:**
-- **Open Source Contributions**: Contribute to Python projects and libraries
-- **Collaborative Development**: Work directly with maintainers and other contributors
-- **Skill Building**: Learn from experienced developers in hands-on settings
-- **Project Creation**: Start new initiatives or join existing projects
+## Summary
 
-### 🗓 September 29 (Monday) - Day 7: Choose Your Adventure
-**Customizable Activity Day**
+The theme of PyCon JP 2025 is "Gather Python Pieces."
+That includes not just technology and knowledge, but all the "pieces" of people you meet in Hiroshima, experiences, and moments that remain in your heart.
+In addition to learning and meeting people, experience Hiroshima's autumn with all five senses.
+Please plan your own week!
 
-**Option A: Cycling Adventure**
-- **Onomichi & Shimanami Kaido**: Famous cycling route connecting islands
-
-**Option B: Naval History**
-- **Etajima Island**: Former Imperial Japanese Navy history and coastal scenery
-
-**Option C: Nature Escape**
-- **Okunoshima (Rabbit Island)**: Healing time with hundreds of friendly rabbits
-- **Wakunaga Garden**: Autumn flowers and natural landscapes
-
-**Option D: Cultural Immersion**
-- **Sake Brewery Tour**: Saijo Area, Higashi-Hiroshima City - renowned sake region
-- **Simose Art Museum**: One of the world's most beautiful museums
-
-**Option E: Sports & Entertainment**
-- **Mazda Stadium**: Baseball game experience
-- **Edion Peace Wing Hiroshima**: Soccer match
-- **Anime/Game Pilgrimage Sites**: Various locations for fans
-
-**Detailed Activity Information:**
-- [Wakunaga Garden](https://garden.wakunaga.co.jp/)
-- [Etajima Tourism](https://etajima-kanko.com/)
-- [Rabbit Island Guide](https://www.takeharakankou.jp/feature/usagi/top)
-- [Simose Art Museum](https://simose-museum.jp/)
-
-### 🗓 September 30 (Tuesday) - Day 8: Grand Finale
-**Final Day Options & Journey's End**
-
-**Morning/Afternoon Options:**
-
-**Option A: Industrial Heritage**
-- **Mazda Museum** (Hiroshima Minami Ward): Completely reservation-based factory tour
-- **Hiroshima Environment Bureau Central Plant**: Waste processing facility tour (some areas require reservations) - contemporary art-like facility that's been a movie filming location
-
-**Option B: Diplomatic History**
-- **Grand Prince Hotel Hiroshima** (Ujina Area): G7 Summit related exhibitions, seaside strolling
-
-**Evening**: Final flights (8:10-8:25 PM) back to Haneda
-
-**Resources:**
-- [Mazda Museum](https://www.mazda.com/ja/experience/museum/)
-- [Central Plant Tour](https://dive-hiroshima.com/explore/3185/)
-- [Grand Prince Hotel G7 Exhibit](https://www.princehotels.co.jp/hiroshima/informations/g7_photo/)
-
-
-
-## Summary: Pieces of Python, Coming Together
-
-The theme of PyCon JP 2025 is **"Pieces of Python, Coming Together."** This encompasses not just technology and knowledge, but all the "pieces" you'll encounter in Hiroshima—the people you meet, the experiences you have, and the moments that remain in your heart.
-
-**Beyond learning and connections, experience Hiroshima's autumn with all five senses.** Please plan your own unique week-long journey!
-
----
-
-**PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**
+Note: I know about some events and facilities but haven't been to them myself.
+Please check official websites to confirm whether the dates listed in this plan are business days (visiting days, event days).
+Information about PyCon JP 2025 tickets and distant travel support is being prepared.
+Please wait for announcements on the official website. [https://note.com/24motz/n/n8828bcad687a](https://note.com/24motz/n/n8828bcad687a)

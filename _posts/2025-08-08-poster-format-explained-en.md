@@ -1,107 +1,118 @@
 ---
 lang: en
-title: What is Poster Format? Understanding PyCon JP 2025's Interactive Presentation Style - Chair's Report
+title: What is poster format? - PyCon JP 2025 Call for Proposals
 layout: default
 permalink: /poster-format-explained-en.html
-team: chair
 ---
 
-Hello, this is Nishimotz, the Chair of PyCon JP 2025.
+## Call for Proposals Open
 
-PyCon JP 2025 will be held at Hiroshima International Conference Center from September 26-28, 2025 (the final day is for development sprints). Currently, we're accepting proposals! Why not consider presenting at Python's premier conference, PyCon JP?
+[PyCon JP 2025](https://2025.pycon.jp/) will be held at the Hiroshima International Conference Center from September 26 to 28 (the last day is development sprints), and we're currently calling for proposals!
 
-**Proposal submission deadline: June 29**  
-**Submit here**: https://pretalx.com/pycon-jp-2025/cfp
+Why not try presenting at PyCon JP, Python's conference?
 
-*This post is based on my [note article "What is Poster Format?"](https://note.com/24motz/n/n86b9498687c0) from June 2, part of my #100-day challenge.*
+[https://pretalx.com/pycon-jp-2025/cfp](https://pretalx.com/pycon-jp-2025/cfp)
 
-## What is a "Poster Presentation"?
+The deadline is June 29.
 
-PyCon JP 2025 proposals come in three formats:
-- **Talk** (30 minutes)
-- **Poster**
-- **Community**
+## What is a Poster Presentation?
 
-**"Poster? What's that?"** you might be wondering.
+PyCon JP 2025 proposals have three types of formats:
+- Talk (30 minutes)
+- Poster  
+- Community Poster
 
-A **poster presentation** is a presentation style where you summarize what you want to present on a large paper (poster), and then introduce your topic through conversations with attendees in front of that displayed poster.
+Did anyone think "What's a poster?"
 
-### How Poster Sessions Work:
+A poster presentation is a style of presentation where you summarize what you want to present on a large paper (poster) and introduce it in front of the poster while talking with attendees.
 
-- **Poster display area**: Posters are arranged in one section of the venue
-- **Direct interaction**: Presenters explain directly to visitors who come to listen
-- **Free movement**: Attendees can freely move around the venue between posters
-- **Conversational format**: More intimate, discussion-based than formal talks
+- Posters are lined up in a corner of the venue
+- Presenters directly explain to people who come to listen
+- Attendees can freely move around the venue
 
-The detailed explanation of poster format for PyCon JP 2025 will be handled by our organizing members. Here, I'll share my experience as a past poster presenter to give you a sense of "what it's like."
+I'll leave the detailed explanation of the poster format at PyCon JP 2025 to the organizing members.
+Here, once again, as someone with past poster presentation experience, I'll talk about what it's like.
 
 ## Core Time
 
-While I don't know the official term, there's a designated time period when "presenters must be at their poster." Let's call this **"core time."**
+I don't know the official term, but there's a designated time period where "presenters must be in front of their poster during this time."
+Let's call it core time here.
+It's a time set in advance by the organizers so attendees can easily ask questions.
+Attendees can freely view posters outside of core time, but presenters need to be in front of their poster during core time.
 
-This is a time set by organizers to make it easier for attendees to ask questions. Attendees can freely view posters outside of core time, but presenters must be at their posters during core time.
+## What Kind of People Are Suited for Poster Presentations?
 
-## Who is Poster Format Perfect For?
+### People Who Want to Present for the First Time
 
-### **🌟 First-Time Presenters**
-Poster presentations are **more casual than slide-based oral presentations** and allow you to explain at your own pace. Perfect for your **"presentation debut"**!
+It's more casual than oral presentations using slides, and you can explain at your own pace.
+It's perfect for your "presentation debut."
 
-### **🎨 People Who Want to Show or Demonstrate**
-Within space constraints, you can use tablets or PCs next to your poster for **live demonstrations**.
+### People Who Want to Show or Let Others Experience Something
 
-**"I'm an artist who creates art with Python. Please take a look."**
+Within the space constraints, you can also demonstrate using tablets or PCs next to the poster.
+"I'm an artist, but I create art with Python.
+Please take a look."
+I saw such poster presentations at this year's PyCon US.
+It's not just a festival for engineers.
 
-I saw this kind of poster presentation at PyCon US this year. **It's not just a festival for engineers!**
+### People Working Hard in Specialized Fields
 
-### **🔬 Specialists in Particular Fields**
-**Niche topics are very welcome.** It's a place to meet fellow enthusiasts with the same interests.
+Niche topics are very welcome.
+It's a place where you can meet colleagues with the same interests.
+If you're a researcher or student, haven't you done poster presentations at conferences, within your organization, or at your university?
+If that's related to Python, it's your chance!
+You might be able to use that poster as-is!
 
-**Researchers and students**: Haven't you done poster presentations at academic conferences, within organizations, or at your school? If it's Python-related, **this is your chance!** You might be able to use that same poster!
+Let's broaden the listeners' world by showing how people in such fields use Python.
+You might find unexpected colleagues.
+Someone might approach you saying they used to do something similar.
 
-Show your audience: **"People in this field use Python this way"** and expand their world. You might find unexpected colleagues, or someone might approach you saying, **"I used to do similar work."**
+### People Who Want to Convey to International Participants
 
-### **🌍 People Who Want to Reach International Participants**
-**Adding English explanations to your poster reaches more people.** Even if you're anxious about speaking English, if you prepare translations with AI beforehand, you can get through the day just by reading from your poster!
+If you create a poster with English explanations, it reaches more people.
+Even if you're worried about speaking English, if you translate in advance with AI, you can get by just reading the poster on the day!
+Whatever your English level, we're colleagues involved with Python.
+Your enthusiasm will surely come across.
+There are smartphone translation apps too.
+Let's communicate with people gathered from around the world (in Hiroshima)!
 
-**Regardless of your English level, we're all Python community members.** Your enthusiasm will definitely get through. **With smartphone translation apps available, communicate with people gathered from around the world (in Hiroshima)!**
+## Also Recommended for Question Asker Debuts!
 
-## Great for "Question Debut" Too!
-
-When you participate in a conference as an attendee and find something interesting or want to know more details, **asking questions through a microphone during talk Q&A can be nerve-wracking.** Plus, session Q&A ends very quickly.
-
-**With posters, you can naturally stop and say "hello" and start a conversation.** "What is this?" "How did you make it?" You can enjoy conversation without formality.
-
-**Enjoy English conversations with international poster presenters too!**
+When you participate in a conference as an attendee and think something was interesting or want to hear more details, with talks, it's nerve-wracking to ask the speaker questions through a microphone.
+Plus, session Q&A ends in a flash.
+With posters, you can naturally stop by and say "Hello" and start a conversation.
+"What's this?"
+"How did you make it?"
+You can enjoy conversation without being formal.
+Let's also enjoy English conversations with international poster presenters!
 
 ## Poster Presentations at PyCon US
 
-**Guido van Rossum**, Python's creator, reportedly visits poster presentations at PyCon US every year. In 2025, I spotted Guido in the poster area at the venue.
+Guido van Rossum, Python's creator, apparently goes around looking at poster presentations at PyCon US every year.
+In 2025, I also saw Guido at the poster venue.
+You might think "posters are supporting actors?" but they're information sharing venues valued at PyCons worldwide.
 
-You might think **"posters are supporting actors,"** but they're **information-sharing venues treasured at PyCons worldwide.**
+The poster venue at PyCon US 2025
 
-### The PyCon US 2025 Poster Experience
+## My Experience
 
-At PyCon US, the poster session was vibrant and well-attended, with:
-- **High-quality research presentations** from universities and research institutions
-- **Creative projects** showcasing artistic and innovative Python applications
-- **Industry case studies** sharing real-world implementation experiences
-- **Educational initiatives** demonstrating Python in teaching and learning
+Poster presentation is a format I especially recommend for people who feel "I'm not good at speaking" or "I lack confidence."
+A poster isn't just paper.
+Your thoughts become an "entrance" that connects people to people.
 
-## My Personal Experience
+I did poster presentations several times with my specialty topic "Japanese support for screen reader NVDA."
+I held a laptop while standing and explained while doing demos making it speak.
+I even got a speaker T-shirt, and had this strange realization that "ah, I'm being treated properly as a presenter."
+Eventually people started saying "ah, you're presenting again this year."
+Though I didn't continue.
 
-**Poster presentations are especially recommended for people who feel "I'm not good at speaking" or "I lack confidence."**
+Well, let me introduce the third format, community posters, in a separate article.
 
-**A poster isn't just paper. Your thoughts become an "entrance" that connects people to people.**
+## Both Speakers and Sponsors Wanted
 
-I've done poster presentations several times with my go-to topic **"Japanese Language Support for Screen Reader NVDA."** I'd stand with my laptop, giving demos while explaining. I even got speaker T-shirts, and had this strange realization: **"Ah, I'm being treated as a proper presenter."**
+**PyCon JP 2025 is calling for both proposals (presenters) and sponsors!**
 
-Eventually, people started saying **"Oh, you're presenting this again this year."** (Though I didn't continue consistently.)
+[https://pyconjp.blogspot.com/2025/05/pyconjp-2025-call-for-proposals.html](https://pyconjp.blogspot.com/2025/05/pyconjp-2025-call-for-proposals.html)
+[https://pyconjp.blogspot.com/2025/05/pycon2025-call-for-sponsors-ja.html](https://pyconjp.blogspot.com/2025/05/pycon2025-call-for-sponsors-ja.html)
 
----
-
-Now, about the third format—**Community posters**—I'll introduce that in a separate article.
-
-**Speakers and Sponsors Still Wanted!**  
-PyCon JP 2025 is still recruiting proposals (presenters) and sponsors!
-
-**PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**
+[https://note.com/24motz/n/n04d2fa25e151](https://note.com/24motz/n/n04d2fa25e151)

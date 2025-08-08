@@ -1,90 +1,110 @@
 ---
 lang: en
-title: What is an Early Bird Ticket? - PyCon JP 2025 Chair's Report
+title: PyCon JP 2025 - What are early bird tickets?
 layout: default
 permalink: /early-bird-tickets-explained-en.html
-team: chair
 ---
 
-Hello, this is Nishimotz, the Chair of PyCon JP 2025.
+PyCon JP 2025 will be held at the Hiroshima International Conference Center from September 26 to 28, 2025 (the last day is development sprints). [https://note.com/24motz/n/n4f6801257221](https://note.com/24motz/n/n4f6801257221)
 
-PyCon JP 2025 will be held at Hiroshima International Conference Center from September 26-28, 2025 (the final day is for development sprints). PyCon JP is Japan's largest Python community event, an international nonprofit conference organized primarily by Python community members.
+PyCon JP is Japan's largest Python community event, a non-profit international conference organized mainly by Python community members. [https://pyconjp.connpass.com/event/359523/](https://pyconjp.connpass.com/event/359523/)
 
-Today I want to explain PyCon JP 2025's **Early Bird Tickets**.
+This article is day 62 of my note continuous posting [#100-day challenge](https://note.com/hashtag/100%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8) as the chair.
 
-*This post is based on my [note article "What is an Early Bird Ticket?"](https://note.com/24motz/n/n8db01d93006f) from July 25, part of my #100-day challenge.*
+Actually, we had already started sales, but we published the ticket sales announcement on the official blog. [https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html](https://pyconjp.blogspot.com/2025/07/pycon-jp-2025-tickets-ja.html) [https://note.com/24motz/n/n662c94e30e5c](https://note.com/24motz/n/n662c94e30e5c)
 
-## What Does "Early Bird" Mean?
+Today I'll explain PyCon JP 2025's "early bird tickets."
 
-"Early Bird" literally refers to birds that wake up early. This comes from the English proverb "The early bird catches the worm," which is equivalent to the Japanese saying "早起きは三文の徳" (early rising brings small benefits).
+## What does "early bird" mean?
 
-From this proverb, the term "early bird" has come to mean "early purchase discounts" in events and services. Our PyCon JP 2025 Early Bird tickets offer exactly that—conference participation at a more affordable price than regular tickets.
+"Early Bird," literally translated, means "early-rising bird."
+This comes from the English proverb "The early bird catches the worm."
+It has the same meaning as the Japanese saying "早起きは三文の徳" (early rising brings three coins of profit).
 
-## Why Do We Offer Early Bird Tickets?
+From this proverb, in the events and services field, **"discounts for early purchasers"**, so-called **"early discounts"**, are called "early bird."
 
-You might wonder, "Why intentionally offer cheaper tickets?" There are several important reasons behind this from our organizing team's perspective:
+PyCon JP 2025's early bird tickets are, as the name suggests, **advance sale tickets that let you participate in the conference at a better price than regular pricing**.
 
-### Gratitude to Our Enthusiastic Community
+## Why are there early bird tickets?
 
-We want to express our appreciation to community members who consistently care about PyCon JP and eagerly commit to attending from the early announcement stages. The discounted pricing is our way of showing tangible gratitude to these dedicated participants.
+Some might wonder "Why bother preparing cheaper tickets?"
+There are several important feelings from us organizers behind this.
 
-### Early Gauge of Event Scale
+### Gratitude to enthusiastic community members
 
-Early Bird ticket sales help us understand "how many people have strong interest in PyCon JP 2025" at an early stage. This allows us to improve the accuracy of our planning—from venue layout and equipment needs to merchandise orders—leading to smoother, higher-quality conference management.
+We want to somehow express our gratitude to community members who always care about PyCon JP and have enthusiasm from early stages, thinking "I'll definitely participate once it's announced!"
+From this feeling, we offer tickets at better prices.
 
-Your early action becomes a force that makes the conference better for everyone.
+### Early understanding of event scale
 
-## Early Bird vs. Personal Tickets: Only Price Differs
+By looking at early bird ticket sales, we can know early on "how many people have strong interest in PyCon JP 2025."
+This allows us to improve the accuracy of plans for venue layout, necessary equipment, and novelty goods order quantities, leading to smoother, higher-quality conference management.
+Your early action becomes the power to make the conference better.
 
-**There is absolutely no difference in experience or benefits between Early Bird and Personal tickets!** The content, access, and privileges are identical.
+## The only difference from Personal tickets is price
 
-I'm aware that some generous community members choose to purchase Personal tickets even when Early Bird tickets are available, wanting to contribute more to support our operations. We deeply appreciate this generosity.
+There are no differences at all in the experience or rights provided between early bird tickets and personal tickets!
 
-## Important Message for Proposal Submitters
+I know that some people, wanting to contribute more money to the organizers, purchase Personal tickets despite early bird stock being available.
+Thank you.
+I deeply appreciate it.
 
-I have a crucial message for everyone who submitted wonderful presentation proposals:
+## To everyone who submitted proposals
 
-PyCon JP is an event created together by everyone—speakers, attendees, staff, and sponsors—all as "community members." Based on this philosophy of "everyone is both a participant and contributor," we want to build sustainable operations supported by our entire community for the future.
+Here, I have an important announcement for everyone who submitted many wonderful presentation proposals.
 
-Therefore, PyCon JP 2025 operates under these principles:
+PyCon JP is an event created as one by all people - speakers, participants, staff, and sponsors - as "community members."
+Based on this philosophy that "everyone is a participant and contributor," we want to support conference operations together and connect it to the future in a sustainable way.
 
-1. **Speakers also purchase tickets**: We ask speakers to purchase conference tickets like all other attendees (we don't provide speaker-only free tickets)
-2. **No refunds based on proposal results**: Regardless of whether proposals are accepted or rejected, we generally don't offer refunds for purchased tickets
+From this feeling, PyCon JP 2025 has the following basic policies:
 
-### Our Sincere Apology
+First, we ask speakers who will present to purchase conference participation tickets just like other participants. (We don't prepare so-called speaker-only free tickets)
 
-We must apologize for a scheduling issue: we've started ticket sales before announcing proposal acceptance results.
+Also, regardless of proposal acceptance results (accepted/rejected), we generally don't provide refunds for tickets once purchased.
 
-We fully understand that acceptance results are crucial for your participation decisions. Your desire to wait for results before purchasing tickets is completely reasonable, and we sincerely apologize for this challenging timeline.
+On top of this, we must apologize to everyone again.
+Due to scheduling, we had to start ticket sales before announcing proposal acceptance results. [https://twitter.com/pyconjapan/status/1947854939872756019](https://twitter.com/pyconjapan/status/1947854939872756019)
 
-### Our Strong Commitment
+We painfully understand that acceptance results are very important for applicants in deciding participation.
+The feeling of wanting to purchase tickets after waiting for results is completely reasonable, and we sincerely apologize for this schedule.
 
-Despite these difficult conditions, our organizing team has one powerful wish: regardless of presentation acceptance or rejection, we want to create such an outstanding conference that you'll think, "I want to join the PyCon JP 2025 celebration as early as possible!" and "I genuinely want to enjoy connecting with the Python community in Hiroshima as a participant!"
+While presenting such difficult conditions, organizing members have a strong wish.
+That is, regardless of presentation acceptance results, to create the best conference where everyone thinks "I want to decide early to participate in the PyCon JP 2025 festival!" and "I want to truly enjoy interaction with the Python community in Hiroshima as a participant!"
 
-These Early Bird tickets represent our heartfelt gratitude to those who believe in PyCon JP's value itself and enthusiastically declare "I'm coming to Hiroshima!"
+These early bird tickets are our small token of gratitude to those who believe in PyCon JP's value itself and are quick to raise their hands saying "I'm going to Hiroshima!"
 
-## Did You Know About Hiroshima's Prefectural Bird?
+## About sponsor plan participation rights
 
-Let me share some bird trivia related to Early Bird tickets.
+Thank you very much to sponsor companies who always support and show interest in PyCon JP activities.
 
-Hiroshima Prefecture's official bird is the **"Abi" (Common Loon)**, a migratory bird that travels from northern seas to the Seto Inland Sea every winter.
+Sponsor plans include "conference participation rights" according to plan content.
+We will individually contact each company's contact person later through the PyCon JP 2025 sponsor team regarding how to use these participation rights and registration procedures for participant information.
 
-Historically, Hiroshima's waters featured traditional "Abi fishing" where these birds cooperated with humans. This fishing method offers profound insights for us in technology:
+If you have any questions, please feel free to contact the sponsor team.
 
-1. **Abi flocks** use their sharp diving abilities to drive small fish (sand lance) toward the surface
-2. **Larger fish** (sea bream, sea bass) gather to feed on these small fish  
-3. **Experienced fishermen** carefully observe the Abi flocks' movements, quietly position their boats where fish schools form
-4. **Traditional hand-line fishing** precisely catches the fish the Abi have corralled
+## Do you know Hiroshima Prefecture's bird?
 
-This relationship reminds me of **human-AI collaboration**:
+Let me share some bird trivia related to early bird tickets.
 
-- **Abi's "corralling"** = AI's role: AI rapidly analyzes vast amounts of data humans can't handle, discovering valuable patterns and trends (= fish schools)
-- **Fishermen's "catching"** = Human role: Based on AI-provided insights, humans create innovative ideas and develop final business strategies, generating significant value (= catch)
+Hiroshima Prefecture's "prefectural bird" is the "loon," a migratory bird.
+Every winter, it comes to the Seto Inland Sea from the northern seas far away.
+Long ago in Hiroshima's seas, there was traditional "loon fishing" where loons and humans cooperated.
 
-Each utilizing their strengths to achieve results neither could accomplish alone—this hints at future ways of working. I'm excited thinking about it!
+This fishing mechanism is very suggestive for us today, especially those involved in technology.
 
-At PyCon JP 2025, we're sure to see stimulating discussions where cutting-edge technology intersects with human wisdom.
+First, flocks of loons use their sharp diving ability to drive small fish (sand lance) schools near the sea surface.
+Sea bream and sea bass gather targeting those small fish.
+Experienced fishermen carefully observe the loon flock movements and gently bring their boats to where fish schools are forming.
+Then they accurately catch the fish that loons drove up using traditional single-hook fishing (hand fishing). [https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html](https://www.city.kure.lg.jp/soshiki/50/10-abi-toyohama.html)
 
----
+This relationship reminds me of "human-AI collaboration."
+The loons' "driving" is AI's role.
+AI analyzes vast amounts of data that we humans can't handle at high speed and discovers valuable patterns and trends (= fish schools).
+And the fisherman's "catching" is our human role.
+Based on insights AI provides, we generate creative ideas, formulate final business strategies, and create big value (= catch).
 
-**PyCon JP 2025 - "pieces of python, coming together" - September 26-28, Hiroshima**
+Like AI analyzing market data to identify promising trends (loon driving) and humans planning innovative new products from that information (fisherman's catch).
+Each uses their strengths to achieve results that one (bird) alone couldn't accomplish.
+Thinking that hints for future working styles existed in this traditional Hiroshima fishing makes me excited.
+
+At PyCon JP 2025 too, there should be many stimulating discussions where cutting-edge technology intersects with our human wisdom using it. [https://2025.pycon.jp/](https://2025.pycon.jp/)

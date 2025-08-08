@@ -4,6 +4,8 @@ title: "PyCon JP 2025 座長の日報"
 author: "nishimotz"
 description: "PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人として公開する日報です。"
 future: true
+exclude:
+  - _posts/_note_com/
 plugins:
   - jekyll-postcss
 markdown: kramdown

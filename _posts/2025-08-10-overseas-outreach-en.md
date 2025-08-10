@@ -6,6 +6,10 @@ permalink: /overseas-outreach-en.html
 team: chair
 ---
 
+[この記事の日本語版]({{ site.baseurl }}/overseas-outreach-ja.html)もご覧いただけます。
+
+---
+
 Hello, I'm Nishimoto, chair of PyCon JP 2025. Today's topic is about supporting overseas participants.
 
 First, let me explain the barriers that overseas participants face when attending international conferences in Japan, for those who might not be familiar with these challenges.
@@ -47,10 +51,6 @@ I believe now is the time for me to step up as chair.
 PyCon JP 2025 will be held in Hiroshima on September 26-27. Our theme is "Pieces of Python, Coming Together."
 
 We're currently recruiting organizers for PyCon JP 2025. If you're interested, please reach out to us.
-
----
-
-[この記事の日本語版]({{ site.baseurl }}/overseas-outreach-ja.html)もご覧いただけます。
 
 ## Update History
 - 2025-08-10: Initial draft created

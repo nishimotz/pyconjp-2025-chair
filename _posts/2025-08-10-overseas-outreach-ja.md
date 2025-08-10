@@ -5,6 +5,10 @@ permalink: /overseas-outreach-ja.html
 team: chair
 ---
 
+[English version of this article]({{ site.baseurl }}/overseas-outreach-en.html) is also available.
+
+---
+
 PyCon JP 2025座長の西本です。今日は海外からの参加者対応について。
 
 まず、海外から日本の国際会議に参加することのハードルについて、予備知識のない方にも分かりやすく説明したいと思います。
@@ -40,10 +44,6 @@ PyCon JP 2025まであと1ヶ月半ほど。この時期になると、海外か
 海外から参加を検討されている方、何か困ったことがあれば遠慮なくお知らせください。私たちはまだ改善の途中ですが、皆さんの声を真摯に受け止めて、より良いカンファレンスを作っていきます。
 
 今こそ、座長として頑張る時だと思っています。
-
----
-
-[English version of this article]({{ site.baseurl }}/overseas-outreach-en.html) is also available.
 
 ## 更新履歴
 - 2025-08-10: 初稿作成

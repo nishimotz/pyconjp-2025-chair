@@ -5,11 +5,15 @@ permalink: /overseas-outreach-ja.html
 team: chair
 ---
 
-[English version of this article]({{ site.baseurl }}/overseas-outreach-en.html) is also available.
+PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
 
----
+[PyCon JP 2025](https://2025.pycon.jp/) は9月26日〜28日に広島国際会議場で開催されます。最終日は開発スプリントです。
 
-PyCon JP 2025座長の西本です。今日は海外からの参加者対応について。
+*[English version]({{ site.baseurl }}/overseas-outreach-en.html)*
+
+## はじめに
+
+今日は海外からの参加者対応について。
 
 まず、海外から日本の国際会議に参加することのハードルについて、予備知識のない方にも分かりやすく説明したいと思います。
 

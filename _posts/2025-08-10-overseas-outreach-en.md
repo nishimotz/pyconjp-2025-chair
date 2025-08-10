@@ -6,11 +6,15 @@ permalink: /overseas-outreach-en.html
 team: chair
 ---
 
-[この記事の日本語版]({{ site.baseurl }}/overseas-outreach-ja.html)もご覧いただけます。
+This is a daily report published personally by [@nishimotz](https://d.nishimotz.com/aboutme), chair of PyCon JP 2025.
 
----
+[PyCon JP 2025](https://2025.pycon.jp/) will be held from September 26-28 at Hiroshima International Conference Center. The final day is for development sprints.
 
-Hello, I'm Nishimoto, chair of PyCon JP 2025. Today's topic is about supporting overseas participants.
+*[日本語版]({{ site.baseurl }}/overseas-outreach-ja.html)*
+
+## Introduction
+
+Today's topic is about supporting overseas participants.
 
 First, let me explain the barriers that overseas participants face when attending international conferences in Japan, for those who might not be familiar with these challenges.
 

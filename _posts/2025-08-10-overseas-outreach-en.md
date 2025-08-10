@@ -46,11 +46,5 @@ To those considering participating from overseas: if you encounter any difficult
 
 I believe now is the time for me to step up as chair.
 
-## About PyCon JP 2025
-
-PyCon JP 2025 will be held in Hiroshima on September 26-27. Our theme is "Pieces of Python, Coming Together."
-
-We're currently recruiting organizers for PyCon JP 2025. If you're interested, please reach out to us.
-
 ## Update History
 - 2025-08-10: Initial draft created

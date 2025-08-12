@@ -1,7 +1,7 @@
 ---
 title: エンジニアにとっての生成AI「できるはずだ力」とは？
 layout: default
-permalink: /note_com/placeholder.html
+permalink: /note_com/combinatorial-thinking-ja.html
 published: false
 ---
 

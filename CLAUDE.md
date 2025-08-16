@@ -51,6 +51,12 @@ npm install
 - End posts with update history section
 - Theme: "pieces of python, coming together" (unreleased slogan)
 
+### Writing Style Guidelines
+- DO NOT use `**text**` for bold formatting in Markdown content
+- Use clear hierarchical headings (## ### ####) for emphasis instead
+- Keep formatting simple and readable
+- Focus on clear, natural language without excessive formatting
+
 ### Frontmatter Requirements
 Japanese posts:
 ```yaml

@@ -1,5 +1,5 @@
 ---
-title: 海外参加者へのメッセージ - 感謝とお詫び、そして歓迎
+title: 海外参加者にもっと伝えたいことがある？
 layout: default
 permalink: /international-welcome-ja.html
 team: chair

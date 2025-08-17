@@ -3,6 +3,7 @@ lang: en
 title: A Message to International Attendees - Gratitude, Apology, and Welcome
 layout: default
 permalink: /international-welcome-en.html
+published: false
 ---
 
 This is Chair Nishimoto. 39 days until the conference, day 86 of the 100-day challenge.

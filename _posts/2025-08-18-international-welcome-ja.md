@@ -2,6 +2,7 @@
 title: 海外参加者へのメッセージ - 感謝とお詫び、そして歓迎
 layout: default
 permalink: /international-welcome-ja.html
+published: false
 ---
 
 PyCon JP 2025座長の西本です。カンファレンス39日前、100日チャレンジ86日目です。

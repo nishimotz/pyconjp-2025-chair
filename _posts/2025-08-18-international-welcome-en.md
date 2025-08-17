@@ -34,18 +34,18 @@ Regional hosting allows us to create a more intimate and welcoming atmosphere th
 
 ### Language Support
 - Simultaneous interpretation will be provided for keynote speeches
-- English support teams will be on-site
+- Establishing on-site English support teams is recognized as a top priority by the Chair, and preparations are underway
 - Many Japanese attendees are excited to engage in English conversations
 
 ### Financial and Practical Support
 - Travel grant program for remote attendees currently being processed
 - Visa invitation letters available when needed
-- PayPal payment options to avoid international credit card issues
+- PayPal payment options available
 - Early bird tickets still available (fewer than 40 remaining, expected to sell out in August)
 - Special discount tickets for students and those under 25
 
 ### Cultural Bridging
-- Pre-event networking through online meetups
+- Exploring pre-event networking opportunities (the Chair has been continuously engaging with non-Japanese organizing members using Zoom translation)
 - EuroPython Report Session on August 26th (online participation available)
 - Community bonding with local Python groups
 

@@ -1,7 +1,7 @@
 ---
 title: 準備は順調ですか?
 layout: default
-permalink: /placeholder-2025-08-19-ja.html
+permalink: /preparation-status-ja.html
 ---
 
 # 準備は順調ですか?

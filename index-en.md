@@ -5,7 +5,15 @@ permalink: /en/
 lang: en
 ---
 
-# English Posts
+## English Resources
+
+[**PyCon JP 2025**](https://2025.pycon.jp/en)
+
+[**Connpass Event Page**](https://pyconjp.connpass.com/event/359523/)
+
+[**Party Ticket Page**](https://pyconjp.connpass.com/event/361700/)
+
+[**PyCon JP 2025 Inquiry Form**](https://pyconjp.atlassian.net/servicedesk/customer/portal/5)
 
 <ul class="list-none ml-0">
   {% for post in site.posts %}

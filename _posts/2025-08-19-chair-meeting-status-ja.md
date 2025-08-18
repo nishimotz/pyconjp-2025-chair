@@ -1,12 +1,15 @@
 ---
 title: 準備は順調ですか?
+team: chair
 layout: default
-permalink: /preparation-status-ja.html
+permalink: /chair-meeting-status-ja.html
 ---
 
 # 準備は順調ですか?
 
 カンファレンス38日前、100日チャレンジ87日目です。
+
+[English version]({{ site.baseurl }}/chair-meeting-status-en.html)
 
 ## 座長チーム現状把握ミーティング実施
 

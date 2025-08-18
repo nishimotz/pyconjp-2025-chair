@@ -1,13 +1,16 @@
 ---
 lang: en
 title: Is the Preparation Going Smoothly?
+team: chair
 layout: default
-permalink: /preparation-status-en.html
+permalink: /chair-meeting-status-en.html
 ---
 
 # Is the Preparation Going Smoothly?
 
 40 days before the conference, Day 87 of the 100-day challenge.
+
+[日本語版]({{ site.baseurl }}/chair-meeting-status-ja.html)
 
 ## Chair Team Status Meeting Conducted
 

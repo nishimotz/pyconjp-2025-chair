@@ -1,13 +1,13 @@
 ---
-title: 準備は順調ですか?
+title: 準備は順調ですか？
 team: chair
 layout: default
 permalink: /chair-meeting-status-ja.html
 ---
 
-# 準備は順調ですか?
+# 準備は順調ですか？
 
-カンファレンス38日前、100日チャレンジ87日目です。
+[PyCon JP 2025](https://2025.pycon.jp/)座長の西本です。カンファレンス38日前、100日チャレンジ87日目です。
 
 [English version]({{ site.baseurl }}/chair-meeting-status-en.html)
 
@@ -22,7 +22,7 @@ permalink: /chair-meeting-status-ja.html
 - 座長の心配事リスト
 - 予算シートの全項目
 - 2024年引き継ぎドキュメントのタイムライン項目
-- 各チームのタスクリスト
+- 2024年引き継ぎドキュメントの各チームのタスクリスト
 
 これらの項目を緊急度や担当チーム別に仕分けを行い、現在の状況を整理しました。
 

@@ -23,7 +23,7 @@ We conducted detailed checks on the following items:
 - Chair's list of concerns
 - All items in the budget sheet
 - Timeline items from the 2024 handover documentation
-- Task lists for each team
+- Task lists for each team from the 2024 handover documentation
 
 We organized these items by urgency level and responsible teams to clarify our current situation.
 

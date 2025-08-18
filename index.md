@@ -11,27 +11,27 @@ title: Home
 
 [**Party Ticket Page**](https://pyconjp.connpass.com/event/361700/)
 
-[[**PyCon JP 2025 Inquiry Form**]](https://pyconjp.atlassian.net/servicedesk/customer/portal/5)
-
-<div class="image-center">
-![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg)
-</div>
-
-[**noteで100日チャレンジやってます**](https://note.com/24motz/m/m5b9c3affd50b)
-
-[**主催メンバー募集**](https://forms.gle/7irqYKhZVj7AY7LfA)
-
-## 記事カテゴリー
-
-<div class="text-center mt-8 mb-4">
-  <a href="{{ site.baseurl }}/teams/" class="hover:underline">**チーム別記事**</a>
-</div>
+[**PyCon JP 2025 Inquiry Form**](https://pyconjp.atlassian.net/servicedesk/customer/portal/5)
 
 <div class="text-center mt-4 mb-8">
   <a href="{{ site.baseurl }}/en/" class="hover:underline">**English posts**</a>
 </div>
 
+[**主催メンバー募集**](https://forms.gle/7irqYKhZVj7AY7LfA)
+
+## nishimotz / 24motz
+
+<div class="image-center">
+![写真 PyCon JP 2025 Chair!! nishimotz と書かれたスライド前で、黄色のスタッフTシャツを着て立っている]({{ site.baseurl }}/assets/images/54039787103_1aec5222f5_c.jpg)
+</div>
+
 ## 最新記事
+
+[**noteで100日チャレンジやってます**](https://note.com/24motz/m/m5b9c3affd50b)
+
+<div class="text-center mt-8 mb-4">
+  <a href="{{ site.baseurl }}/teams/" class="hover:underline">**チーム別記事**</a>
+</div>
 
 <ul class="list-none ml-0">
   {% for post in site.posts %}

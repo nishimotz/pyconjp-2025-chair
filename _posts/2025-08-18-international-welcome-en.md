@@ -6,9 +6,13 @@ permalink: /international-welcome-en.html
 team: chair
 ---
 
+This is a daily report published personally by [@nishimotz](https://d.nishimotz.com/aboutme), chair of PyCon JP 2025.
+
+[PyCon JP 2025](https://2025.pycon.jp/) will be held from September 26-28 at Hiroshima International Conference Center. The final day is for development sprints.
+
 This article is a message to our international attendees, as of August 18 2025.
 
-[Japanese version]({{ site.baseurl }}/international-welcome-ja.html)
+[Japanese version](https://note.com/24motz/n/n08a850436199)
 
 ## Introduction
 
@@ -17,7 +21,7 @@ I express my heartfelt gratitude to everyone who has decided to come to Hiroshim
 ## Important Information
 
 - Procedures: VISA invitation letters and travel grants are being handled individually.
-- Tickets: Early bird tickets are limited. The official party on Friday, September 26th requires a separate ticket (except for Patron/Business tickets). We'll provide Hiroshima-style cuisine.
+- [Tickets](https://pyconjp.connpass.com/event/359523/): Early bird tickets are limited. [The official party](https://pyconjp.connpass.com/event/361700/) on Friday, September 26th requires a separate ticket (except for Patron/Business tickets). We'll provide Hiroshima-style cuisine.
 - U25 tickets are special discount tickets for those 25 years old and under (not 25 USD).
 - Sprint: Development sprint on Sunday, September 28th is being prepared. Beginners to experienced developers welcome.
 - Special Needs: For accessibility, dietary restrictions, religious considerations, childcare, etc., please contact us through the official inquiry system early. These requests receive top priority.
@@ -80,7 +84,7 @@ Rich historical and cultural depth, culinary culture including okonomiyaki, fres
 
 ## Closing
 
-PyCon JP 2025 is more than a technical event. It's an opportunity to experience Japanese Python community culture, build relationships across borders and languages, and help shape this milestone first regional hosting. Please don't hesitate to reach out when you need help.
+[PyCon JP 2025](https://2025.pycon.jp/) is more than a technical event. It's an opportunity to experience Japanese Python community culture, build relationships across borders and languages, and help shape this milestone first regional hosting. Please don't hesitate to reach out when you need help.
 
 Your journey to Hiroshima begins with one decision. Take that step today.
 

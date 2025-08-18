@@ -24,7 +24,7 @@ I express my heartfelt gratitude to everyone who has decided to come to Hiroshim
 - [Tickets](https://pyconjp.connpass.com/event/359523/): Early bird tickets are limited. [The official party](https://pyconjp.connpass.com/event/361700/) on Friday, September 26th requires a separate ticket (except for Patron/Business tickets). We'll provide Hiroshima-style cuisine.
 - U25 tickets are special discount tickets for those 25 years old and under (not 25 USD).
 - Sprint: Development sprint on Sunday, September 28th is being prepared. Beginners to experienced developers welcome.
-- Special Needs: For accessibility, dietary restrictions, religious considerations, childcare, etc., please contact us through the official inquiry system early. These requests receive top priority.
+- Special Needs: For accessibility, dietary restrictions, religious considerations, childcare, etc., please contact us through [the official inquiry system](https://pyconjp.atlassian.net/servicedesk/customer/portal/5) early. These requests receive top priority.
 
 ## Speakers and Poster Presenters
 

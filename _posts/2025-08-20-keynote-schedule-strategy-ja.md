@@ -2,6 +2,7 @@
 title: 基調講演についてもっと知りたい？
 layout: default
 permalink: /keynote-schedule-strategy-ja.html
+team: chair
 ---
 
 2025年9月26日から28日に広島国際会議場でPyCon JP 2025が開催されます（最終日は開発スプリント）。https://2025.pycon.jp/

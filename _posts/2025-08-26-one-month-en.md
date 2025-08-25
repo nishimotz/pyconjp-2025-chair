@@ -44,27 +44,6 @@ Share progress and concerns to create team reassurance
 Document in records or tickets
 - Example: Payment procedures, responses to questions and inquiries
 
-### Quantifying Anxiety
-
-In the world of cognitive behavioral therapy, there's a method called SUDs (Subjective Units of Distress Scale) that quantifies anxiety on a scale of 0-100.
-
-This is a method for self-evaluating "how anxious am I right now" on a 0-100 point scale.
-
-Examples:
-
-- 0 = No anxiety at all
-- 50 = Quite anxious but tolerable
-- 100 = The strongest anxiety possible
-
-👉 This makes implicit "vague anxiety" visible.
-
-While we don't need to be overly formal about it, expressing feelings numerically—such as "this is anxiety level 80, so I want it reviewed"—makes communication clearer for both empathy-oriented and order-oriented people.
-
-By quantifying anxiety:
-- We can objectively assess the degree of concern
-- It becomes easier to share anxiety levels within the team
-- We can more easily prioritize our responses
-
 ## Balancing Empathy and Order
 
 In considering approaches to these anxieties, I've noticed that teams have different approach styles. Our preparation methods can be broadly categorized into two styles.
@@ -107,6 +86,27 @@ In addition to clarity about rules and deadlines, please add a word of empathy o
 ### What's Important
 
 While achieving both would be ideal, it's okay to rely on teammates for areas where you're not strong.
+
+### Quantifying Anxiety
+
+In the world of cognitive behavioral therapy, there's a method called SUDs (Subjective Units of Distress Scale) that quantifies anxiety on a scale of 0-100.
+
+This is a method for self-evaluating "how anxious am I right now" on a 0-100 point scale.
+
+Examples:
+
+- 0 = No anxiety at all
+- 50 = Quite anxious but tolerable
+- 100 = The strongest anxiety possible
+
+👉 This makes implicit "vague anxiety" visible.
+
+While we don't need to be overly formal about it, expressing feelings numerically—such as "this is anxiety level 80, so I want it reviewed"—makes communication clearer for both empathy-oriented and order-oriented people.
+
+By quantifying anxiety:
+- We can objectively assess the degree of concern
+- It becomes easier to share anxiety levels within the team
+- We can more easily prioritize our responses
 
 ## Individualized Approaches
 

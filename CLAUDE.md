@@ -45,12 +45,10 @@ npm install
 
 ### Content Guidelines (from .clinerules)
 - Japanese posts start with standard introduction mentioning the chair's role
-- Include PyCon JP 2025 event information (September 26-27, Hiroshima)
+- Include PyCon JP 2025 event information (September 26-28, Hiroshima)
 - Include ticket sales information (conference tickets and party tickets are on sale)
-- Include organizer recruitment information when appropriate
 - Use `<div class="image-center">` for centered images
 - End posts with update history section
-- Theme: "pieces of python, coming together" (unreleased slogan)
 
 ### Writing Style Guidelines
 - DO NOT use `**text**` for bold formatting in Markdown content

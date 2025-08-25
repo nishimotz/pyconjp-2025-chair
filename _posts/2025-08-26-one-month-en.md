@@ -115,6 +115,14 @@ Please convey the local perspective to the team. Even sharing photos or atmosphe
 
 Please supplement the invisible parts through records and questions. That becomes help for the team.
 
+### For Those Not Feeling Anxious
+
+If you're not feeling particularly anxious right now, that's wonderful. However, if you're willing:
+
+- Please become a "listener" for other members' anxieties
+- Share your experience and knowledge to help reduce team-wide anxiety
+- Consider whether there might be any risks you're overlooking
+
 ## As Chair
 
 This reflection was inspired by the expression "contours of anxiety" that I heard at a lecture by Takuto Wada (t_wada) in Hiroshima. While I cannot confirm the exact source, I reference it here as representing the TDD philosophy of "turning anxiety into tests."

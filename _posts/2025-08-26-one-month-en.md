@@ -170,10 +170,12 @@ I have a small suggestion for the organizing members reading this article.
 
 This week, why don't you try putting just one anxiety you're feeling into words? Whether it's "somehow worried" or "a bit concerning," anything is fine.
 
+If you'd like to know what kinds of anxieties and concerns others have, please see the "[Food for Thought - FAQ without Answers](/food-for-thought-en.html)" I created. While this was compiled as questions that organizing members might receive from participants, it can also be read as a list of anxieties and concerns that many people may have.
+
 If you're willing, please also try using the SUDs scale. Expressing feelings like "this matter is about anxiety level 30" or "that one is 70, so I want to consult about it early" can help clarify your own feelings and make them easier to communicate to the team.
 
 I believe this will be the first step toward creating reassurance for the entire team.
 
 ### Update History
 
-- 2025-08-26: Initial publication
+- 2025-08-26: Added reference to Food for Thought

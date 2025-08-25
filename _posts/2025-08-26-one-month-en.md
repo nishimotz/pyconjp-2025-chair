@@ -87,6 +87,27 @@ In addition to clarity about rules and deadlines, please add a word of empathy o
 
 While achieving both would be ideal, it's okay to rely on teammates for areas where you're not strong.
 
+### Quantifying Anxiety
+
+In the world of cognitive behavioral therapy, there's a method called SUDs (Subjective Units of Distress Scale) that quantifies anxiety on a scale of 0-100.
+
+This is a method for self-evaluating "how anxious am I right now" on a 0-100 point scale.
+
+Examples:
+
+- 0 = No anxiety at all
+- 50 = Quite anxious but tolerable
+- 100 = The strongest anxiety possible
+
+👉 This makes implicit "vague anxiety" visible.
+
+While we don't need to be overly formal about it, expressing feelings numerically—such as "this is anxiety level 80, so I want it reviewed"—makes communication clearer for both empathy-oriented and order-oriented people.
+
+By quantifying anxiety:
+- We can objectively assess the degree of concern
+- It becomes easier to share anxiety levels within the team
+- We can more easily prioritize our responses
+
 ## Individualized Approaches
 
 In striving for a balance between empathy and order, what's even more important is considering individual diversity. The reason I feel that we must find answers tailored to each individual is that we all have diverse backgrounds and situations.
@@ -148,6 +169,8 @@ But that's exactly why I think we can become a strong team.
 I have a small suggestion for the organizing members reading this article.
 
 This week, why don't you try putting just one anxiety you're feeling into words? Whether it's "somehow worried" or "a bit concerning," anything is fine.
+
+If you're willing, please also try using the SUDs scale. Expressing feelings like "this matter is about anxiety level 30" or "that one is 70, so I want to consult about it early" can help clarify your own feelings and make them easier to communicate to the team.
 
 I believe this will be the first step toward creating reassurance for the entire team.
 

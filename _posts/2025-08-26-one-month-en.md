@@ -170,6 +170,8 @@ I have a small suggestion for the organizing members reading this article.
 
 This week, why don't you try putting just one anxiety you're feeling into words? Whether it's "somehow worried" or "a bit concerning," anything is fine.
 
+If you're willing, please also try using the SUDs scale. Expressing feelings like "this matter is about anxiety level 30" or "that one is 70, so I want to consult about it early" can help clarify your own feelings and make them easier to communicate to the team.
+
 I believe this will be the first step toward creating reassurance for the entire team.
 
 ### Update History

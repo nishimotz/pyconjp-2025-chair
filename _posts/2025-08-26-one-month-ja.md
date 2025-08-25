@@ -7,6 +7,8 @@ team: chair
 
 PyCon JP 2025 座長 [@nishimotz](https://d.nishimotz.com/aboutme) が個人として公開する日報です。
 
+[English version]({{ site.baseurl }}/one-month-en.html)
+
 開催まであと31日となりました。
 
 準備も佳境に入り、まだ十分に活躍できていない人がいる現実、いくつかの課題はこのままでは間に合わないという焦りを感じて、座長チームが動き出しています。

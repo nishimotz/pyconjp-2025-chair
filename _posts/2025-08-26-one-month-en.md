@@ -44,6 +44,18 @@ Share progress and concerns to create team reassurance
 Document in records or tickets
 - Example: Payment procedures, responses to questions and inquiries
 
+### Quantifying Anxiety
+
+In the world of cognitive behavioral therapy, there's a method of quantifying anxiety on a scale of 0-100.
+This approach involves making "vague anxiety" visible and actionable rather than leaving it as is.
+
+While we don't need to be overly formal about it, expressing feelings numerically—such as "this is anxiety level 80, so I want it reviewed"—makes communication clearer for both empathy-oriented and order-oriented people.
+
+By quantifying anxiety:
+- We can objectively assess the degree of concern
+- It becomes easier to share anxiety levels within the team
+- We can more easily prioritize our responses
+
 ## Balancing Empathy and Order
 
 In considering approaches to these anxieties, I've noticed that teams have different approach styles. Our preparation methods can be broadly categorized into two styles.

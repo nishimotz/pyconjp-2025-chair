@@ -87,7 +87,7 @@ In addition to clarity about rules and deadlines, please add a word of empathy o
 
 While achieving both would be ideal, it's okay to rely on teammates for areas where you're not strong.
 
-### Quantifying Anxiety
+## Quantifying Anxiety
 
 In the world of cognitive behavioral therapy, there's a method called SUDs (Subjective Units of Distress Scale) that quantifies anxiety on a scale of 0-100.
 
@@ -99,7 +99,7 @@ Examples:
 - 50 = Quite anxious but tolerable
 - 100 = The strongest anxiety possible
 
-👉 This makes implicit "vague anxiety" visible.
+This makes implicit "vague anxiety" visible.
 
 While we don't need to be overly formal about it, expressing feelings numerically—such as "this is anxiety level 80, so I want it reviewed"—makes communication clearer for both empathy-oriented and order-oriented people.
 

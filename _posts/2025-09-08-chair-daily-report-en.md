@@ -78,6 +78,37 @@ We're making final preparations to ensure that participants coming from afar can
 
 At this 18-day mark, I'm feeling a mix of nervousness and excitement. The results of our preparations with many organizing members are about to take shape.
 
+## Organizational Insights for Future Chairs
+
+At this final stage, I'd like to share important insights for future chairs and organizing members.
+
+### Manual Design Philosophy Clarification
+
+Through this year's operations, we faced a fundamental question: **"Should manuals be experienced members' reminders or careful support for beginners?"**
+
+Looking at our current training and operational materials:
+- **For beginners**: Comprehension quizzes, detailed procedures, "not knowing what to do is the chair team's responsibility"
+- **For experienced members**: Philosophical discussions, "what's not in the manual is the chair's job", reliance on expertise
+
+This **ambiguity in design philosophy** led to increased individual support costs and delays in standardization.
+
+### Member Management Systematization Challenges
+
+We also identified clear member management challenges:
+- Dependence on "self-reporting" for workload management
+- Chair/leader dependency in task assignment
+- Lack of systems to measure training effectiveness
+
+### Addressing "Too Accommodating" Criticism
+
+While we may have over-emphasized individual accommodation, the human-centered approach is core to PyCon JP's values. The key is:
+
+1. **Core Standardization**: Legal/ethical requirements, basic workflows
+2. **Peripheral Individualization**: Participation styles, personal circumstances
+3. **System-Enabled Efficiency**: Data-driven reduction of individual support costs
+
+I strongly recommend future chairs focus on **appropriate separation of standardization and individualization**.
+
 Let's continue without letting our guard down, but also without overexerting ourselves, as we all work together to create an excellent PyCon JP 2025.
 
 ## Update History

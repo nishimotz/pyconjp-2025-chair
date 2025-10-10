@@ -116,6 +116,7 @@ I frequently returned to the Zen of Python when making decisions and running the
 - We basically followed the established practice in PyCon JP for Google Docs and Slack.
 - Communication in English with organizers was a persistent challenge; we eventually created `prj-international`, an English‑only channel.
 - Instead of the long‑used `random` channel, we intentionally created `2025-random`, and ultimately positioned it for “ongoing introductions”.
+- Not exactly a namespace issue, but inconsistent display names across Slack, Jira, Zoom, and connpass made coordination hard from the chair’s perspective. PyCon JP Slack has a “name++” kudos culture, but because accounts were hard to match, I refrained from using it actively.
 
 ## Closing
 

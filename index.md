@@ -27,7 +27,7 @@ title: Home
 
 ## 最新記事
 
-[**noteで100日チャレンジやってます**](https://note.com/24motz/m/m5b9c3affd50b)
+[**noteで100日チャレンジやってました**](https://note.com/24motz/m/m5b9c3affd50b)
 
 <div class="text-center mt-8 mb-4">
   <a href="{{ site.baseurl }}/teams/" class="hover:underline">**チーム別記事**</a>

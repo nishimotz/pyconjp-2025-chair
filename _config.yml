@@ -2,7 +2,7 @@ url: "https://pyconjp-2025-chair.nishimotz.com/"
 baseurl: ""
 title: "PyCon JP 2025 座長の日報"
 author: "nishimotz"
-description: "PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人として公開する日報です。"
+description: "PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) が個人として公開する日報のアーカイブです。"
 future: true
 exclude:
   - _posts/_note_com/

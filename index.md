@@ -5,19 +5,13 @@ title: Home
 
 {{ site.description }}
 
+> **PyCon JP 2025は終了しました**（2025年9月26-28日開催）。このサイトは座長の日報のアーカイブです。
+
 [**PyCon JP 2025**](https://2025.pycon.jp/)
-
-[**Connpass Event Page**](https://pyconjp.connpass.com/event/359523/)
-
-[**Party Ticket Page**](https://pyconjp.connpass.com/event/361700/)
-
-[**PyCon JP 2025 Inquiry Form**](https://pyconjp.atlassian.net/servicedesk/customer/portal/5)
 
 <div class="text-center mt-4 mb-8">
   <a href="{{ site.baseurl }}/en/" class="hover:underline">**English posts**</a>
 </div>
-
-[**主催メンバー募集**](https://forms.gle/7irqYKhZVj7AY7LfA)
 
 ## nishimotz / 24motz
 

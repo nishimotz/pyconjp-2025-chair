@@ -39,10 +39,10 @@ PyCon JP 2025 は2025年9月26日〜28日に広島国際会議場にて開催さ
 22. [開発スプリントってなに？](https://note.com/24motz/n/na098605b08ac?magazine_key=m5b9c3affd50b)（97日目）（8月29日）
 23. [ドキュメンタリー映画が明かす真実とは？](https://note.com/24motz/n/n8e1ea5d42adf?magazine_key=m5b9c3affd50b)（98日目）（8月30日）
 24. [nishimotz はふだん何をしているの？](https://note.com/24motz/n/n53d1b338c9e6?magazine_key=m5b9c3affd50b)（99日目）（8月31日）
-
-## 100日達成（9月上旬）
-
 25. [開発スプリントでやりたいことがある？](https://note.com/24motz/n/nd996f1377921?magazine_key=m5b9c3affd50b)（100日目）（9月1日）
+
+## カウントダウン（9月2日〜25日）
+
 26. [開催まであと24日 お問い合わせメッセージを共有しながら準備中](https://note.com/24motz/n/nec29a0cef63a?magazine_key=m5b9c3affd50b)（101日目）（9月2日）
 27. [開催まであと23日 タイムテーブル公開](https://note.com/24motz/n/n9e7f7d05dee4?magazine_key=m5b9c3affd50b)（102日目）（9月3日）
 28. [開催まであと22日 発表者向けガイド](https://note.com/24motz/n/n66948909523f?magazine_key=m5b9c3affd50b)（103日目）（9月4日）
@@ -51,9 +51,6 @@ PyCon JP 2025 は2025年9月26日〜28日に広島国際会議場にて開催さ
 31. [開催まであと19日 PyCon JP TV #56](https://note.com/24motz/n/n096fc75981ab?magazine_key=m5b9c3affd50b)（106日目）（9月7日）
 32. [開催まであと18日 Day2 パネルディスカッションの情報が更新されました](https://note.com/24motz/n/n58fd7973d9b6?magazine_key=m5b9c3affd50b)（107日目）（9月8日）
 33. [開催まであと17日 Findy Drinkup PyCon JP 2025 Day 0](https://note.com/24motz/n/n866485d8bb9a?magazine_key=m5b9c3affd50b)（108日目）（9月9日）
-
-## カウントダウン（9月10日〜25日）
-
 34. [開催まであと16日 広島駅から会場に行くには](https://note.com/24motz/n/n57e079c9ddd2)（109日目）（9月10日）
 35. [開催まであと15日 広島国際会議場の入口](https://note.com/24motz/n/n79dfa00dc655)（110日目）（9月11日）
 36. [開催まであと14日 広島の公共交通の乗り方](https://note.com/24motz/n/nab9a317cb305)（111日目）（9月12日）

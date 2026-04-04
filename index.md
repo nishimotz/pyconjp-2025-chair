@@ -9,6 +9,10 @@ title: Home
 
 [**PyCon JP 2025**](https://2025.pycon.jp/)
 
+> **PyCon JP 2026** は2026年8月21-22日、広島国際会議場で開催予定です。スタッフ募集中！
+
+[**PyCon JP 2026 公式サイト**](https://2026.pycon.jp/)
+
 <div class="text-center mt-4 mb-8">
   <a href="{{ site.baseurl }}/en/" class="hover:underline">**English posts**</a>
 </div>

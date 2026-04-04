@@ -11,6 +11,10 @@ lang: en
 
 [**PyCon JP 2025**](https://2025.pycon.jp/en)
 
+> **PyCon JP 2026** will be held on August 21-22, 2026 at the International Conference Center Hiroshima. Staff volunteers welcome!
+
+[**PyCon JP 2026 Official Site**](https://2026.pycon.jp/)
+
 <ul class="list-none ml-0">
   {% for post in site.posts %}
     {% if post.lang == "en" %}

@@ -5,7 +5,7 @@ title: Home
 
 {{ site.description }}
 
-> **PyCon JP 2025は終了しました**（2025年9月26-28日開催）。このサイトは座長の日報のアーカイブです。
+> **PyCon JP 2025は終了しました**（2025年9月26-28日開催）。
 
 [**PyCon JP 2025**](https://2025.pycon.jp/)
 

@@ -70,6 +70,10 @@ img {
     @apply text-sm bg-rouge-bg p-4 my-8 overflow-x-auto;
 }
 
+.content-box blockquote {
+    @apply bg-gray-100 rounded-lg px-6 py-4 my-6 text-center not-italic;
+}
+
 blockquote {
     @apply border-l-4 border-gray-400 pl-4 italic my-4;
 }

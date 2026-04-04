@@ -5,6 +5,9 @@ permalink: /note-articles-summary-ja.html
 team: chair
 ---
 
+> この記事は [note.com 100日チャレンジ](https://note.com/24motz/m/m5b9c3affd50b) のミラーです。
+
+
 こんにちは、PyCon JP 2025 座長のにしもつです。
 
 2025年9月26日から28日に広島国際会議場で PyCon JP 2025 が開催されます（最終日は開発スプリント）。PyCon JP は、日本最大の Python コミュニティイベントで、Python コミュニティメンバーが主体となって運営する非営利の国際的なカンファレンスです。

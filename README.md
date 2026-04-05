@@ -26,6 +26,3 @@ bundle install --path vendor/bundle
 npm install
 ```
 
-## コンテンツのガイドライン
-
-投稿作成のルールは `.clinerules` を参照してください。

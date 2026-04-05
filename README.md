@@ -1,29 +1,31 @@
 # pyconjp-2025-chair
 
-## 開発環境
+PyCon JP 2025 座長 [@nishimotz](https://github.com/nishimotz) の日報ブログです。
+
+サイト: https://pyconjp-2025-chair.nishimotz.com/
+
+## 開発環境のセットアップ
 
 ```shell
-% bundle install
-% npm i
-% bundle exec jekyll serve --host 0.0.0.0 --incremental
+bundle install
+npm install
 ```
 
-## Work with Devin
-
-### Update Dependencies
-
-```shell
-cd ~ && cd ~/repos/pyconjp-2025-chair && sudo apt install -y ruby-full build-essential ruby-dev && sudo gem install bundler && bundle install --path vendor/bundle && npm i
-```
-
-### Run App
+### 開発サーバーの起動
 
 ```shell
 bundle exec jekyll serve --host 0.0.0.0 --incremental
 ```
 
-### Repo Note
+### Linux 環境での追加セットアップ
 
 ```shell
-read .clinerules
+sudo apt install -y ruby-full build-essential ruby-dev
+sudo gem install bundler
+bundle install --path vendor/bundle
+npm install
 ```
+
+## コンテンツのガイドライン
+
+投稿作成のルールは `.clinerules` を参照してください。
